@@ -1,0 +1,19 @@
+{
+  "name": "sr3-data",
+  "version": "1.0.0",
+  "description": "Shadowrun Data in different formats",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/criticalfault/sr3-data.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/criticalfault/sr3-data/issues"
+  },
+  "homepage": "https://github.com/criticalfault/sr3-data#readme"
+}
