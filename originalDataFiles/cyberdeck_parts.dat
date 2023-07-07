@@ -1,0 +1,164 @@
+!0-12|Cyberdeck Other|5|Availability|$Cost|Street Index|Legality|Book.Page|
+1-Cyberdeck system additions
+2-Off-line Storage
+3-* Off-line Store 100 Mp          12|2/24hrs|550|1|Legal|sr3.304|
+3-* Off-line Store 200 Mp          12|2/24hrs|1050|1|Legal|sr3.304|
+3-* Off-line Store 300 Mp          12|2/24hrs|1550|1|Legal|sr3.304|
+3-* Off-line Store 400 Mp          12|2/24hrs|2050|1|Legal|sr3.304|
+3-* Off-line Store 500 Mp          12|2/24hrs|2550|1|Legal|sr3.304|
+3-* Off-line Store 600 Mp          12|2/24hrs|3050|1|Legal|sr3.304|
+3-* Off-line Store 700 Mp          12|2/24hrs|3550|1|Legal|sr3.304|
+3-* Off-line Store 800 Mp          12|2/24hrs|4050|1|Legal|sr3.304|
+3-* Off-line Store 900 Mp          12|2/24hrs|4550|1|Legal|sr3.304|
+3-* Off-line Store 1000 Mp         12|2/24hrs|5050|1|Legal|sr3.304|
+3-* Off-line Store 1100 Mp         12|2/24hrs|5550|1|Legal|sr3.304|
+3-* Off-line Store 1200 Mp         12|2/24hrs|6050|1|Legal|sr3.304|
+3-* Off-line Store 1300 Mp         12|2/24hrs|6550|1|Legal|sr3.304|
+3-* Off-line Store 1400 Mp         12|2/24hrs|7050|1|Legal|sr3.304|
+3-* Off-line Store 1500 Mp         12|2/24hrs|7550|1|Legal|sr3.304|
+!  Make your own !!
+2-Response increase
+3-* CybDeck: Response Inc[1]       12|6/48hrs|25000|1|Legal|sr2.???|
+3-* CybDeck: Response Inc[2]       12|8/72hrs|100000|2|Legal|sr2.???|
+3-* CybDeck: Response Inc[3]       12|12/7days|250000|2|Legal|sr2.???|
+2-Miscellaneous Components
+3-* Battery Pack                   12|Always|25|1|Legal|mat.169|
+3-* Chip Reader                    12|Always|200|0.75|Legal|mat.169|
+3-* Disk Drive                     12|Always|200|1|Legal|mat.169|
+3-* Display Screen                 12|2/24hrs|100|1|Legal|mat.169|
+3-* Hitcher Jack                   12|2/48hrs|250|1|Legal|sr3.304|
+3-* Keybord                        12|Always|50|0.5|Legal|mat.169|
+3-* Micro-Camcorder                12|6/48hrs|2500|2|8P-U|mat.169|
+3-* Microphone                     12|Always|50|0.5|Legal|mat.169|
+3-* Passkey Reader (Blank)         12|2/24hrs|250|2|9P-V|mat.169|
+3-* Power Cord                     12|4/48hrs|15|1|Legal|mat.169|
+3-* Printer                        12|Always|100|1|Legal|mat.169|
+3-* Trode Jack                     12|Always|500|1|8P-U|mat.169|
+3-* VR Kit                         12|Always|250|1|Legal|mat.169| 
+3-* Vidscreen Display              12|2/24hrs|100|1|Legal|sr3.304|
+3-* Induction Adaptor              12|2/24hrs|100|1|Legal|sr3.304|
+2-Casing
+3-* Casing (Rating 3)              12|2/12hrs|100|0.5|Legal|mat.169| 
+3-* Casing (Rating 6)              12|6/72hrs|1600|2|Legal|mat.169|  
+3-* Casing (Rating 10)             12|10/120hrs|3600|2|Legal|mat.169|
+2-Credistick Readers
+3-* Credistick Reader (Rating 1)   12|Always|12000|1|Legal|mat.169|
+3-* Credistick Reader (Rating 2-3) 12|Always|60000|1|Legal|mat.169|
+3-* Credistick Reader (Rating 4-5) 12|Always|100000|1|Legal|mat.169|
+3-* Credistick Slot                12|Always|50|1|Legal|mat.169|
+2-Microwave Dishes
+3-* Microwave Dish (Standard)      12|6/1wk|5000|1|Legal|mat.169|
+3-* Microwave Dish (Large)         12|8/2wks|10000|1|Legal|mat.169|
+3-* Microwave Dish (Fixed Base)    12|8/1mo|2500|1|Legal|mat.169|
+2-Satellite Dishes
+3-* Satellite Dish (Standard)      12|5/48hrs|800|1|Legal|mat.169|
+3-* Satellite Dish (Large)         12|6/48hrs|1200|1|Legal|mat.169|
+3-* Satellite Dish (Fixed Base)    12|5/1wk|900|1|Legal|mat.169|
+2-Scanners
+3-Finger/Thumbprint
+4-* Finger/Thumbprint Scanner [1]  12|1/72hrs|200|1|Legal|mat.169|
+4-* Finger/Thumbprint Scanner [3]  12|3/72hrs|600|1|Legal|mat.169|
+4-* Finger/Thumbprint Scanner [6]  12|6/72hrs|1200|1|Legal|mat.169|
+3-Palmprint
+4-* Palmprint Scanner Rating [2]   12|3/72hrs|600|2|Legal|mat.169|
+4-* Palmprint Scanner Rating [5]   12|6/72hrs|1500|2|Legal|mat.169|
+4-* Palmprint Scanner Rating [8]   12|9/72hrs|2400|2|Legal|mat.169|
+3-Retinal
+4-* Retinal Scanner Rating [6]     12|8/72hrs|6000|3|Legal|mat.169|
+4-* Retinal Scanner Rating [8]     12|10/72hrs|8000|3|Legal|mat.169|
+4-* Retinal Scanner Rating [10]    12|12/72hrs|10000|3|Legal|mat.169|
+3-Text/Picture Scanner
+3-* Text/Picture Scanner           12|Always|100|1|Legal|mat.169|
+2-Signal Locator
+3-Standard
+4-* Standard Locator Rating [1]    12|1/48hrs|200|1.5|8P-U|mat.169|
+4-* Standard Locator Rating [3]    12|3/48hrs|600|1.5|8P-U|mat.169|
+4-* Standard Locator Rating [6]    12|6/48hrs|1200|1.5|8P-U|mat.169|
+3-AOD
+4-* AOD Locator Rating [3]         12|3/48hrs|1500|1.5|8P-U|mat.169|
+4-* AOD Locator Rating [6]         12|6/48hrs|3000|1.5|8P-U|mat.169|
+4-* AOD Locator Rating [8]         12|8/48hrs|4000|1.5|8P-U|mat.169|
+2-Simlink 
+3-* Simlink Rating [2]             12|8/2wks|35000|2|8P-U|mat.169|
+3-* Simlink Rating [4]             12|8/2wks|45000|2|8P-U|mat.169|
+3-* Simlink Rating [6]             12|8/2wks|55000|2|8P-U|mat.169|
+2-Temporary Satellite Dish Components
+3-* (Sat. Dish) Electronics        12|4/24hrs|1000|0.5|Legal|mat.169|
+3-* (Sat. Dish) Plastic Webbing    12|4/24hrs|5|0.5|Legal|mat.169|
+3-* (Sat. Dish) Spray Polymer      12|4/24hrs|1|0.5|Legal|mat.169|
+2-Touchpads
+3-* Touchpad                       12|Always|50|0.5|Legal|mat.169|
+3-* Touchpad w/ Mouse Adapter      12|Always|60|1|Legal|mat.169|
+3-* Touchpad w/ Trackball Adapter  12|Always|60|1|Legal|mat.169|
+2-Transceiver 
+3-* Transceiver Rating [2]         12|2/48hrs|1000|2|8P-U|mat.169|
+3-* Transceiver Rating [4]         12|4/48hrs|2000|2|8P-U|mat.169|
+3-* Transceiver Rating [6]         12|6/48hrs|3000|2|8P-U|mat.169|
+2-Vidlink Transmitter 
+3-* Vidlink Transmitter Rating [2] 12|4/1wk|4000|2|8P-U|mat.169|
+3-* Vidlink Transmitter Rating [4] 12|4/1wk|8000|2|8P-U|mat.169|
+3-* Vidlink Transmitter Rating [6] 12|4/1wk|12000|2|8P-U|mat.169|
+2-Cyberterminal Upgrade Components
+3-Active Memory
+4-* Active Memory 100 Mp           12|Always|750|1|Legal|mat.170|
+4-* Active Memory 200 Mp           12|Always|1500|1|Legal|mat.170|
+4-* Active Memory 300 Mp           12|Always|2250|1|Legal|mat.170|
+4-* Active Memory 400 Mp           12|Always|3000|1|Legal|mat.170|
+4-* Active Memory 500 Mp           12|Always|3750|1|Legal|mat.170|
+4-* Active Memory 600 Mp           12|Always|4500|1|Legal|mat.170|
+4-* Active Memory 700 Mp           12|Always|5250|1|Legal|mat.170|
+4-* Active Memory 800 Mp           12|Always|6000|1|Legal|mat.170|
+4-* Active Memory 900 Mp           12|Always|6750|1|Legal|mat.170|
+4-* Active Memory 1000 Mp          12|Always|7500|1|Legal|mat.170|
+4-* Active Memory 1100 Mp          12|Always|8250|1|Legal|mat.170|
+4-* Active Memory 1200 Mp          12|Always|9000|1|Legal|mat.170|
+4-* Active Memory 1300 Mp          12|Always|9750|1|Legal|mat.170|
+4-* Active Memory 1400 Mp          12|Always|10500|1|Legal|mat.170|
+4-* Active Memory 1500 Mp          12|Always|11250|1|Legal|mat.170|
+!  Make your own !!
+3-I/O Speed
+4-* I/O Speed 100                  12|Always|3500|1|Legal|mat.170|
+4-* I/O Speed 200                  12|Always|7000|1|Legal|mat.170|
+4-* I/O Speed 300                  12|Always|10500|1|Legal|mat.170|
+4-* I/O Speed 400                  12|Always|14000|1|Legal|mat.170|
+4-* I/O Speed 500                  12|Always|17500|1|Legal|mat.170|
+4-* I/O Speed 600                  12|Always|21000|1|Legal|mat.170|
+!  Make your own !!
+3-Miscellaneous Upgrades
+4-* Maser Interface                12|Always|3000|1|Legal|mat.170|
+4-* Matrix Interface (5m cable)    12|Always|40|1|Legal|mat.170|
+4-* Ports (FUPs)                   12|Always|235|1|Legal|mat.170|
+3-Storage Memory
+4-* Storage Memory 100 Mp          12|Always|600|1|Legal|mat.170|
+4-* Storage Memory 200 Mp          12|Always|1200|1|Legal|mat.170|
+4-* Storage Memory 300 Mp          12|Always|1800|1|Legal|mat.170|
+4-* Storage Memory 400 Mp          12|Always|2400|1|Legal|mat.170|
+4-* Storage Memory 500 Mp          12|Always|3000|1|Legal|mat.170|
+4-* Storage Memory 600 Mp          12|Always|3600|1|Legal|mat.170|
+4-* Storage Memory 700 Mp          12|Always|4200|1|Legal|mat.170|
+4-* Storage Memory 800 Mp          12|Always|4800|1|Legal|mat.170|
+4-* Storage Memory 900 Mp          12|Always|5400|1|Legal|mat.170|
+4-* Storage Memory 1000 Mp         12|Always|6000|1|Legal|mat.170|
+4-* Storage Memory 1100 Mp         12|Always|6600|1|Legal|mat.170|
+4-* Storage Memory 1200 Mp         12|Always|7200|1|Legal|mat.170|
+4-* Storage Memory 1300 Mp         12|Always|7800|1|Legal|mat.170|
+4-* Storage Memory 1400 Mp         12|Always|8400|1|Legal|mat.170|
+4-* Storage Memory 1500 Mp         12|Always|9000|1|Legal|mat.170|
+!  Make your own !!
+3-Wireless Interface (Device Included)
+4-Cellular
+5-* Cellular Interface Rating [2]  12|2/24hrs|1140|1|Legal|mat.61|
+5-* Cellular Interface Rating [4]  12|4/24hrs|2560|1|Legal|mat.61|
+5-* Cellular Interface Rating [6]  12|6/24hrs|4260|1|Legal|mat.61|
+4-Laser/Microwave
+5-* Laser Interface                12|8/1wk|3060|1|Legal|mat.61|
+5-* Microwave Interface            12|14/3wks|5560|1|Legal|mat.61|
+4-Radio
+5-* Radio Interface Rating [2]     12|2/12hrs|640|1|Legal|mat.61|
+5-* Radio Interface Rating [4]     12|4/12hrs|1560|1|Legal|mat.61|
+5-* Radio Interface Rating [6]     12|6/12hrs|2760|1|Legal|mat.61|
+4-Satellite
+5-* Satellite Interface Rating [2] 12|2/3days|2560|1|Legal|mat.61|
+5-* Satellite Interface Rating [4] 12|4/3days|4560|1|Legal|mat.61|
+5-* Satellite Interface Rating [6] 12|6/3days|6560|1|Legal|mat.61|
+2-* Image Manipulation Software    12|4/48hrs|650|1|Legal|sta2.038|
