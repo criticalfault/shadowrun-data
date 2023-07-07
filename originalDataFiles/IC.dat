@@ -1,0 +1,253 @@
+
+2-IC
+3-Black
+4-* Cerebropathic IC Rating [1]    33|4/14days|1600|1|16|mat.165|
+4-* Cerebropathic IC Rating [2]    33|4/14days|6400|1|16|mat.165|
+4-* Cerebropathic IC Rating [3]    33|4/14days|14400|1|16|mat.165|
+4-* Cerebropathic IC Rating [4]    33|8/14days|51200|1.5|16|mat.165|
+4-* Cerebropathic IC Rating [5]    33|8/14days|80000|1.5|16|mat.165|
+4-* Cerebropathic IC Rating [6]    33|8/14days|115200|1.5|16|mat.165|
+4-* Cerebropathic IC Rating [7]    33|16/28days|381200|2|16|mat.165|
+4-* Cerebropathic IC Rating [8]    33|16/28days|512000|2|16|mat.165|
+4-* Cerebropathic IC Rating [9]    33|16/28days|648000|2|16|mat.165|
+4-* Cerebropathic IC Rating [10]   33|32/60days|1600000|3|16|mat.165|
+4-* Lethal Black IC Rating [1]     33|2/7days|2500|1|25|mat.165|     
+4-* Lethal Black IC Rating [2]     33|2/7days|10000|1|25|mat.165|    
+4-* Lethal Black IC Rating [3]     33|2/7days|22500|1|25|mat.165|    
+4-* Lethal Black IC Rating [4]     33|4/7days|80000|1.5|25|mat.165| 
+4-* Lethal Black IC Rating [5]     33|4/7days|125000|1.5|25|mat.165| 
+4-* Lethal Black IC Rating [6]     33|4/7days|180000|1.5|25|mat.165| 
+4-* Lethal Black IC Rating [7]     33|8/14days|612500|2|25|mat.165| 
+4-* Lethal Black IC Rating [8]     33|8/14days|800000|2|25|mat.165| 
+4-* Lethal Black IC Rating [9]     33|8/14days|1012500|2|25|mat.165| 
+4-* Lethal Black IC Rating [10]    33|16/30days|2500000|3|25|mat.165|
+4-* Non-Lethal Black IC [1]        33|4/14days|1200|1|12|mat.165|     
+4-* Non-Lethal Black IC [2]        33|4/14days|4800|1|12|mat.165|    
+4-* Non-Lethal Black IC [3]        33|4/14days|10800|1|12|mat.165|    
+4-* Non-Lethal Black IC [4]        33|8/14days|38400|1.5|12|mat.165|  
+4-* Non-Lethal Black IC [5]        33|8/14days|60000|1.5|12|mat.165| 
+4-* Non-Lethal Black IC [6]        33|8/14days|86400|1.5|12|mat.165| 
+4-* Non-Lethal Black IC [7]        33|16/28days|294000|2|12|mat.165|  
+4-* Non-Lethal Black IC [8]        33|16/28days|384000|2|12|mat.165|  
+4-* Non-Lethal Black IC [9]        33|16/28days|486000|2|12|mat.165| 
+4-* Non-Lethal Black IC [10]       33|32/60days|1200000|2|12|mat.165|
+4-* Psychotropic IC Rating [1]     33|4/14days|2000|1|20|mat.165|
+4-* Psychotropic IC Rating [2]     33|4/14days|8000|1|20|mat.165|
+4-* Psychotropic IC Rating [3]     33|4/14days|18000|1|20|mat.165|
+4-* Psychotropic IC Rating [4]     33|8/14days|642000|1.5|20|mat.165|
+4-* Psychotropic IC Rating [5]     33|8/14days|100000|1.5|20|mat.165|
+4-* Psychotropic IC Rating [6]     33|8/14days|144000|1.5|20|mat.165|
+4-* Psychotropic IC Rating [7]     33|16/28days|490000|2|20|mat.165|
+4-* Psychotropic IC Rating [8]     33|16/28days|640000|2|20|mat.165|
+4-* Psychotropic IC Rating [9]     33|16/28days|810000|2|20|mat.165|
+4-* Psychotropic IC Rating [10]    33|32/60days|2000000|3|20|mat.165|
+3-Blaster
+4-* Blaster IC Rating [1]          33|4/14days|1000|1|10|mat.165|     
+4-* Blaster IC Rating [2]          33|4/14days|4000|1|10|mat.165|     
+4-* Blaster IC Rating [3]          33|4/14days|9000|1|10|mat.165|     
+4-* Blaster IC Rating [4]          33|8/14days|32000|1.5|10|mat.165|  
+4-* Blaster IC Rating [5]          33|8/14days|50000|1.5|10|mat.165|  
+4-* Blaster IC Rating [6]          33|8/14days|72000|1.5|10|mat.165|  
+4-* Blaster IC Rating [7]          33|16/28days|245000|2|10|mat.165|  
+4-* Blaster IC Rating [8]          33|16/28days|320000|2|10|mat.165|  
+4-* Blaster IC Rating [9]          33|16/28days|405000|2|10|mat.165|  
+4-* Blaster IC Rating [10]         33|32/60days|1000000|3|10|mat.165|
+3-Crippler
+4-* Crippler IC Rating [1]         33|4/14days|600|1|6|mat.165|     
+4-* Crippler IC Rating [2]         33|4/14days|2400|1|6|mat.165|    
+4-* Crippler IC Rating [3]         33|4/14days|5400|1|6|mat.165|    
+4-* Crippler IC Rating [4]         33|8/14days|19200|1.5|6|mat.165| 
+4-* Crippler IC Rating [5]         33|8/14days|30000|1.5|6|mat.165| 
+4-* Crippler IC Rating [6]         33|8/14days|43200|1.5|6|mat.165| 
+4-* Crippler IC Rating [7]         33|16/28days|147000|2|6|mat.165| 
+4-* Crippler IC Rating [8]         33|16/28days|192000|2|6|mat.165| 
+4-* Crippler IC Rating [9]         33|16/28days|243000|2|6|mat.165| 
+4-* Crippler IC Rating [10]        33|32/60days|600000|2|6|mat.165|
+3-Data Bomb
+4-* Data Bomb IC Rating [1]        33|4/14dys|500|1|5|mat.165|
+4-* Data Bomb IC Rating [2]        33|4/14dys|2000|1|5|mat.165|
+4-* Data Bomb IC Rating [3]        33|4/14dys|4500|1|5|mat.165|
+4-* Data Bomb IC Rating [4]        33|8/14dys|16000|1.5|5|mat.165|
+4-* Data Bomb IC Rating [5]        33|8/14dys|25000|1.5|5|mat.165|
+4-* Data Bomb IC Rating [6]        33|8/14dys|36000|1.5|5|mat.165|
+4-* Data Bomb IC Rating [7]        33|16/28ays|122500|2|5|mat.165|
+4-* Data Bomb IC Rating [8]        33|16/28ays|160000|2|5|mat.165|
+4-* Data Bomb IC Rating [9]        33|16/28ays|202500|2|5|mat.165|
+4-* Data Bomb IC Rating [10]       33|32/60days|500000|3|5|mat.165|
+3-Killer
+4-* Killer IC Rating [1]           33|4/14days|800|1|8|mat.165|
+4-* Killer IC Rating [2]           33|4/14days|3200|1|8|mat.165|
+4-* Killer IC Rating [3]           33|4/14days|7200|1|8|mat.165|
+4-* Killer IC Rating [4]           33|8/14days|25600|1.5|8|mat.165|
+4-* Killer IC Rating [5]           33|8/14days|40000|1.5|8|mat.165|
+4-* Killer IC Rating [6]           33|8/14days|57600|1.5|8|mat.165|
+4-* Killer IC Rating [7]           33|16/28days|196000|2|8|mat.165|
+4-* Killer IC Rating [8]           33|16/28days|256000|2|8|mat.165|
+4-* Killer IC Rating [9]           33|16/28days|324000|2|8|mat.165|
+4-* Killer IC Rating [10]          33|32/60days|800000|3|8|mat.165|
+3-Pavlov
+4-* Pavlov IC Rating [1]           33|4/14days|400|1|4|mat.165|
+4-* Pavlov IC Rating [2]           33|4/14days|1600|1|4|mat.165|
+4-* Pavlov IC Rating [3]           33|4/14days|3600|1|4|mat.165|
+4-* Pavlov IC Rating [4]           33|8/14days|12800|1.5|4|mat.165|
+4-* Pavlov IC Rating [5]           33|8/14days|20000|1.5|4|mat.165|
+4-* Pavlov IC Rating [6]           33|8/14days|28800|1.5|4|mat.165|
+4-* Pavlov IC Rating [7]           33|16/28days|98000|2|4|mat.165|
+4-* Pavlov IC Rating [8]           33|16/28days|128000|2|4|mat.165|
+4-* Pavlov IC Rating [9]           33|16/28days|162000|2|4|mat.165|
+4-* Pavlov IC Rating [10]          33|32/60days|400000|3|4|mat.165|
+3-Probe
+4-* Probe IC Rating [1]            33|4/14days|300|1|3|mat.165|     
+4-* Probe IC Rating [2]            33|4/14days|1200|1|3|mat.165|    
+4-* Probe IC Rating [3]            33|4/14days|2700|1|3|mat.165|    
+4-* Probe IC Rating [4]            33|8/14days|9600|1.5|3|mat.165|  
+4-* Probe IC Rating [5]            33|8/14days|15000|1.5|3|mat.165| 
+4-* Probe IC Rating [6]            33|8/14days|21600|1.5|3|mat.165| 
+4-* Probe IC Rating [7]            33|16/28days|73500|2|3|mat.165|  
+4-* Probe IC Rating [8]            33|16/28days|96000|2|3|mat.165|  
+4-* Probe IC Rating [9]            33|16/28days|121500|2|3|mat.165| 
+4-* Probe IC Rating [10]           33|32/60days|300000|2|3|mat.165|
+3-Ripper
+4-* Ripper IC Rating [1]           33|4/14days|800|1|8|mat.165|     
+4-* Ripper IC Rating [2]           33|4/14days|3200|1|8|mat.165|    
+4-* Ripper IC Rating [3]           33|4/14days|7200|1|8|mat.165|    
+4-* Ripper IC Rating [4]           33|8/14days|25600|1.5|8|mat.165| 
+4-* Ripper IC Rating [5]           33|8/14days|40000|1.5|8|mat.165| 
+4-* Ripper IC Rating [6]           33|8/14days|57600|1.5|8|mat.165| 
+4-* Ripper IC Rating [7]           33|16/28days|196000|2|8|mat.165| 
+4-* Ripper IC Rating [8]           33|16/28days|256000|2|8|mat.165| 
+4-* Ripper IC Rating [9]           33|16/28days|324000|2|8|mat.165| 
+4-* Ripper IC Rating [10]          33|32/60days|800000|3|8|mat.165|
+3-Scout
+4-* Scout IC Rating [1]            33|4/14days|500|1|5|mat.165|
+4-* Scout IC Rating [2]            33|4/14days|2000|1|5|mat.165|
+4-* Scout IC Rating [3]            33|4/14days|4500|1|5|mat.165|
+4-* Scout IC Rating [4]            33|8/14days|16000|1.5|5|mat.165|
+4-* Scout IC Rating [5]            33|8/14days|25000|1.5|5|mat.165|
+4-* Scout IC Rating [6]            33|8/14days|36000|1.5|5|mat.165|
+4-* Scout IC Rating [7]            33|16/28days|122500|2|5|mat.165|
+4-* Scout IC Rating [8]            33|16/28days|160000|2|5|mat.165|
+4-* Scout IC Rating [9]            33|16/28days|202500|2|5|mat.165|
+4-* Scout IC Rating [10]           33|32/60days|500000|3|5|mat.165|
+3-Scramble
+4-* Scramble IC Rating [1]         33|4/14days|300|1|3|mat.165|     
+4-* Scramble IC Rating [2]         33|4/14days|1200|1|3|mat.165|    
+4-* Scramble IC Rating [3]         33|4/14days|2700|1|3|mat.165|    
+4-* Scramble IC Rating [4]         33|8/14days|9600|1.5|3|mat.165|  
+4-* Scramble IC Rating [5]         33|8/14days|15000|1.5|3|mat.165| 
+4-* Scramble IC Rating [6]         33|8/14days|21600|1.5|3|mat.165| 
+4-* Scramble IC Rating [7]         33|16/28days|73500|2|3|mat.165|  
+4-* Scramble IC Rating [8]         33|16/28days|96000|2|3|mat.165|  
+4-* Scramble IC Rating [9]         33|16/28days|121500|2|3|mat.165| 
+4-* Scramble IC Rating [10]        33|32/60days|300000|2|3|mat.165|
+3-Sparky
+4-* Sparky IC Rating [1]           33|4/14days|1200|1|12|mat.165|     
+4-* Sparky IC Rating [2]           33|4/14days|4800|1|12|mat.165|    
+4-* Sparky IC Rating [3]           33|4/14days|10800|1|12|mat.165|    
+4-* Sparky IC Rating [4]           33|8/14days|38400|1.5|12|mat.165|  
+4-* Sparky IC Rating [5]           33|8/14days|60000|1.5|12|mat.165| 
+4-* Sparky IC Rating [6]           33|8/14days|86400|1.5|12|mat.165| 
+4-* Sparky IC Rating [7]           33|16/28days|294000|2|12|mat.165|  
+4-* Sparky IC Rating [8]           33|16/28days|384000|2|12|mat.165|  
+4-* Sparky IC Rating [9]           33|16/28days|486000|2|12|mat.165| 
+4-* Sparky IC Rating [10]          33|32/60days|1200000|2|12|mat.165|
+3-Tar Baby
+4-* Tar Baby IC Rating [1]         33|4/14days|500|1|5|mat.165|
+4-* Tar Baby IC Rating [2]         33|4/14days|2000|1|5|mat.165|
+4-* Tar Baby IC Rating [3]         33|4/14days|4500|1|5|mat.165|
+4-* Tar Baby IC Rating [4]         33|8/14days|16000|1.5|5|mat.165|
+4-* Tar Baby IC Rating [5]         33|8/14days|25000|1.5|5|mat.165|
+4-* Tar Baby IC Rating [6]         33|8/14days|36000|1.5|5|mat.165|
+4-* Tar Baby IC Rating [7]         33|16/28days|122500|2|5|mat.165|
+4-* Tar Baby IC Rating [8]         33|16/28days|160000|2|5|mat.165|
+4-* Tar Baby IC Rating [9]         33|16/28days|202500|2|5|mat.165|
+4-* Tar Baby IC Rating [10]        33|32/60days|500000|3|5|mat.165|
+3-Tar Pit
+4-* Tar Pit IC Rating [1]          33|4/14days|1400|1|7|mat.165|
+4-* Tar Pit IC Rating [2]          33|4/14days|5600|1|7|mat.165|
+4-* Tar Pit IC Rating [3]          33|4/14days|12600|1|7|mat.165|
+4-* Tar Pit IC Rating [4]          33|8/14days|448000|1.5|7|mat.165|
+4-* Tar Pit IC Rating [5]          33|8/14days|70000|1.5|7|mat.165|
+4-* Tar Pit IC Rating [6]          33|8/14days|100800|1.5|7|mat.165|
+4-* Tar Pit IC Rating [7]          33|16/28days|343000|2|7|mat.165|
+4-* Tar Pit IC Rating [8]          33|16/28days|448000|2|7|mat.165|
+4-* Tar Pit IC Rating [9]          33|16/28days|567000|2|7|mat.165|
+4-* Tar Pit IC Rating [10]         33|32/60days|1400000|3|7|mat.165|
+3-Trace
+4-* Trace IC Rating [1]            33|4/14days|1000|1|10|mat.165|     
+4-* Trace IC Rating [2]            33|4/14days|4000|1|10|mat.165|     
+4-* Trace IC Rating [3]            33|4/14days|9000|1|10|mat.165|     
+4-* Trace IC Rating [4]            33|8/14days|32000|1.5|10|mat.165|  
+4-* Trace IC Rating [5]            33|8/14days|50000|1.5|10|mat.165|  
+4-* Trace IC Rating [6]            33|8/14days|72000|1.5|10|mat.165|  
+4-* Trace IC Rating [7]            33|16/28days|245000|2|10|mat.165|  
+4-* Trace IC Rating [8]            33|16/28days|320000|2|10|mat.165|  
+4-* Trace IC Rating [9]            33|16/28days|405000|2|10|mat.165|  
+4-* Trace IC Rating [10]           33|32/60days|1000000|3|10|mat.165|
+2-Worms
+3-Crashworm
+4-* Crashworm Rating [1]           33|2/7days|200|1|2|mat.93|     
+4-* Crashworm Rating [2]           33|2/7days|800|1|2|mat.93|     
+4-* Crashworm Rating [3]           33|2/7days|1800|1|2|mat.93|    
+4-* Crashworm Rating [4]           33|4/7days|6400|1.5|2|mat.93|  
+4-* Crashworm Rating [5]           33|4/7days|10000|1.5|2|mat.93| 
+4-* Crashworm Rating [6]           33|4/7days|14400|1.5|2|mat.93| 
+4-* Crashworm Rating [7]           33|8/14days|49000|2|2|mat.93|  
+4-* Crashworm Rating [8]           33|8/14days|64000|2|2|mat.93|  
+4-* Crashworm Rating [9]           33|8/14days|81000|2|2|mat.93|  
+4-* Crashworm Rating [10]          33|16/30days|200000|3|2|mat.93|                                   
+3-Dataworm                     
+4-* Dataworm Rating [1]            33|2/7days|300|1|3|mat.93|     
+4-* Dataworm Rating [2]            33|2/7days|1200|1|3|mat.93|    
+4-* Dataworm Rating [3]            33|2/7days|2700|1|3|mat.93|    
+4-* Dataworm Rating [4]            33|4/7days|9600|1.5|3|mat.93|  
+4-* Dataworm Rating [5]            33|4/7days|15000|1.5|3|mat.93| 
+4-* Dataworm Rating [6]            33|4/7days|21600|1.5|3|mat.93| 
+4-* Dataworm Rating [7]            33|8/14days|73500|2|3|mat.93|  
+4-* Dataworm Rating [8]            33|8/14days|96000|2|3|mat.93|  
+4-* Dataworm Rating [9]            33|8/14days|121500|2|3|mat.93| 
+4-* Dataworm Rating [10]           33|16/30days|300000|2|3|mat.93|
+3-Deathworm                    
+4-* Deathworm Rating [1]           33|2/7days|200|1|2|mat.93|     
+4-* Deathworm Rating [2]           33|2/7days|800|1|2|mat.93|     
+4-* Deathworm Rating [3]           33|2/7days|1800|1|2|mat.93|    
+4-* Deathworm Rating [4]           33|4/7days|6400|1.5|2|mat.93|  
+4-* Deathworm Rating [5]           33|4/7days|10000|1.5|2|mat.93| 
+4-* Deathworm Rating [6]           33|4/7days|14400|1.5|2|mat.93| 
+4-* Deathworm Rating [7]           33|8/14days|49000|2|2|mat.93|  
+4-* Deathworm Rating [8]           33|8/14days|64000|2|2|mat.93|  
+4-* Deathworm Rating [9]           33|8/14days|81000|2|2|mat.93|  
+4-* Deathworm Rating [10]          33|16/30days|200000|3|2|mat.93|
+3-Spawnworm                    
+4-* Spawnworm Rating [1]           33|2/7days|200|1|2|mat.93|     
+4-* Spawnworm Rating [2]           33|2/7days|800|1|2|mat.93|     
+4-* Spawnworm Rating [3]           33|2/7days|1800|1|2|mat.93|    
+4-* Spawnworm Rating [4]           33|4/7days|6400|1.5|2|mat.93|  
+4-* Spawnworm Rating [5]           33|4/7days|10000|1.5|2|mat.93| 
+4-* Spawnworm Rating [6]           33|4/7days|14400|1.5|2|mat.93| 
+4-* Spawnworm Rating [7]           33|8/14days|49000|2|2|mat.93|  
+4-* Spawnworm Rating [8]           33|8/14days|64000|2|2|mat.93|  
+4-* Spawnworm Rating [9]           33|8/14days|81000|2|2|mat.93|  
+4-* Spawnworm Rating [10]          33|16/30days|200000|3|2|mat.93|
+3-Ringworm
+4-* Ringworm Rating [1]            33|2/7days|200|1|2|mat.93|     
+4-* Ringworm Rating [2]            33|2/7days|800|1|2|mat.93|     
+4-* Ringworm Rating [3]            33|2/7days|1800|1|2|mat.93|    
+4-* Ringworm Rating [4]            33|4/7days|6400|1.5|2|mat.93|  
+4-* Ringworm Rating [5]            33|4/7days|10000|1.5|2|mat.93| 
+4-* Ringworm Rating [6]            33|4/7days|14400|1.5|2|mat.93| 
+4-* Ringworm Rating [7]            33|8/14days|49000|2|2|mat.93|  
+4-* Ringworm Rating [8]            33|8/14days|64000|2|2|mat.93|  
+4-* Ringworm Rating [9]            33|8/14days|81000|2|2|mat.93|  
+4-* Ringworm Rating [10]           33|16/30days|200000|3|2|mat.93|
+3-Tapeworm
+4-* Tapeworm Rating [1]            33|2/7days|200|1|2|mat.93|     
+4-* Tapeworm Rating [2]            33|2/7days|800|1|2|mat.93|     
+4-* Tapeworm Rating [3]            33|2/7days|1800|1|2|mat.93|    
+4-* Tapeworm Rating [4]            33|4/7days|6400|1.5|2|mat.93|  
+4-* Tapeworm Rating [5]            33|4/7days|10000|1.5|2|mat.93| 
+4-* Tapeworm Rating [6]            33|4/7days|14400|1.5|2|mat.93| 
+4-* Tapeworm Rating [7]            33|8/14days|49000|2|2|mat.93|  
+4-* Tapeworm Rating [8]            33|8/14days|64000|2|2|mat.93|  
+4-* Tapeworm Rating [9]            33|8/14days|81000|2|2|mat.93|  
+4-* Tapeworm Rating [10]           33|16/30days|200000|3|2|mat.93|

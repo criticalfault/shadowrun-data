@@ -1,0 +1,37 @@
+! 0-11|Cyberdecks|10|Persona|Hardening|Memory|Storage|I/O Speed|Response Increase|Availability|$Cost|Street Index|Book.Page|
+1-Cyberdecks
+2-Stock Cyberdecks
+3-* Allegiance Alpha               11|3|1|100|500|?|?|4/7days|12600|1|sr2.???|
+3-* Allegiance Sigma               11|3|1|200|500|100|0|4/7days|14000|1|sr3.304|
+3-* CATCo Babel                    11|5|2|1000|1000|200|???|?|70000|1|cd.130|
+3-* CMT Avatar                     11|7|4|700|1400|300|1|6/7days|250000|1|sr3.304|
+3-* Fairlight Excalibur            11|12|6|3000|5000|600|3|22/7days|1500000|1|sr3.304|
+3-* Fuchi Cyber-4                  11|6|3|100|500|?|?|4/7days|121400|1|sr2.???|
+3-* Fuchi Cyber-6                  11|8|4|100|500|?|?|6/7days|334500|1|sr2.???|
+3-* Fuchi Cyber-7                  11|10|4|200|1000|?|?|10/7days|1112100|1|sr2.???|
+3-* Kirama LPD-12                  11|1|0|200|200|?|?|4/7days|4815|1|cp.18|
+3-* Novatech Hyperdeck-6           11|6|4|500|1000|240|1|4/7days|125000|1|sr3.304|
+3-* Novatech Slimcase-10           11|10|5|2000|2500|480|2|18/7days|960000|1|sr3.304|
+3-* Radio Shack PCD-100            11|2|0|100|500|?|?|4/7days|6800|1|sr2.???|
+3-* Renraku Kraftwerk-8            11|8|4|1000|2000|360|2|10/7days|400000|1|sr3.304|
+3-* SGI Technologies  "Elysia"     11|4|1|80|160|?|?|4/7days|38675|1|cp.18|
+3-* Sony CTY-360-D                 11|5|3|300|600|200|1|4/7days|70000|1|sr3.304|
+3-* Transys Highlander             11|9|4|1500|2500|400|2|14/7days|600000|1|sr3.304|
+3-* Zetatech Parraline 5750        11|3|1|300|450|?|?|4/7days|19230|1|cp.18|
+2-Internal CyberDecks
+3-* CybDeck Allegiance Sigma       11|3|1|200|500|100|0|4/7days|0|1|sr3.304|
+3-* CybDeck CMT Avatar             11|7|4|700|1400|300|1|6/7days|0|1|sr3.304|
+3-* CybDeck Fairlight Excalibur    11|12|6|3000|5000|600|3|22/7days|0|1|sr3.304|
+3-* CybDeck Fuchi Cyber-4          11|6|3|100|500|?|?|4/7days|0|1|sr2.???|
+3-* CybDeck Novatech Hyperdeck-6   11|6|4|500|1000|240|1|4/7days|0|1|sr3.304|
+3-* CybDeck Novatech Slimcase-10   11|10|5|2000|2500|480|2|18/7days|0|1|sr3.304|
+3-* CybDeck Renraku Krafwerk-8     11|8|4|1000|2000|360|2|10/7days|0|1|sr3.304|
+3-* CybDeck Sony CTY-360-D         11|5|3|300|600|200|1|4/7days|0|1|sr3.304|
+3-* CybDeck Transys Highlander     11|9|4|1500|2500|400|2|14/7days|0|1|sr3.304|
+2-Custom Cyberdecks
+3-* Maxed-out deck (MPCP 4)        11|4|2|500|1100|400|1|6/7days|61409|1|mat.???
+3-* Maxed-out deck (MPCP 6)        11|6|4|700|1500|600|1|6/7days|211649|1|mat.???
+3-* Maxed-out deck (MPCP 7)        11|7|4|800|1500|700|1|6/7days|345211|1|mat.???
+3-* Maxed-out deck (MPCP 8)        11|8|5|900|1700|800|2|6/7days|540409|1|mat.???
+3-* Maxed-out deck (MPCP 10)       11|10|6|1100|2100|1000|2|6/7days|1277985|1|mat.???
+3-* Maxed-out deck (MPCP 12)       11|12|7|1300|2500|1200|3|6/7days|2169617|1|mat.???
