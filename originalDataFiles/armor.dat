@@ -1,0 +1,355 @@
+!0-8|Clothing and Armor|8|Concealability|Ballistic|Impact|Weight|Availability|$Cost|Street Index|Book.Page|
+1-Clothing and armor
+2-Clothing and Riot Shields
+3-* Ordinary Clothing              8|-|-|-|1|Always|50|.8|sr3.284|
+3-* Fine Clothing                  8|-|-|-|1|Always|500|1|sr3.284|
+3-* Tres Chic Clothing             8|-|-|-|1|Always|1000|1|sr3.284|
+3-* Riot Shield, Small             8|-|1|2|2|8/14hrs|1500|2|sr3.284|
+3-* Riot Shield, Large             8|-|2|3|2|8/14days|1500|2|sr3.284|
+3-* Riot Shield, Ballistic         8|-|3|1|2|8/14days|1500|2|sr3.284|
+3-* Riot Shield, Electro (large)   8|2|2|3|3|12/14days|2200|3|sta2.98|
+2-Leather
+3-* Heavy Leather Jacket           8|-|0|2|1|Always|750|.75|sr2.???|
+3-* Heavy Leather Pants            8|-|0|2|1|Always|750|.75|sr2.???|
+3-* Real Leather Jacket            8|-|0|2|1|Always|750|.75|sr3.284|
+3-* Real Leather Pants             8|-|0|2|1|Always|750|.75|sr3.284|
+3-* Synth Leather Jacket           8|-|0|1|1|Always|250|.6|sr3.284|
+3-* Synth Leather Pants            8|-|0|1|1|Always|250|.6|sr3.284|
+2-Armor clothing
+3-* Arasaka Jetsetter Briefcase    8|-|3|3|4.5|4/36hrs|2000|1.2|sr2.???|
+3-* Armor Clothing                 8|10|3|0|2|2/36hrs|500|1|sr3.284|
+3-* Armor Jacket                   8|6|5|3|2|3/36hrs|900|.75|sr3.284|
+3-* Armored Stockings              8|15|+1|0|-|6/72hrs|110|1.1|sr2.???|
+3-* Armor Street Clothes Type 1    8|12|3|1|1.5|3/24hrs|500|.8|sr2.???|
+3-* Armor Street Clothes Type 2    8|12|2|2|1.5|3/24hrs|500|.8|sr2.???|
+3-* Armor Vest                     8|12|2|1|1|2/36hrs|200|.8|sr3.284|
+3-* Armor Vest with Plates         8|10|4|3|2|3/36hrs|600|1|sr3.284|
+3-* Forearm Guards                 8|12|-|1|.2|5/36hrs|250|.75|sr2.???|
+3-* Kevlar Armor Jacket, Light     8|8|3|2|1|2/36hrs|600|.8|sr2.???|
+3-* Kevlar Armor Jacket, Medium    8|6|4|3|1.5|3/36hrs|800|.8|sr2.???|
+3-* Kevlar Armor Jacket, Heavy     8|5|5|4|2|3/36hrs|1000|.8|sr2.???|
+3-* Kevlar T-Shirt/Vest            8|11|2|0|1|4/48hrs|220|2|sr2.???|
+3-* Lined Coat                     8|8|4|2|1|2/24hrs|700|.75|sr3.284|
+3-* Secure Clothing                8|12|3|0|1.5|3/36hrs|450|.9|sr3.284|
+3-* Secure Jacket                  8|9|5|3|3|4/36hrs|850|.8|sr3.284|
+3-* Secure Vest                    8|15|2|1|.75|3/36hrs|175|.9|sr3.284|
+3-* Secure Ultra-Vest              8|14|3|2|2.5|3/36hrs|350|.9|sr3.284|
+3-* Secure Long Coat               8|10|4|2|2|3/24hrs|650|.9|sr3.284|
+2-Armant�
+3-* Armant� "Ancien" Shawl         8|14|1|0|.3|2/48hrs|750|.75|cc.46|
+3-* Armant� "Dallas" Shirt         8|14|.75|0|.3|2/48hrs|600|.75|cc.46|
+3-* Armant� "Dallas" Jacket        8|14|2|2|.3|2/48hrs|1000|.75|cc.46|
+3-* Armant� "Dallas" Short Jacket  8|14|1|.5|.3|2/48hrs|600|.75|cc.46|
+3-* Armant� "Dallas" Slacks        8|14|.5|.25|.3|2/48hrs|400|.75|cc.46|
+3-* Armant� "Dallas" Vest          8|14|3|1|.3|2/48hrs|250|.75|cc.46|
+3-* Armant� "Executive Suite" Tux  8|12|3|1|1|4/48hrs|1100|.75|cc.46|
+3-* Armant� "London Fog" Count     8|12|2|2|1|4/48hrs|600|.75|cc.46|
+3-* Armant� "London Fog" Chairman  8|12|2|2|2|4/48hrs|5000|.75|cc.46|
+3-* Armant� "London Fog" Majesty   8|11|2|2|2|4/48hrs|3000|.75|cc.46|
+3-* Armant� "London Fog" Merlin    8|11|2|2|1|4/48hrs|1500|.75|cc.46|
+3-* Armant� "London Fog" Profsnl   8|13|2|2|2|4/48hrs|1000|.75|cc.46|
+3-* Armant� "Starlight" Dress      8|13|1|1|.75|2/48hrs|4500|.75|cc.46|
+3-* Armant� "Tokyo" Business Suit  8|13|2|1|1|3/48hrs|1000|.75|cp.32|
+3-* Armant� "Venetian" Dress       8|14|1|0|.5|2/48hrs|3500|.75|cc.46|
+2-Eji of Japan
+3-* Eji Armored Cloak              8|14|2|1|1.5|always|500|.75|cb1.37|
+3-* Eji Designer's Jeans           8|-|0|0|1|always|50|.75|cb1.37|
+3-* Eji Lamb's Wool Sweater        8|-|0|0|1|always|60|.75|cb1.37|
+2-Gibson Battlegear
+3-* Gibson Acid-washed Jeans       8|10|2|1|1|4/48hrs|300|1|cb1.37|
+3-* Gibson Denim Jacket            8|9|2|1|1|4/48hrs|1500|1|cb1.37|
+3-* Gibson T-Shirt                 8|10|1|0|.5|4/48hrs|100|1|cb1.37|
+3-* Gibson Sneak Suit Helmet       8|-|+1|+0|1.5|10/5days|1185|2.5|cb1.37|
+3-* Gibson Sneak Suit Diving Suit  8|+4|0|0|2|12/7days|35000|3.5|cb1.37|
+3-* Gibson Sneak Suit Flak Vest    8|+2|2|1|1.5|8/5days|1375|2|cb1.37|
+3-* Gibson Sneak Suit Sneak Suit   8|+4|1|0|1|8/5days|1560|3|cb1.37|
+3-* Gibson Sneak Suit Space Suit   8|+4|1|1|10|14/7days|25000|4.5|cb1.37|
+2-ICON America
+3-* ICON Bomber Jacket             8|-|0|2|1.5|always|900|.9|cb1.37|
+3-* ICON Boots                     8|-|0|0|1|always|450|.8|cb1.37|
+3-* ICON Gun Belt                  8|-|0|0|.25|3/24hrs|180|.9|cb1.37|
+3-* ICON "Gunfighter" Hat          8|-|0|0|.5|always|300|.8|cb1.37|
+3-* ICON Half Boots                8|-|0|0|.75|always|300|.8|cb1.37|
+3-* ICON Long Duster               8|-|0|1|1.5|always|1500|.8|cb1.37|
+3-* ICON Long Skirt                8|-|0|0|1|always|600|.8|cb1.37|
+3-* ICON Miniskirt                 8|-|0|0|.5|always|300|.8|cb1.37|
+3-* ICON Pants                     8|-|0|0|1|always|750|.8|cb1.37|
+3-* ICON Tunic                     8|-|0|1|1|always|660|.8|cb1.37|
+2-Masetto Tech Clothing
+3-* Masetto 'Alessio' Coveralls    8|-|-|-|-|always|200|1|sr2.???|
+3-* Masetto 'Ciampolo' Gloves      8|-|-|-|-|always|40|1|sr2.???|
+3-* Masetto 'Gianni' Helmet        8|-|-|+1|1|4/48hrs|3500|2|sr2.???|
+3-* Masetto 'Guercio' Helmet       8|-|-|+1|1|3/48hrs|600|2|sr2.???|
+3-* Masetto 'Lano' Coveralls       8|6|3|2|1|always|1600|1|sr2.???|
+3-* Masetto 'Pinamonte' Boots      8|-|-|-|-|always|50|1|sr2.???|
+2-Mortimer of London
+3-* Mortimer "Greatcoat" Coat      8|11|4|2|3|6/48hrs|2000|.75|cc.48|
+3-* Mortimer "Ulysses" Coat        8|10|4|2|4|6/48hrs|4000|.75|cc.48|
+3-* Mortimer "Crimson Sky" Jacket  8|12|2|2|2|6/48hrs|1500|.75|cc.48|
+3-* Mortimer "Summit" Coat         8|12|3|2|3|6/48hrs|2500|.75|cc.48|
+2-Nu-Tek Wearman series
+3-* Nu-Tek Wearment Jacket         8|-|0|0|1|3/48hrs|300|.9|cb1.37|
+3-* Nu-Tek Wearman Skirt           8|-|0|0|.75|3/48hrs|200|.9|cb1.37|
+2-Takanaka Exec Line
+3-* Takanaka Exec Briefcase        8|-|0|0|1.5|5/72hrs|600|.8|cb1.37|
+3-* Takanaka Exec Cape             8|-|0|0|1.5|6/72hrs|900|.9|cb1.37|
+3-* Takanaka Exec Cologne          8|-|-|-|-|6/72hrs|150|.9|cb1.37|
+3-* Takanaka Exec Cravat           8|-|0|0|.5|6/72hrs|100|.9|cb1.37|
+3-* Takanaka Exec Armored Topcoat  8|10|4|1|2.5|8/72hrs|2000|.9|cb1.37|
+3-* Takanaka Exec Jacket           8|-|0|0|1|6/72hrs|800|.9|cb1.37|
+3-* Takanaka Exec Monogram Shirt   8|-|0|0|.75|7/72hrs|200|1.1|cb1.37|
+3-* Takanaka Exec Opera Cloak      8|10|3|1|2.5|8/72hrs|1200|.9|cb1.37|
+3-* Takanaka Exec Pants            8|-|0|0|1|6/72hrs|700|.9|cb1.37|
+3-* Takanaka Exec Scarf            8|-|0|0|.25|6/72hrs|75|.9|cb1.37|
+3-* Takanaka Exec Sword Case       8|-|-|-|.5|8/72hrs|300|1|cb1.37|
+3-* Takanaka Exec Tie              8|-|0|0|-|6/72hrs|100|.9|cb1.37|
+3-* Takanaka Exec Top Coat         8|-|0|0|1.5|6/72hrs|1000|.9|cb1.37|
+3-* Takanaka Exec Vest             8|-|0|0|.75|6/72hrs|500|.9|cb1.37|
+2-Uniware
+3-* Uniware Armored Jacket         8|7|3|2|1.5|10/4days|800|1.3|cb1.37|
+3-* Uniware Armored Trenchcoat     8|7|4|3|2|10/4days|900|1.3|cb1.37|
+3-* Uniware Blouse/Shirt           8|-|0|0|.75|8/4days|40|1.2|cb1.37|
+3-* Uniware Boots                  8|-|0|0|1|4/4days|60|1.2|cb1.37|
+3-* Uniware Dress                  8|-|0|0|1.5|6/4days|100|1.2|cb1.37|
+3-* Uniware Jumpsuit               8|-|0|0|1.5|8/4days|150|1.2|cb1.37|
+3-* Uniware Legpads                8|8|2|2|1.5|9/4days|300|1.3|cb1.37|
+3-* Uniware Pants                  8|-|0|0|1|8/4days|70|1.2|cb1.37|
+3-* Uniware Skirt                  8|-|0|0|.75|8/4days|70|1.2|cb1.37|
+3-* Uniware Torso Armor            8|8|2|2|2|10/4days|300|1.3|cb1.37|
+3-* Uniware Utility Belt           8|-|0|0|.5|5/4days|30|1.1|cb1.37|
+3-* Uniware Vest                   8|-|0|0|.5|8/4days|50|1.2|cb1.37|
+2-Vashon Island
+3-* V-Island "Actioneer" Jacket    8|13|1.5|1|1|5/48hrs|500|.75|cc.49|
+3-* V-Island "Actioneer" Slacks    8|14|1|.5|1|5/48hrs|350|.75|cc.49|
+3-* V-Island "Actioneer" Shirt     8|14|1.5|.5|.75|5/48hrs|300|.75|cc.49|
+3-* V-Island "Actioneer" Long Coat 8|13|2|2|2|5/48hrs|1500|.75|cc.49|
+3-* Vashon Island Houndstooth Set  8|varies|varies|varies|varies|6/48hrs|2000|.75|sr2.???|
+3-* Vashon Island Hunt Ball Set    8|varies|varies|varies|varies|5/48hrs|3000|.75|sr2.???|
+3-* V-Island "Sleeping Tiger" Jack.8|10|.5|1|1|5/48hrs|300|.75|cc.49|
+3-* V-Island "Sleeping Tiger" Slac.8|8|.5|1.5|1.25|5/48hrs|1000|.75|cc.49|
+3-* V-Island "Sleeping Tiger" Shir.8|12|.5|.5|1|5/48hrs|400|.75|cc.49|
+3-* V-Island "Sleeping Tiger" Vest 8|10|.5|1|.75|5/48hrs|500|.75|cc.49|
+3-* V-Island "Grand Dame" Gown     8|15|1|1|2|5/48hrs|7500|.75|cc.49|
+2-Victory
+3-* Victory "Industrious" Jumpsuit 8|11|2|0|1|2/24hrs|540|.5|cc.49|
+3-* Victory "Industrious" Coverall 8|9|4|2|3|2/24hrs|800|.5|cc.49|
+3-* Victory "Industrious" Hardhat  8|-|-|+1|.5|2/24hrs|300|.5|cc.49|
+3-* Victory "Industrious" Winter.  8|10|4|4|5|2/24hrs|1000|.75|cc.49|
+3-* Victory "Wild Hunt" C.Jacket   8|6|4|2|2|4/24hrs|1000|1|cc.49|
+3-* Victory "Wild Hunt" C.Jumpsuit 8|9|3|2|1.5|4/24hrs|750|1|cc.49|
+3-* Victory "Wild Hunt" C.Vest     8|8|2|2|1|4/24hrs|400|1|cc.49|
+3-* Victory "Wild Hunt" Lgt Armor  8|12|1|0|1|4/24hrs|400|1|cc.49|
+3-* Victory "Wild Hunt" Hvy Armor  8|10|4|0|3|4/24hrs|600|1|cc.49|
+3-* Victory "Wild Hunt" Fatigues   8|10|2|0|2|2/24hrs|500|1|cc.49|
+3-* Victory "Rapid Transit" Lgt J. 8|8|1|2|1|4/24hrs|250|1|cc.49|
+3-* Victory "Rapid Transit" Hvy J. 8|6|2|4|2|4/24hrs|500|1|cc.49|
+3-* Victory "Rapid Transit" Helmet 8|-|-|+2|.5|4/24hrs|50|1|cc.49|
+3-* Massaging Liners - Accessory   8|-|-|-|+.5|+1/+1wk|+1000|+1|cc.49|
+3-* Plastic Restraint Melters-Acc  8|-|-|-|-|(As Jumpsuit)|+50|1|cc.49|
+2-Zo�
+3-* Zo� "Country Club" Blazer      8|13|3|1|1|4/48hrs|2000|.75|r2.???|
+3-* Zo� "Futura" Blazer            8|13|2|1|1.5|4/48hrs|2500|.75|cc.49|
+3-* Zo� "Futura" Slacks            8|13|1|1|1|4/48hrs|1500|.75|cc.49|
+3-* Zo� "Futura" Sweater           8|13|2|1|1.5|4/48hrs|1000|.75|cc.49|
+3-* Zo� "Heritage" Cultural        8|12|4|2|1.5|10/2months|10000|.75|cc.49|
+3-* Zo� "Highland Laird" Kilt      8|14|4|2|1.5|6/48hrs|2000|.75|sr2.???|
+3-* Zo� "Retrovision" Skirt Suit   8|13|3|1|1.5|4/48hrs|2500|.75|sr2.???|
+3-* Zo� "Second Skin" Bodysuit     8|15|2|2|.25|10/1month|5000|.75|cc.49|
+2-Camouflage
+3-* Camo Full Suit (Desert)        8|-|5|3|2|5/36hrs|1200|1|sr3.284|
+3-* Camo Full Suit (Snow)          8|-|5|3|2|5/36hrs|1200|1|sr3.284|
+3-* Camo Full Suit (Urban)         8|-|5|3|2|5/36hrs|1200|1|sr3.284|
+3-* Camo Full Suit (Woods)         8|-|5|3|2|5/36hrs|1200|1|sr3.284|
+3-* Camo Full Suit (Winter Woods)  8|-|5|3|2|5/36hrs|1200|1|sr3.284|
+3-* Camo Jacket (Desert)           8|-|3|1|1.5|4/36hrs|800|1|sr3.284|
+3-* Camo Jacket (Snow)             8|-|3|1|1.5|4/36hrs|800|1|sr3.284|
+3-* Camo Jacket (Urban)            8|-|3|1|1.5|4/36hrs|800|1|sr3.284|
+3-* Camo Jacket (Woods)            8|-|3|1|1.5|4/36hrs|800|1|sr3.284|
+3-* Camo Jacket (Winter Woods)     8|-|3|1|1.5|4/36hrs|800|1|sr3.284|
+2-Form-fitting body armor
+3-* Form-fitting Armor Lvl [1]     8|-|2|-|.75|3/48hrs|150|1|sr2.???|
+3-* Form-fitting Armor Lvl [2]     8|15|3|1|1.25|4/48hrs|250|1|sr2.???|
+3-* Form-fitting Armor Lvl [3]     8|12|4|1|1.75|4/48hrs|500|1|sr2.???|
+3-* Form-fitting Shirt             8|14|2|0|.75|6/1wk|500|1|cc.51|
+3-* Form-fitting Half-Body Suit    8|13|3|1|1|6/10days|1000|1|cc.51|
+3-* Form-fitting Full-Body Suit    8|12|4|1|1.25|6/2wks|2000|1|cc.51|
+2-Fireproof/fire-resistant clothing
+3-* Fireproof Coat                 8|8|0|2|1|4/48hrs|220|2|cb1.17|
+3-* Fireproof Jacket               8|8|0|2|1|4/48hrs|200|2|cb1.17|
+3-* Fireproof Shirt                8|8|0|1|.5|4/48hrs|130|2|cb1.17|
+3-* Fireproof Hat                  8|8|0|1|-|4/48hrs|130|2|cb1.17|
+3-* Fireproof Skirt                8|8|0|1|1|4/48hrs|150|2|cb1.17|
+3-* Fireproof Pants                8|8|0|2|1.5|4/48hrs|150|2|cb1.17|
+3-* Fireproof Overcoat             8|8|0|2|2|4/48hrs|500|2|cb1.17|
+3-* Fireproof Suit                 8|4|(Special)|(Special)|3|6/72hrs|500|2.5|sr2.???|
+3-* Fire-Resistant Coveralls       8|10|0|3|3.5|10/48hrs|2000|1|sr2.???|
+2-Combat Biker body armor
+3-* Light Combat Biker Armor       8|-|3|2|1.25|4/48hrs|900|1|sr2.???|
+3-* Heavy Combat Biker Armor       8|-|6|5|2.75|4/48hrs|1200|1|sr2.???|
+3-* Combat Bikr Helmet             8|-|+1|+1|.5|5/48hrs|600|2|sr2.???|
+2-Hardened Military Grade Armor
+3-Hardened Military Grade Armor
+4-* Light Military Armor           8|-|7|6|(12+BODY)|18/1mth|25000|3|cc.51|
+4-* Medium Military Armor          8|-|8|7|(14+BODY)|24/1mth|45000|3|cc.51|
+4-* Heavy Military Armor           8|-|9|8|(16+BODY)|28/1mth|70000|3|cc.51|
+4-* Military Helmet                8|-|+2|+3|3|18/1mth|2500|3|cc.51|
+3-Military Helmet Options
+4-* +Elec. Vis. Mag 3              8|-|0|0|0|-|900|2|cc.51|
+4-* +Optical Vis. Mag 3            8|-|0|0|0|-|1200|2|cc.51|
+4-* +Heads Up Disp/100MP           8|-|0|0|0|-|1000|2|cc.51|
+4-* +Low-light Vision              8|-|0|0|0|-|700|2|cc.51|
+4-* +Thermo Vision                 8|-|0|0|0|-|700|2|cc.51|
+4-* +Ultrasound Vision             8|-|0|0|0|-|1000|2|cc.51|
+4-* +Respirator                    8|-|0|0|0|-|500|2|cc.51|
+4-* +Smart Goggles 1               8|-|0|0|0|-|3000|2|cc.51|
+4-* +Smart Goggles 2               8|-|0|0|0|-|3500|2|mm.32|
+4-* +Signal Locator 1              8|-|0|0|0|-|1000|2|cc.51|
+4-* +Signal Locator 2              8|-|0|0|0|-|2000|2|cc.51|
+4-* +Signal Locator 3              8|-|0|0|0|-|3000|2|cc.51|
+4-* +Signal Locator 4              8|-|0|0|0|-|4000|2|cc.51|
+4-* +Signal Locator 5              8|-|0|0|0|-|5000|2|cc.51|
+4-* +Signal Locator 6              8|-|0|0|0|-|6000|2|cc.51|
+4-* +Signal Locator 7              8|-|0|0|0|-|7000|2|cc.51|
+4-* +Signal Locator 8              8|-|0|0|0|-|8000|2|cc.51|
+4-* +Signal Locator 9              8|-|0|0|0|-|9000|2|cc.51|
+4-* +Signal Locator 10             8|-|0|0|0|-|10000|2|cc.51|
+4-* +Tracking Signal 1             8|-|0|0|0|-|100|2|cc.51|
+4-* +Tracking Signal 2             8|-|0|0|0|-|200|2|cc.51|
+4-* +Tracking Signal 3             8|-|0|0|0|-|300|2|cc.51|
+4-* +Tracking Signal 4             8|-|0|0|0|-|400|2|cc.51|
+4-* +Tracking Signal 5             8|-|0|0|0|-|500|2|cc.51|
+4-* +Tracking Signal 6             8|-|0|0|0|-|600|2|cc.51|
+4-* +Tracking Signal 7             8|-|0|0|0|-|700|2|cc.51|
+4-* +Tracking Signal 8             8|-|0|0|0|-|800|2|cc.51|
+4-* +Tracking Signal 9             8|-|0|0|0|-|900|2|cc.51|
+4-* +Tracking Signal 10            8|-|0|0|0|-|1000|2|cc.51|
+4-* +Transceiver Rtg. 1            8|-|0|0|0|-|250|2|cc.51|
+4-* +Transceiver Rtg. 2            8|-|0|0|0|-|500|2|cc.51|
+4-* +Transceiver Rtg. 3            8|-|0|0|0|-|750|2|cc.51|
+4-* +Transceiver Rtg. 4            8|-|0|0|0|-|1000|2|cc.51|
+4-* +Transceiver Rtg. 5            8|-|0|0|0|-|1250|2|cc.51|
+4-* +Transceiver Rtg. 6            8|-|0|0|0|-|1500|2|cc.51|
+4-* +Transceiver Rtg. 7            8|-|0|0|0|-|1750|2|cc.51|
+4-* +Transceiver Rtg. 8            8|-|0|0|0|-|2000|2|cc.51|
+4-* +Transceiver Rtg. 9            8|-|0|0|0|-|2250|2|cc.51|
+4-* +Transceiver Rtg. 10           8|-|0|0|0|-|2500|2|cc.51|
+3-Military Armor Options
+4-* +Chemseal                      8|-|0|0|0|-|12000|2|cc.51|
+4-* +Tracking Signal 1             8|-|0|0|0|-|100|2|cc.51|
+4-* +Tracking Signal 2             8|-|0|0|0|-|200|2|cc.51|
+4-* +Tracking Signal 3             8|-|0|0|0|-|300|2|cc.51|
+4-* +Tracking Signal 4             8|-|0|0|0|-|400|2|cc.51|
+4-* +Tracking Signal 5             8|-|0|0|0|-|500|2|cc.51|
+4-* +Tracking Signal 6             8|-|0|0|0|-|600|2|cc.51|
+4-* +Tracking Signal 7             8|-|0|0|0|-|700|2|cc.51|
+4-* +Tracking Signal 8             8|-|0|0|0|-|800|2|cc.51|
+4-* +Tracking Signal 9             8|-|0|0|0|-|900|2|cc.51|
+4-* +Tracking Signal 10            8|-|0|0|0|-|1000|2|cc.51|
+2-Urban Brawl body armor
+3-* Light Urban Brawl Armor        8|-|3|2|1.25|4/48hrs|700|1|sr2.???|
+3-* Medium Urban Brawl Armor       8|-|4|3|1.5|4/48hrs|750|1|sr2.???|
+3-* Heavy Urban Brawl Armor        8|-|6|4|2.5|4/48hrs|1000|1|sr2.???|
+3-* Urban Brawl Helmet             8|-|+1|+1|.5|5/48hrs|600|1|sr2.???|
+2-Heavy armor
+3-* Battle Vest                    8|7|0|0|1|5/3days|750|1.75|sr2.???|
+3-* Doorgunner's Vest              8|-|6|4|12|9/8days|7500|1.9|sr2.???|
+3-* Flack Vest                     8|-|4|4|2|6/4days|1000|1|sr2.???|
+3-* Full Suit                      8|-|8|6|(15+BODY)|16/14days|20000|3|sr2.???|
+3-* Helmet                         8|-|+1|+1|0|12/14days|200|1.5|sr2.???|
+3-* Helmet, Nylon                  8|-|+1|+1|0|12/14days|200|1.5|sr2.???|
+3-* Helmet, Steel                  8|-|+1|+2|0|14/14days|250|1.75|sr2.???|
+3-* MedicGear Combat Medical Armor 8|5|3|1|4|10/14days|3400|2|sr2.???|
+3-* Partial Suit                   8|-|6|4|(10+BODY)|8/10days|10000|2|sr2.???|
+2-Kelmar Police Armor
+3-* Kelmar Light Police Armor      8|2|3|5|2.5|20/14days|10000|3|sr2.???|
+3-* Kelmar Heavy Police Armor      8|1|5|7|4|24/20days|12500|3.5|sr2.???|
+3-* Kelmar Police Helmet           8|-|+0|+1|.75|20/14days|2000|3.5|sr2.???|
+2-Security Armor
+3-Security Armor
+4-* Light Security Armor           8|-|6|4|(9+BODY)|12/10days|7500|2|sr3.284|
+4-* Medium Security Armor          8|-|6|5|(11+BODY)|14/10days|9000|2.5|sr3.284|
+4-* Heavy Security Armor           8|-|7|5|(13+BODY)|16/14days|12000|3|sr3.284|
+4-* Security Helmet                8|-|+1|+2|0|12/14days|250|2|sr3.284|
+3-Security Helmet Options
+4-* +Elec. Vis. Mag 3              8|-|0|0|0|-|900|2|sr3.284|
+4-* +Optical Vis. Mag 3            8|-|0|0|0|-|1200|2|sr3.284|
+4-* +Heads Up Disp/100MP           8|-|0|0|0|-|1000|2|sr3.284|
+4-* +Low-light Vision              8|-|0|0|0|-|700|2|sr3.284|
+4-* +Thermo Vision                 8|-|0|0|0|-|700|2|sr3.284|
+4-* +Ultrasound Vision             8|-|0|0|0|-|1000|2|sr3.284|
+4-* +Respirator                    8|-|0|0|0|-|500|2|sr3.284|
+4-* +Smart Goggles 1               8|-|0|0|0|-|3000|2|sr3.284|
+4-* +Smart Goggles 2               8|-|0|0|0|-|3500|2|mm.32|
+4-* +Signal Locator 1              8|-|0|0|0|-|1000|2|sr3.284|
+4-* +Signal Locator 2              8|-|0|0|0|-|2000|2|sr3.284|
+4-* +Signal Locator 3              8|-|0|0|0|-|3000|2|sr3.284|
+4-* +Signal Locator 4              8|-|0|0|0|-|4000|2|sr3.284|
+4-* +Signal Locator 5              8|-|0|0|0|-|5000|2|sr3.284|
+4-* +Signal Locator 6              8|-|0|0|0|-|6000|2|sr3.284|
+4-* +Signal Locator 7              8|-|0|0|0|-|7000|2|sr3.284|
+4-* +Signal Locator 8              8|-|0|0|0|-|8000|2|sr3.284|
+4-* +Signal Locator 9              8|-|0|0|0|-|9000|2|sr3.284|
+4-* +Signal Locator 10             8|-|0|0|0|-|10000|2|sr3.284|
+4-* +Tracking Signal 1             8|-|0|0|0|-|100|2|sr3.284|
+4-* +Tracking Signal 2             8|-|0|0|0|-|200|2|sr3.284|
+4-* +Tracking Signal 3             8|-|0|0|0|-|300|2|sr3.284|
+4-* +Tracking Signal 4             8|-|0|0|0|-|400|2|sr3.284|
+4-* +Tracking Signal 5             8|-|0|0|0|-|500|2|sr3.284|
+4-* +Tracking Signal 6             8|-|0|0|0|-|600|2|sr3.284|
+4-* +Tracking Signal 7             8|-|0|0|0|-|700|2|sr3.284|
+4-* +Tracking Signal 8             8|-|0|0|0|-|800|2|sr3.284|
+4-* +Tracking Signal 9             8|-|0|0|0|-|900|2|sr3.284|
+4-* +Tracking Signal 10            8|-|0|0|0|-|1000|2|sr3.284|
+4-* +Transceiver Rtg. 1            8|-|0|0|0|-|250|2|sr3.284|
+4-* +Transceiver Rtg. 2            8|-|0|0|0|-|500|2|sr3.284|
+4-* +Transceiver Rtg. 3            8|-|0|0|0|-|750|2|sr3.284|
+4-* +Transceiver Rtg. 4            8|-|0|0|0|-|1000|2|sr3.284|
+4-* +Transceiver Rtg. 5            8|-|0|0|0|-|1250|2|sr3.284|
+4-* +Transceiver Rtg. 6            8|-|0|0|0|-|1500|2|sr3.284|
+4-* +Transceiver Rtg. 7            8|-|0|0|0|-|1750|2|sr3.284|
+4-* +Transceiver Rtg. 8            8|-|0|0|0|-|2000|2|sr3.284|
+4-* +Transceiver Rtg. 9            8|-|0|0|0|-|2250|2|sr3.284|
+4-* +Transceiver Rtg. 10           8|-|0|0|0|-|2500|2|sr3.284|
+3-Security Armor Options
+4-* +Chemseal                      8|-|0|0|0|-|12000|2|sr3.284|
+4-* +Tracking Signal 1             8|-|0|0|0|-|100|2|sr3.284|
+4-* +Tracking Signal 2             8|-|0|0|0|-|200|2|sr3.284|
+4-* +Tracking Signal 3             8|-|0|0|0|-|300|2|sr3.284|
+4-* +Tracking Signal 4             8|-|0|0|0|-|400|2|sr3.284|
+4-* +Tracking Signal 5             8|-|0|0|0|-|500|2|sr3.284|
+4-* +Tracking Signal 6             8|-|0|0|0|-|600|2|sr3.284|
+4-* +Tracking Signal 7             8|-|0|0|0|-|700|2|sr3.284|
+4-* +Tracking Signal 8             8|-|0|0|0|-|800|2|sr3.284|
+4-* +Tracking Signal 9             8|-|0|0|0|-|900|2|sr3.284|
+4-* +Tracking Signal 10            8|-|0|0|0|-|1000|2|sr3.284|
+2-Military Grade Armor
+3-* Light Military Armor           8|-|10|7|(12+BODY)|18/1mth|25000|3|fof.54|
+3-* Medium Military Armor          8|-|12|8|(14+BODY)|24/1mth|45000|3|fof.54|
+3-* Heavy Military Armor           8|-|14|9|(16+BODY)|28/1mth|70000|3|fof.54|
+3-* Military Helmet                8|-|+2|+3|3|24/1mth|2500|3|fof.54|
+2-MetalGear
+3-* MetalGear Arm Piece            8|2|1.5|1.25|2|10/7days|2000|3|sr2.???|
+3-* MetalGear Helmet               8|2|1.5|1.25|2|10/7days|2000|3|sr2.???|
+3-* MetalGear Leg Piece            8|2|1.5|1.25|2|10/7days|2000|3|sr2.???|
+3-* MetalGear Torso Piece          8|2|1.5|1.25|2|10/7days|2000|3|sr2.???|
+2-Special clothing and armor
+3-* Diving Armor                   8|-|4|2|2|5/48hrs|1750|1.25|cc.51|
+3-* Esporma Environment Suit       8|1|2|1|5|6/4days|7250|3|sr2.???|
+3-* Forearm Guards                 8|12|0|1|.2|5/36hrs|250|.75|cc.51|
+3-* Geck Tape Gloves               8|8|0|0|-|6/72hrs|250|1.5|sta2.36|
+3-* "Ghostsuit"                    8|+4|2|1|3|6/14days|53000|8|sr2.???|
+3-* "Ghostsuit" Helmet             8|-|+1|+0|1.5|8/14days|6000|8|sr2.???|
+3-* IR Combat Cloak                8|+4/+2|-|-|2|6/48hrs|450|2|cb1.18|
+3-* Kevlar Blanket                 8|-|2|-|-|always|500|1|sr2.???|
+3-* Medieval Armor (Maximillian)   8|-|3|4|14|10/4days|10600|1|cb1.19|
+3-* Medieval Armor (Standard)      8|-|2|3|10|8/48hrs|3500|1|cb1.19|
+3-* Military Chemsuit              8|-|-|-|BODY x1.5|18/14days|15000|2|sr2.???|
+3-* "Mirage Gear" Combat Helmet    8|-|+1|+0|1|9/4days|700|2.5|sr2.???|
+3-* "Mirage Gear" Flak Vest        8|-|2|1|1.5|7/4days|1275|2.5|sr2.???|
+3-* "Mirage Gear"                  8|+2|1|0|1.5|5/48hrs|1050|3|sr2.???|
+3-* Null Suit                      8|-|0|0|20|16/14days|15000|3|sta2.36|
+3-* Olfactory Camouflage           8|4|0|0|4|4/48hrs|200|1.5|twl.131|
+3-* Shadow Suit                    8|12|4|1|1.5|6/48hrs|800|1|sr2.???|
+3-* Shark Chain                    8|-|0|*|Body+2|84days|2500|2|tss.12|
+3-* Sneak Suit                     8|+4|0|0|2|8/14days|50000|7.5|sr2.???|
+3-* Thermal Regulation Suit        8|14|-|-|2|6/48hrs|8000|2|sr2.???|

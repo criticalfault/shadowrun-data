@@ -1,0 +1,1442 @@
+!0-3|Firearms|10|Concealability|Ammunition|Mode|Damage|Weight|Availability|$Cost|Street Index|Accessories|Book.Page|
+2-Firearms
+3-Pistols
+4-Hold out
+5-* Barton Arms Bracer    (HOPist) 3|7|1|SS|6L|.3|12/7days|1300|3|None|sr2.???|||
+5-* Barton Arms Gun Cane  (HOPist) 3|2/9|1|SS|6L|1|10/7days|500|2|None|sr2.???|||
+5-* BudgetArms C13        (HOPist) 3|8|8(c)|SA|4L|.5|2/8hrs|150|.75|None|sr2.???|||
+5-* Cavalier Scout        (HOPist) 3|9|7(c)|SA|4L|.25|10/72hrs|600|2|None|cc.16|||
+5-* Ceska Diplomat        (HOPist) 3|8|6(cy)|SS|4L|.5|3/12hrs|250|1|None|sr2.???|||
+5-* Colt Take-Down        (HOPist) 3|8|2(b)|SA|7M|.5|4/12hrs|150|.8|None|sr2.???|||
+5-* Dai Lung Cybermag 15  (HOPist) 3|7|10(c)|SA|4L|.5|3/12hrs|100|.7|None|sr2.???|||
+5-* Federated Arms X-22   (HOPist) 3|7|10(c)|SA|4L|.5|2/12hrs|300|.8|None|sr2.???|||
+5-* Fich. Tiff. Needler   (HOPist) 3|8|4(c)|SA|5L|.5|7/48hrs|650|2|None|sr2.???|||
+5-* H�mmerli Model 520    (HOPist) 3|4|6(c)|SA|6L|1.25|8/4days|1000|1|RC:(1)|sr2.???|||
+5-* H&K P48               (HOPist) 3|8|6(c)|SA/BF|4L|.45|4/24hrs|300|1.5|None|sr2.???|||
+5-* Morrissey Elan        (HOPist) 3|8|5(c)|SA|5L|.5|8/7days|500|2|None|cc.16|||
+5-* N. Ind. Firing Knife  (HOPist) 3|6|5(cy)|SA|4L|.5|5/12hrs|250|1|None|sr2.???|||
+5-* Nova Infranat. OneShot(HOPist) 3|9/14|1|SS|5M|.25|10/7days|80|1.5|None|tss.5|||
+5-* Raecor Sting          (HOPist) 3|9|5(c)|SS|4M(f)|.25|10/7days|375|2|None|cc.16|||
+5-* Star Model DWT        (HOPist) 3|7|6(c)|SA|5L|.5|3/18hrs|300|.8|None|sr2.???|||
+5-* Streetline Special    (HOPist) 3|8|6(c)|SS|4L|.5|2/12hrs|100|.75|None|sr3.278|||
+5-* Tiffani Needler       (HOPist) 3|8|4(c)|SA|5M(f)|.5|7/48hrs|650|2|None|cc.16|||
+5-* Tiffani Self-Defender (HOPist) 3|8|4(c)|SS|4L|.5|2/12hrs|450|.75|None|cc.16|||
+5-* Walther Palm Pistol   (HOPist) 3|9|2(b)|SS|4L|.25|3/12hrs|200|.75|None|sr3.278|||
+4-Light
+5-* Ares Hornet            (LPist) 3|8|7(cy)|DAR(SA)|7L|2|4/48hrs|250|.8|None|sr2.???|||
+5-* Ares Light Fire 70     (LPist) 3|5|16(c)|SA|6L|.5|3/12hrs|475|.8|None|cc.18|||
+5-* Ares Scorpion          (LPist) 3|8|7(cy)|DAR(SA)|7L|2.25|4/48hrs|275|1|Laser Sight|sr2.???|||
+5-* Beretta Model 101T     (LPist) 3|5|12(c)|SA|6L|1|3/12hrs|350|.8|None|sr3.278|||
+5-* Beretta Model 200ST    (LPist) 3|4|26(c)|SA/BF|6L|2|5/24hrs|750|1.5|BF = Complex Action, Detach. Stock(1RC)|cc.18|||
+5-* Ceska vz/120           (LPist) 3|7|18(c)|SA|6L|1|3/12hrs|500|.8|None|cc.18|||
+5-* Colt American L36      (LPist) 3|6|11(c)|SA|6L|1|3/12hrs|350|.8|None|sr3.278|||
+5-* Colt Asp               (LPist) 3|5|6(cy)|SA|6L|1|3/12hrs|200|.5|None|cc.18|||
+5-* Dai Lung Streetmaster  (LPist) 3|6|12(c)|SA|6L|1|3/12hrs|325|.8|None|sr2.???|||
+5-* Derringer              (LPist) 3|12|2(m)|SA|6L|.5|8/7days|220|2|None|cb1.27|||
+5-* Executive Action       (LPist) 3|6|24(c)|SA/BF|6L|1.5|14/7days|1150|3|None|cc.18|||
+5-* Federated Arms X-9mm   (LPist) 3|5|12(c)|SA|6L|1|3/12hrs|450|.75|None|sr2.???|||
+5-* Fichetti Security 500  (LPist) 3|7|12(c)|SA|6L|1|3/12hrs|400|.8|None|sr3.278|||
+5-* Fichetti Security 500a (LPist) 3|6|25(c)|SA|6L|1.25|3/12hrs|550|.8|Detach. Stock(1RC)|sr3.278|||
+5-* Glock 19 Mk.IV         (LPist) 3|5|17(c)|SA|6L|1|8/24hrs|750|2|Laser Sight, RC:(1)|sr2.???|||
+5-* Glock 19 Mk.IV Smart   (LPist) 3|5|17(c)|SA|6L|1|8/24hrs|950|2|Smartlink, RC:(1)|sr2.???|||
+5-* Glck 19 Mk.IV SmartII  (LPist) 3|5|17(c)|SA|6L|1|8/24hrs|1150|2|Smartlink-2, RC:(1)|sr2.???|||
+5-* H&K Cavaet             (LPist) 3|5|9(c)|SA|6L|1.25|4/24hrs|500|1|None|sr2.???|||
+5-* H&K P7S15              (LPist) 3|6|15(c)|SA|6L|1|4/24hrs|400|1|None|sr2.???|||
+5-* H&K P11M8              (LPist) 3|8|8(c)|SA|6L|1|5/36hrs|600|1.25|None|sr2.???|||
+5-* H&K P11M13             (LPist) 3|8|13(c)|SA|6L|1|5/36hrs|650|1.25|None|sr2.???|||
+5-* Hammerli Model 610S    (HPist) 3|4|6(c)|SA|6L|2.5|8/24hrs|1300|2.5|LPist uses HPist ranges,Gas Vent I(1RC)|cc.18|||
+5-* Mauser Ladyline        (LPist) 3|7|8(c)|SA|6L|.75|4/24hrs|350|1|None|sr2.???|||
+5-* Militech Arms Avenger  (LPist) 3|6|10(c)|SA|6L|1|3/12hrs|325|.8|None|sr2.???|||
+5-* Nostal. Ind. Gentleman (LPist) 3|7|8(c)|SS|6L|2.5|8/48hrs|250|2.5|None|tss.2|||
+5-* Nostal. Ind. Southerner(LPist) 3|5|10(c)|SS|3M|3.5|9/50hrs|300|2.5|None|tss.2|||
+5-* Nostal. Ind. Yankee    (LPist) 3|4|13(c)|SS|7M|4|8/48hrs|375|2.5|None|tss.2|||
+5-* Powell Knife Pistol    (LPist) 3|8|1(b)|SS|6L/(STR)L|.5|5/48hrs|250|1|None|sr2.???|||
+5-* Ruger P-8              (LPist) 3|8|10(c)|SA|7L|.75|4/24hrs|395|1|None|sr2.???|||
+5-* SA Puzzler             (LPist) 3|6|12(c)|SA|6L|.75|9/1wk|900|2|None|cc.18|||
+5-* Seco LD-120            (LPist) 3|5|12(c)|SA|6L|1|3/12hrs|400|.8|Laser Sight|cc.18|||
+5-* S&W Model 6739         (LPist) 3|8|5(cy)|SS|6L|.75|3/36hrs|250|.9|None|sr2.???|||
+5-* Taurus Multi-6         (LPist) 3|6|6(cy)|SA/SS|6L/7M|1|5/24hrs|500|.75|None|cc.18|||
+5-* Thumper                (LPist) 3|6|10(c)|SA|5L Stun|1.25|3/12hrs|120|.75|None|cp.22|||
+5-* Walther PB-120         (LPist) 3|8(6)|10(15)(c)|SA|6L|.75|6/36hrs|700|2|None|cc.18|||
+4-Machine pistols
+5-* Ares Assault Machine  (MaPist) 3|6|40(c)|SA/BF/FA|6L|2.75|8/36hrs|1000|2|Improved Gas Vent (2)|sr2.???|||
+5-* Ares Black Widow      (MaPist) 3|6|21(c)|SA/BF|6L|1|14/7days|1500|3|Silencer, Smartlink-2|sr2.???|||
+5-* Ares Crusader         (MaPist) 3|6|40(c)|SA/BF|6L|3.25|5/36hrs|950|2|Gas Vent II(2RC)|cc.18|||
+5-* Beretta Model 200ST   (MaPist) 3|4|26(c)|SA/BF|6L|2|5/24hrs|750|1.5|RC:(1)|sr2.???|||
+5-* BudgetArms Laser-Nine (MaPist) 3|5(4)|15(35)(c)|SA/BF/FA|6L|1.5|4/36hrs|675|1.2|Caseless, Laser Sight|cb1.30|||
+5-* Ceska Black Scorpion  (MaPist) 3|5|35(c)|SA/BF|6L|3|5/36hrs|850|2|Fold. Stock(1RC)|sr3.278|||
+5-* FAM 95                (MaPist) 3|2|40(c)|SA/BF/FA|8M|3|9/7 days|5000|3|-|fra.141|||
+5-* Fich. Exec. Action    (MaPist) 3|6|24(c)|SA/BF|6L|1.5|14/7days|1150|3|None|sr2.???|||
+5-* H&K VP80Z             (MaPist) 3|6|21(c)|SA/BF|6L|1.25|6/48hrs|1200|3|RC:(1)|sr2.???|||
+5-* Micro Uzi III         (MaPist) 3|6|16(c)|BF|6L|1.5|6/36hrs|750|1|Laser Sight|sr2.???|||
+5-* Ruger P-4             (MaPist) 3|4|100(c)|BF|7L|1.25|8/48hrs|1350|2.25|None|cp.22|||
+5-* Seco Quickfire        (MaPist) 3|5|18(c)|SA/BF/FA|6L|1.5|5/24hrs|750|2|None|sr2.???|||
+5-* Steyr TMP             (MaPist) 3|6|30(c)|SA/BF/FA|6L|2|8/48hrs|900|2|None|cc.18|||
+4-Heavy pistols
+5-* Altmayr SP             (HPist) 3|4|7(m)|SS|(Special)|3|4/48hrs|900|1.5|None|sr2.???|||
+5-* Ares Black Knight      (HPist) 3|4|15(c)|SA/BF|10M|5|7/48hrs|2500|1.5|Smartlink, RC(2)|tss.16|||
+5-* Ares Constrictor       (HPist) 3|6|6(cy)|DAR|10M|2.5|7/7days|400|2|Smartlink|sr2.???|||
+5-* Ares Jaguar            (HPist) 3|5|6(cy)|DAR|10M|2.5|5/4days|300|1|Laser Sight|sr2.???|||
+5-* Ares Predator          (HPist) 3|5|15(c)|SA|9M|2.25|3/24hrs|450|.5|None|sr3.278|||
+5-* Ares Predator II       (HPist) 3|4|15(c)|SA|9M|2.5|4/24hrs|550|.5|Smartlink|cc.19|||
+5-* Ares Predator III      (HPist) 3|4|15(c)|SA|9M|2.25|5/24hrs|650|1|Smartlink-2|cc.19|||
+5-* Ares Stingray          (HPist) 3|4|6(cy)|DAR|10M|2.75|7/7days|500|3|Laser Sight, RC:(1)|sr2.???|||
+5-* Ares Stingray Smart    (HPist) 3|4|6(cy)|DAR|10M|2.75|7/7days|500|3|Smartlink, RC:(1)|sr2.???|||
+5-* Ares Viper Slivergun   (HPist) 3|6|30(c)|SA/BF|9S(f)|2|3/48hrs|600|1|Silencer, Fires Flechettes Only|sr3.278|||
+5-* Armalite 44            (HPist) 3|4|8(c)|SA|9M|2.25|4/24hrs|450|1|None|sr2.???|||
+5-* Beretta Model 95S      (HPist) 3|5|15(c)|SA|9M|2.5|3/24hrs|500|1|Smartlink-2|sr2.???|||
+5-* Beretta Model 95S-B    (HPist) 3|5|15(c)|SA/BF|9M|2.5|6/72hrs|750|1.75|Smartlink-2|sr2.???|||
+5-* Beretta 100S           (HPist) 3|5|15(c)|SA|9M|2.5|5/36hrs|650|1.5|Laser Sight, Silencer|sr2.???|||
+5-* Beretta 100S Smart     (HPist) 3|5|15(c)|SA|9M|2.5|5/36hrs|1300|1.5|Smartlink, Silencer|sr2.???|||
+5-* Beretta Model 110-T    (HPist) 3|5|16(c)|SA|9M|2|3/24hrs|400|1|Laser Sight|sr2.???|||
+5-* Bond&Carrington MP-11  (HPist) 3|4|15(30)(c)|SA/BF|9M|3|8/36hrs|1200|2|Gas Vent (2), Laser Sight|sr2.???|||
+5-* B&Carr. MP-11 Smart    (HPist) 3|4|15(30((c)|SA/BF|9M|3|8/36hrs|2000|2|Gas Vent (2), Smartlink|sr2.???|||
+5-* Browning Defender 10   (HPist) 3|5|15(c)|SA/BF|9M|2|5/36hrs|900|2|None|sr2.???|||
+5-* Browning Def. 10 Smart (HPist) 3|5|15(c)|SA/BF|9M|2|5/36hrs|1800|2|Smartlink|sr2.???|||
+5-* Browning Max-Power     (HPist) 3|6|10(c)|SA|9M|2|3/24hrs|450|1|None|sr3.278|||
+5-* Browning Ultra-Power   (HPist) 3|6|10(c)|SA|9M|2.25|4/24hrs|525|1.5|Laser Sight|cc.19|||
+5-* BudgetArms Auto 3      (HPist) 3|5|8(c)|SA|9M|2.25|4/12hrs|350|.7|None|sr2.???|||
+5-* Cavalier Deputy        (HPist) 3|4|7(cy)|SA|9M|2.25|3/24hrs|300|.5|None|cc.19|||
+5-* Colt 1911              (HPist) 3|6|7(c)|SS|10M|3.2|4/8days|780|2.8|None|tss.3|||
+5-* Colt Alpha-Omega       (HPist) 3|4|10(c)|SA|9M|2.5|5/24hrs|500|1|Gas Vent (1), Smartlink|cb1.30|||
+5-* Colt AMT Model 2000    (HPist) 3|5|8(c)|SA|9M|2.5|5/24hrs|500|1|None|sr2.???|||
+5-* Colt Manhunter         (HPist) 3|5|16(c)|SA|9M|2.5|4/24hrs|425|1|Laser Sight|cc.19|||
+5-* Colt Manhunter S       (HPist) 3|5|16(c)|SA|9M|2.25|4/24hrs|600|1|Smartlink|sr2.???|||
+5-* Colt Manhunter S+      (HPist) 3|5|16(c)|SA|9M|2.25|6/48hrs|800|1|Smartlink-2|sr2.???|||
+5-* Colt Peacemaker        (HPist) 3|4|6(cy)|SS|10M|2.75|3/24hrs|350|.9|None|sr2.???|||
+5-* Colt Penetrator        (HPist) 3|5|12(c)|SA|9M|2|4/24hrs|600|1.5|None|sr2.???|||
+5-* DinaTech F5A           (HPist) 3|10|1|SS|10M|-|10/14days|500|3|None|sr2.???|||
+5-* DinaTech F5B           (HPist) 3|10|1|SS|7S|-|12/14days|700|3|None|sr2.???|||
+5-* Eichiro Hatamoto II    (HPist) 3|6|1(m)|SS|8S|2.5|12/7days|1200|2|Fires as Shotgun|cc.19|||
+5-* Federated Arms 454 DA  (HPist) 3|3|5(cy)|SS|11M|3.5|5/36hrs|1375|1.25|None|cb1.35|||
+5-* Fichetti Hurricane     (HPist) 3|5|14(30)(c)|SA/BF|9S(f)|2|3/48hrs|600|1|None|sr2.???|||
+5-* Fichetti Military XI   (HPist) 3|4|18(c)|SA/BF|9M|2.25|5/36hrs|900|2|Laser Sight, RC:(1)|sr2.???|||
+5-* Fich. Mil. XI Smart    (HPist) 3|4|18(c)|SA/BF|9M|2.25|5/36hrs|1800|2|Smartlink, RC:(1)|sr2.???|||
+5-* FN 5-7C                (HPist) 3|5|20(c)|SA/BF|6L|2.5|9/48hrs|700|2|RC(1)|cc.19|||
+5-* FN 5-7 [TSS version]   (HPist) 3|5|20(c)|SS|8M|2.5|2/3weeks|800|3|None|tss.2|||
+5-* Glock 20               (HPist) 3|5|15(c)|SA|9M|.78|2/48 Hours|550|1||bjf.00|||
+5-* Glock 22 Mk. III       (HPist) 3|4|15(c)|SA|9M|2.5|6/24hrs|600|1.5|Laser Sight|sr2.???|||
+5-* Glock 22 Mk. III Smart (HPist) 3|4|15(c)|SA|9M|2.5|6/24hrs|800|1.5|Smartlink|sr2.???|||
+5-* Glck22 Mk. III SmartII (HPist) 3|4|15(c)|SA|9M|2.5|6/24hrs|1000|1.5|Smartlink-2|sr2.???|||
+5-* Glck 30 Machine Pistol (HPist) 3|6(5)|20(30)(c)|SA/BF|9M|2.5|6/36hrs|705|2|Gas Vent (2)|cb1.30|||
+5-* Goncz-Taurus Pistol    (HPist) 3|6(5)|15(30)(c)|SA|9M|2|4/48hrs|500|1|None|cb1.31|||
+5-* Goncz-Taur.(Selective) (HPist) 3|6(5)|15(30)(c)|SA/FA|9M|2|8/72hrs|700|1.75|None|sr2.???|||
+5-* H&K "Blaster"          (HPist) 3|4|6(m)|SS|12M|3|-|-|-|None|sr2.???|||
+5-* H&K OHWS               (HPist) 3|5|12(c)|SA|9M|1.2|18/14 days|2500|2|Flashlight, Laser Sight|sr2.???|||
+5-* H&K USP45              (MPist) 3|5|12(c)|SA|8M|.79|2/24 Hours|700|1||bjf.00|||
+5-* H&K USP Expert 9mm     (HPist) 3|4|15(c)|SA|7M|.87|4/48 Hours|980|1||bjf.00|||
+5-* H&K USP Expert .45 ACP (HPist) 3|4|12(c)|SA|8M|.85|4/48 Hours|980|1||bjf.00|||
+5-* Ingram Mk IV           (HPist) 3|4|16(c)|SA/BF|10M|3|18/14 days|2500|3|Gas Vent (3), Smartlink|sr2.???|||
+5-* Kimber Custom CDP      (MPist) 3|5|8(c)|SA|8M|.9|4/48 Hours|1100|1||bjf.00|||
+5-* LeMat Revolver         (HPist) 3|3|8(cy)[1(BR)]|SA[SS]|9M[9S]|3.5|18/14days|1500|3|Secondary Weapon|tss.7|||
+5-* Malorian Arms 3516     (HPist) 3|4|6(c)|SS|12M|3|-|4525|-|Smartlink-2, Strength 4 required to shoot|cb1.31|||
+5-* Mal. Arms Hvy Flech.   (HPist) 3|5|special|SA|9M|2.5|9/48hrs|1595|2|Smartlink|sr2.???|||
+5-* Mal. Arms Sliver Gun   (HPist) 3|4|7(c)|SA|6S(f)|2.5|6/72hrs|1375|3|Special Ammo|cb1.7|||
+5-* Morrissey Alta         (HPist) 3|6|12(c)|SA|9M|1|8/48hrs|1200|2|Laser Sight|cc.19|||
+5-* Morrissey Elite        (LPist) 3|7|5(c)|SA|9M|1|6/48hrs|550|.5|Laser Sight, HPist uses LPist Ranges|cc.19|||
+5-* Nova .338 City Gun     (HPist) 3|5|7(c)|SA|10M|2.5|4/24hrs|460|1|None|sr2.???|||
+5-* Phoenix Gyroc          (HPist) 3|3|3(b)|SA|ammo|3|8/7days|10000|2|None|cp.23|||
+5-* Polymer One-ShotCannon (HPist) 3|5|1|SS|5S|1.5|3/12hrs|190|.6|None|sr2.???|||
+5-* Rmngton Roomsweeper ShG(HPist) 3|6|8(m)|SA|9S(f)|2.5|3/24hrs|300|1|None|sr3.278|||
+5-* Ruger Super Warhawk    (HPist) 3|4|6(cy)|SS|10M|2.5|3/24hrs|300|1|None|sr3.278|||
+5-* Riot Gun               (HPist) 3|8|3(c)|SA|9S(f)|2|4/48hrs|500|1|None|sr2.???|||
+5-* Ruger M45              (HPist) 3|6|18(c)|SA/FA|9M|2|8/60hrs|860|3|Laser Sight|sr2.???|||
+5-* Ruger P-105            (HPist) 3|4|10(c)|SA|10M|2.5|4/24hrs|600|1|None|sr2.???|||
+5-* Ruger Thunderbolt/Laser(HPist) 3|4|12(c)|BF|12S|2.75|14/12days|1250|6|Laser, special recoil, damage code is for Burst|cc.19|||
+5-* Ruger Thunderbolt/Smart(HPist) 3|4|12(c)|BF|12S|2.75|14/12days|1400|6|Smartlink, special recoil, damage code is for Burst|cc.19|||
+5-* Ruger Warhawk          (HPist) 3|5|6(cy)|SS|9M|2|3/24hrs|250|1|None|sr2.???|||
+5-* S&W "Tri-Star"         (HPist) 3|3|6(cy)|SS|10M|2.5|6/24hrs|375|1.5|Laser Sight|sr2.???|||
+5-* Savalette Guardian     (HPist) 3|5|12(c)|SA/BF|9M|3.25|6/36hrs|900|2.5|RC(1), Smartlink, BF = Complex Action|cc.19|||
+5-* Savalette Guardian SL2 (HPist) 3|5|12(c)|SA/BF|9M|3.25|6/36hrs|2250|2.5|RC(1), Smartlink-2, BF = Complex Action|cc.19|||
+5-* Sig Sauer P300         (HPist) 3|4|18(c)|SA|9M|3.25|8/48hrs|800|2|Caseless, Laser Sight, Silencer|sr2.???|||
+5-* SIG P226- .40 S&W      (MPist) 3|5|12(c)|SA|8M|.87|2/24 Hours|850|1||bjf.00|||
+5-* SMF 'Interdictor'      (HPist) 3|3|5(cy)|SS|11M|3.5|10/7days|950|2|None|sr2.???|||
+5-* SternMeyer Type 35     (HPist) 3|5|8(c)|SA|9M|2.5|4/36hrs|400|1|None|sr2.???|||
+5-* SuperEagle             (HPist) 3|4|7(c)|SA|11M|2.75|6/48hrs|600|1.5|Smartlink|sr2.???|||
+5-* Syrko Wolf             (HPist) 3|5|17(c)|SA/BF|9M|2.5|5/48hrs|800|1.5|Smartlink|sr2.???|||
+5-* Walther Secura         (HPist) 3|6|12(c)|SA|9M|1.5|5/48hrs|500|1.5|None|sr2.???|||
+5-* WW Infiltrator         (HPist) 3|5|15(c)|SA|9M|2|9/1wk|1200|2|None|cc.19|||
+5-* Zastava Mag. Mod.2054  (HPist) 3|5|7(cy)|SS|9M|1.75|4/36hrs|350|.9|None|sr2.???|||
+4-Raygun's Pistols
+5-Other
+6-* Ares Predator III ERASe  (VHP) 3|5|15(c)|SA/BF|9M|1.9|12/18days|3000|4|10x24mm, smart2, recoil comp 5|ray.000|||
+6-* Browning H10  10mm Auto  (VHP) 3|5|12(c)|SA|9M|1.1|4/48hrs|950|2|does not have smartlink, but can get one at 0.75 cost.|ray.000|||
+5-Beretta
+6-Baretta Model 21 Bobcat
+7-* B Model 21       .22LR (LPist) 3|9|7(c)|SA|5L|.335|2/24hrs|250|1|none|ray.000|||
+7-* B Model 21      .25ACP (LPist) 3|9|8(c)|SA|4L|.325|2/24hrs|250|1|none|ray.000|||
+7-* B Model 21 blue  .22LR (LPist) 3|9|7(c)|SA|5L|.335|2/24hrs|280|1|blued finish|ray.000|||
+7-* B Model 21 blue .25ACP (LPist) 3|9|8(c)|SA|4L|.325|2/24hrs|280|1|blued finish|ray.000|||
+7-* B Model 21 steel .22LR (LPist) 3|9|7(c)|SA|5L|.335|2/24hrs|300|1|stainless steel|ray.000|||
+7-* B Model 21 steel.25ACP (LPist) 3|9|8(c)|SA|4L|.325|2/24hrs|300|1|stainless steel|ray.000|||
+7-* B Model 21 gold  .22LR (LPist) 3|9|7(c)|SA|5L|.335|2/24hrs|750|1|gold plating|ray.000|||
+7-* B Model 21 gold .25ACP (LPist) 3|9|8(c)|SA|4L|.325|2/24hrs|750|1|gold plating|ray.000|||
+6-Baretta 3032 Tomcat
+7-* B 3032          .32ACP (LPist) 3|9|7(c)|SA|6L|.41|2/24hrs|340|1|none|ray.000|||
+7-* B 3032 Ti       .32ACP (LPist) 3|9|7(c)|SA|6L|.48|2/24hrs|580|1|none|ray.000|||
+7-* B 3022           .22LR (LPist) 3|9|7(c)|SA|5L|.41|5/30days|340|2|none|ray.000|||
+7-* B 3032    blue  .32ACP (LPist) 3|9|7(c)|SA|6L|.41|2/24hrs|370|1|blued finish|ray.000|||
+7-* B 3032 Ti blue  .32ACP (LPist) 3|9|7(c)|SA|6L|.48|2/24hrs|610|1|blued finish|ray.000|||
+7-* B 3022    blue   .22LR (LPist) 3|9|7(c)|SA|5L|.41|5/30days|370|2|blued finish|ray.000|||
+7-* B 3032    steel .32ACP (LPist) 3|9|7(c)|SA|6L|.41|2/24hrs|420|1|stainless steel|ray.000|||
+7-* B 3032 Ti steel .32ACP (LPist) 3|9|7(c)|SA|6L|.48|2/24hrs|660|1|stainless steel|ray.000|||
+7-* B 3022    steel  .22LR (LPist) 3|9|7(c)|SA|5L|.41|5/30days|420|2|stainless steel|ray.000|||
+6-Baretta 81 Cheetah
+7-* B 81FS          .32ACP (LPist) 3|6|12(c)|SA|6L|.68|3/36hrs|545|1|none|ray.000|||
+7-* B 83FS       .380 Auto (LPist) 3|6|7(c)|SA|5M|.62|3/36hrs|545|1|none|ray.000|||
+7-* B 84FS       .380 Auto (LPist) 3|6|13(c)|SA|5M|.66|2/24hrs|580|1|none|ray.000|||
+7-* B 85FS       .380 Auto (LPist) 3|6|8(c)|SA|5M|.62|2/24hrs|545|1|none|ray.000|||
+7-* B 87S            .22LR (LPist) 3|6|8(c)|SA|4L|.60|3/36hrs|580|1|none|ray.000|||
+7-* B 87T            .22LR (MPist) 3|5|10(c)|SA|4L|.83|2/24hrs|670|1|none|ray.000|||
+7-* B 81FS wood     .32ACP (LPist) 3|6|12(c)|SA|6L|.68|3/36hrs|615|1|nickel finish, wood grips|ray.000|||
+7-* B 83FS wood  .380 Auto (LPist) 3|6|7(c)|SA|5M|.62|3/36hrs|615|1|nickel finish, wood grips|ray.000|||
+7-* B 84FS wood  .380 Auto (LPist) 3|6|13(c)|SA|5M|.66|2/24hrs|650|1|nickel finish, wood grips|ray.000|||
+7-* B 85FS wood  .380 Auto (LPist) 3|6|8(c)|SA|5M|.62|2/24hrs|615|1|nickel finish, wood grips|ray.000|||
+7-* B 87S  wood      .22LR (LPist) 3|6|8(c)|SA|4L|.60|3/36hrs|650|1|nickel finish, wood grips|ray.000|||
+7-* B 87T  wood      .22LR (MPist) 3|5|10(c)|SA|4L|.83|2/24hrs|740|1|nickel finish, wood grips|ray.000|||
+6-Baretta 8000 Cougar
+7-* B 8000        9mm Para (MPist) 3|6|15(c)|SA|7M|.94|2/24hrs|710|1|none|ray.000|||
+7-* B 8040         .40 S&W (MPist) 3|6|11(c)|SA|8M|.94|2/24hrs|710|1|none|ray.000|||
+7-* B 8357          .357 SIG (VHP) 3|6|11(c)|SA|9M|.94|2/24hrs|710|1|none|ray.000|||
+7-* B 8045         .45 ACP (MPist) 3|6|8(c)|SA|8M|.94|2/24hrs|765|1|none|ray.000|||
+7-* B 8000 steel  9mm Para (MPist) 3|6|15(c)|SA|7M|.94|2/24hrs|775|1|stainless steel|ray.000|||
+7-* B 8040 steel   .40 S&W (MPist) 3|6|11(c)|SA|8M|.94|2/24hrs|775|1|stainless steel|ray.000|||
+7-* B 8357 steel    .357 SIG (VHP) 3|6|11(c)|SA|9M|.94|2/24hrs|775|1|stainless steel|ray.000|||
+7-* B 8045 steel   .45 ACP (MPist) 3|6|8(c)|SA|8M|.94|2/24hrs|830|1|stainless steel|ray.000|||
+6-Baretta 9000S
+7-* B 9000S       9mm Para (LPist) 3|7|12(c)|SA|7M|.75|3/36hrs|485|1|can use 15rnd 92series or 20rnd 93r pistol mags|ray.000|||
+7-* B 9000S        .40 S&W (LPist) 3|7|10(c)|SA|7M|.78|3/36hrs|485|1|none|ray.000|||
+6-Baretta 92 Series
+7-* B 92          9mm Para (MPist) 3|6|15(c)|SA|7M|.95|2/24hrs|670|1|none|ray.000|||
+7-* B 96           .40 S&W (MPist) 3|6|11(c)|SA|8M|.95|2/24hrs|670|1|none|ray.000|||
+7-* B 98        9x21mm IMI (MPist) 3|6|15(c)|SA|7M|.95|4/48hrs|670|2|none|ray.000|||
+7-* B 92 22LR Kit    .22LR (MPist) 3|6|10(c)|SA|5L|-|2/24hrs|200|1|add on for 92 series|ray.000|||
+7-* B 92 steel    9mm Para (MPist) 3|6|15(c)|SA|7M|.95|2/24hrs|740|1|stainless steel|ray.000|||
+7-* B 96 steel     .40 S&W (MPist) 3|6|11(c)|SA|8M|.95|2/24hrs|740|1|stainless steel|ray.000|||
+7-* B 98 steel  9x21mm IMI (MPist) 3|6|15(c)|SA|7M|.95|4/48hrs|740|2|stainless steel|ray.000|||
+7-* B 92 brig     9mm Para (MPist) 3|6|15(c)|SA|7M|.95|2/24hrs|720|1|heavy barrel (+1 recoil comp)|ray.000|||
+7-* B 96 brig      .40 S&W (MPist) 3|6|11(c)|SA|8M|.95|2/24hrs|720|1|heavy barrel (+1 recoil comp)|ray.000|||
+7-* B 98 brig   9x21mm IMI (MPist) 3|6|15(c)|SA|7M|.95|4/48hrs|720|2|heavy barrel (+1 recoil comp)|ray.000|||
+7-* B 92 gold     9mm Para (MPist) 3|6|15(c)|SA|7M|.95|4/24hrs|770|2|gold finish|ray.000|||
+7-* B 98 gold   9x21mm IMI (MPist) 3|6|15(c)|SA|7M|.95|6/48hrs|770|3|gold finish|ray.000|||
+7-* B 92 walnut   9mm Para (MPist) 3|6|15(c)|SA|7M|.95|4/48hrs|1170|2|walnut grips and gold accents|ray.000|||
+7-* B 92 deluxe   9mm Para (MPist) 3|6|15(c)|SA|7M|.95|6/7days|5670|3|gold plating, fine walnut grips, ingraving|ray.000|||
+7-* B 98 deluxe 9x21mm IMI (MPist) 3|6|15(c)|SA|7M|.95|6/7days|5670|3|gold plating, fine walnut grips, ingraving|ray.000|||
+6-Baretta 92 Combat
+7-* B 92 Combat   9mm Para (MPist) 3|5|15(c)|SA|7M|1.1|6/72hrs|1735|3|heavy barrel (+1 recoil comp)|ray.000|||
+7-* B 96 Combat    .40 S&W (MPist) 3|5|11(c)|SA|8M|1.1|6/72hrs|1735|3|heavy barrel (+1 recoil comp)|ray.000|||
+7-* B 98 Combat 9x21mm IMI (MPist) 3|5|15(c)|SA|7M|1.1|6/72hrs|1735|3|heavy barrel (+1 recoil comp)|ray.000|||
+7-* B 92 Stock    9mm Para (MPist) 3|6|15(c)|SA|7M|1|4/48hrs|950|2|heavy barrel (+1 recoil comp)|ray.000|||
+7-* B 96 Stock     .40 S&W (MPist) 3|6|11(c)|SA|8M|1|4/48hrs|950|2|heavy barrel (+1 recoil comp)|ray.000|||
+6-Baretta 92 Elite
+7-* B 92G Elite   9mm Para (MPist) 3|6|15(c)|SA|7M|0.95|4/7days|775|3|none|ray.000|||
+7-* B 96G Elite    .40 S&W (MPist) 3|6|11(c)|SA|8M|0.95|4/7days|775|3|none|ray.000|||
+7-* B 92G E2      9mm Para (MPist) 3|6|15(c)|SA|7M|0.95|4/7days|875|3|none|ray.000|||
+7-* B 96G E2       .40 S&W (MPist) 3|6|11(c)|SA|8M|0.95|4/7days|875|3|none|ray.000|||
+6-Baretta 92 Vertec
+7-* B 92FS Vertec 9mm Para (MPist) 3|6|15(c)|SA|7M|0.90|2/24hrs|715|1|none|ray.000|||
+7-* B 96FS Vertec  .40 S&W (MPist) 3|6|11(c)|SA|8M|0.90|2/24hrs|715|1|none|ray.000|||
+7-* B 92FS VertecS 9mmPara (MPist) 3|6|15(c)|SA|7M|0.90|2/24hrs|765|1|stainless steel|ray.000|||
+7-* B 96FS VertecS .40 S&W (MPist) 3|6|11(c)|SA|8M|0.90|2/24hrs|765|1|stainless steel|ray.000|||
+6-Baretta 950 Jetfire
+7-* B 950 Jetfire  .25 ACP (LPist) 3|9|8(c)|SA|4L|0.28|2/24hrs|230|1|none|ray.000|||
+7-* B 950 Minx   .22 short (LPist) 3|9|7(c)|SA|5L|0.28|2/24hrs|230|1|none|ray.000|||
+7-* B 950 JetfireS .25 ACP (LPist) 3|9|8(c)|SA|4L|0.28|2/24hrs|270|1|stainless steel|ray.000|||
+7-* B 950 Minx S .22 short (LPist) 3|9|7(c)|SA|5L|0.28|2/24hrs|270|1|stainless Steel|ray.000|||
+6-Baretta Px4 Storm
+7-* B Px4         9mm Para (MPist) 3|6|17(c)|SA|7M|0.79|2/24hrs|550|1|none|ray.000|||
+7-* B Px4          .40 S&W (MPist) 3|6|14(c)|SA|8M|0.79|2/24hrs|550|1|none|ray.000|||
+7-* B Px4 steel   9mm Para (MPist) 3|6|17(c)|SA|7M|0.79|2/24hrs|615|1|stainless Steel|ray.000|||
+7-* B Px4 steel    .40 S&W (MPist) 3|6|14(c)|SA|8M|0.79|2/24hrs|615|1|stainless Steel|ray.000|||
+6-Other Barettas
+7-* B 93Raffica   9mm Para (MPist) 3|5|20(c)|SA/BF|7M|1.17|6/7days|1100|3|gas vent 2, folding forgrip (+1 comp), detachable folding stock (1comp, -2conceal)|ray.000|||
+5-Colt 1873 Single Action Army
+6-* C 45          .45 Colt (MPist) 3|5|6(cyl)|SS|8M|1.1|4/48hrs|450|2|revolver loading|ray.000|||
+6-* C 4440        .44-40 WCF (VHP) 3|5|6(cyl)|SS|9M|1.1|4/48hrs|750|2|revolver loading|ray.000|||
+6-* C 3220      .32-20 WCF (MPist) 3|5|6(cyl)|SS|6M|1.1|4/48hrs|750|2|revolver loading|ray.000|||
+6-* C 44SPL    .44 special (MPist) 3|5|6(cyl)|SS|8M|1.1|4/48hrs|750|2|revolver loading|ray.000|||
+6-* C 38357         .357 Mag (VHP) 3|5|6(cyl)|SS|9M|1.1|4/48hrs|750|2|revolver loading, can fire .38 Special at 5M and (LPist)|ray.000|||
+6-* C 45 long       .45 Colt (VHP) 3|4|6(cyl)|SS|8M|1.3|4/48hrs|450|2|revolver loading|ray.000|||
+6-* C 4440 long   .44-40 WCF (SMG) 3|4|6(cyl)|SS|9M|1.3|4/48hrs|750|2|revolver loading|ray.000|||
+6-* C 3220 long   .32-20 WCF (VHP) 3|4|6(cyl)|SS|6M|1.3|4/48hrs|750|2|revolver loading|ray.000|||
+6-* C 44SPL long .44 special (VHP) 3|4|6(cyl)|SS|8M|1.3|4/48hrs|750|2|revolver loading|ray.000|||
+6-* C 38357 long    .357 Mag (SMG) 3|4|6(cyl)|SS|9M|1.3|4/48hrs|750|2|revolver loading, can fire .38 Special at 5M and (LPist)|ray.000|||
+6-* C 45 nic      .45 Colt (MPist) 3|5|6(cyl)|SS|8M|1.1|4/48hrs|550|2|bright nickel finish, revolver loading|ray.000|||
+6-* C 4440 nic    .44-40 WCF (VHP) 3|5|6(cyl)|SS|9M|1.1|4/48hrs|850|2|bright nickel finish, revolver loading|ray.000|||
+6-* C 3220 nic  .32-20 WCF (MPist) 3|5|6(cyl)|SS|6M|1.1|4/48hrs|850|2|bright nickel finish, revolver loading|ray.000|||
+6-* C 44SPL nic .44 specil (MPist) 3|5|6(cyl)|SS|8M|1.1|4/48hrs|850|2|bright nickel finish, revolver loading|ray.000|||
+6-* C 38357 nic     .357 Mag (VHP) 3|5|6(cyl)|SS|9M|1.1|4/48hrs|850|2|bright nickel finish, revolver loading, can fire .38 Special at 5M and (LPist)|ray.000|||
+6-* C 45 longN      .45 Colt (VHP) 3|4|6(cyl)|SS|8M|1.3|4/48hrs|550|2|bright nickel finish, revolver loading|ray.000|||
+6-* C 4440 longN  .44-40 WCF (SMG) 3|4|6(cyl)|SS|9M|1.3|4/48hrs|850|2|bright nickel finish, revolver loading|ray.000|||
+6-* C 3220 longN  .32-20 WCF (VHP) 3|4|6(cyl)|SS|6M|1.3|4/48hrs|850|2|bright nickel finish, revolver loading|ray.000|||
+6-* C 44SPL longN .44 specil (VHP) 3|4|6(cyl)|SS|8M|1.3|4/48hrs|850|2|bright nickel finish, revolver loading|ray.000|||
+6-* C 38357 longN   .357 Mag (SMG) 3|4|6(cyl)|SS|9M|1.3|4/48hrs|850|2|bright nickel finish, revolver loading, can fire .38 Special at 5M and (LPist)|ray.000|||
+5-Ceska
+6-Ceska CZ75 & CZ85
+7-* Ck CZ275      9mm Para (MPist) 3|6|16(c)|SA|7M|1|2/24hrs|480|1|many finishes at cost|ray.000|||
+7-* Ck CZ285      9mm Para (MPist) 3|6|16(c)|SA|7M|1|2/24hrs|505|1|ambidextrous safety & slide-stop levers, many finishes at cost|ray.000|||
+7-* Ck CZ275       .40 S&W (MPist) 3|6|10(c)|SA|8M|1|2/24hrs|480|1|many finishes at cost|ray.000|||
+7-* Ck CZ285       .40 S&W (MPist) 3|6|10(c)|SA|8M|1|2/24hrs|505|1|ambidextrous safety & slide-stop levers, many finishes at cost|ray.000|||
+7-* Ck CZ285C     9mm Para (MPist) 3|6|16(c)|SA|7M|1|2/24hrs|590|1|adjustable rear sight, ambidextrous safety & slide-stop levers, many finishes at cost|ray.000|||
+6-Ceska CZ75C
+7-* Ck CZ275C     9mm Para (MPist) 3|7|14(c)|SA|7M|.92|2/24hrs|510|1|many finishes at cost|ray.000|||
+7-* Ck CZ275D     9mm Para (MPist) 3|7|14(c)|SA|7M|.78|2/24hrs|525|1|many finishes at cost|ray.000|||
+6-Ceska CZ83
+7-* Ck CZ83       .32 Auto (LPist) 3|7|15(c)|SA|6L|.75|3/36hrs|400|1|2 finishes at cost|ray.000|||
+7-* Ck CZ83    9mm Makarov (LPist) 3|7|12(c)|SA|5M|.80|3/36hrs|400|1|2 finishes at cost|ray.000|||
+7-* Ck CZ83      .380 Auto (LPist) 3|7|12(c)|SA|5M|.80|3/36hrs|400|1|2 finishes at cost|ray.000|||
+6-Ceska CZ100
+7-* Ck CZ100      9mm para (LPist) 3|6|13(c)|SA|7M|.67|2/24hrs|425|1|none|ray.000|||
+7-* Ck CZ100       .40 S&W (LPist) 3|6|10(c)|SA|8M|.67|2/24hrs|425|1|none|ray.000|||
+7-* Ck CZ110      9mm para (LPist) 3|6|13(c)|SA|7M|.67|2/24hrs|450|1|none|ray.000|||
+7-* Ck CZ110       .40 S&W (LPist) 3|6|10(c)|SA|8M|.67|2/24hrs|450|1|none|ray.000|||
+6-Other Ceska
+7-* Ck CZ P-01    9mm Para (MPist) 3|7|13(c)|SA|7M|.76|3/36hrs|550|1|none|ray.000|||
+7-* Ck CZ97        .45 ACP (MPist) 3|6|10(c)|SA|8M|1.15|2/24hrs|625|1|can't take internal smartlink|ray.000|||
+5-Ed Brown
+6-Ed Brown Class A limited 1911
+7-Standard
+8-* EB CAL          9mm Para (VHP) 3|6|8(c)|SA|7M|1|4/60days|2250|2|Can't take int. smartlink|ray.000|||
+8-* EB CAL         .38 Super (VHP) 3|6|8(c)|SA|8M|1|4/60days|2250|2|can't take int. smartlink|ray.000|||
+8-* EB CAL            9x23mm (VHP) 3|6|8(c)|SA|8M|1|4/60days|2250|2|can't take int. smartlink|ray.000|||
+8-* EB CAL          .357 Sig (VHP) 3|6|8(c)|SA|9M|1|4/60days|2250|2|can't take int. smartlink|ray.000|||
+8-* EB CAL           .40 S&W (VHP) 3|6|8(c)|SA|8M|1|4/60days|2250|2|can't take int. smartlink|ray.000|||
+8-* EB CAL         10mm Auto (VHP) 3|6|8(c)|SA|9M|1|4/60days|2250|2|can't take int. smartlink|ray.000|||
+8-* EB CAL      .400 Cor-Bon (VHP) 3|6|7(c)|SA|9M|1|4/60days|2250|2|can't take int. smartlink|ray.000|||
+8-* EB CAL           .45 ACP (VHP) 3|6|7(c)|SA|8M|1|4/60days|2250|2|can't take int. smartlink|ray.000|||
+7-Stainless/blued
+8-* EB CAL SF       9mm Para (VHP) 3|6|8(c)|SA|7M|1|4/60days|2350|2|Can't take int. smartlink, stainless frame/blued slide|ray.000|||
+8-* EB CAL SF      .38 Super (VHP) 3|6|8(c)|SA|8M|1|4/60days|2350|2|can't take int. smartlink, stainless frame/blued slide|ray.000|||
+8-* EB CAL SF         9x23mm (VHP) 3|6|8(c)|SA|8M|1|4/60days|2350|2|can't take int. smartlink, stainless frame/blued slide|ray.000|||
+8-* EB CAL SF       .357 Sig (VHP) 3|6|8(c)|SA|9M|1|4/60days|2350|2|can't take int. smartlink, stainless frame/blued slide|ray.000|||
+8-* EB CAL SF        .40 S&W (VHP) 3|6|8(c)|SA|8M|1|4/60days|2350|2|can't take int. smartlink, stainless frame/blued slide|ray.000|||
+8-* EB CAL SF      10mm Auto (VHP) 3|6|8(c)|SA|9M|1|4/60days|2350|2|can't take int. smartlink, stainless frame/blued slide|ray.000|||
+8-* EB CAL SF   .400 Cor-Bon (VHP) 3|6|7(c)|SA|9M|1|4/60days|2350|2|can't take int. smartlink, stainless frame/blued slide|ray.000|||
+8-* EB CAL SF        .45 ACP (VHP) 3|6|7(c)|SA|8M|1|4/60days|2350|2|can't take int. smartlink, stainless frame/blued slide|ray.000|||
+7-All Stainles
+8-* EB CAL AS       9mm Para (VHP) 3|6|8(c)|SA|7M|1|4/60days|2450|2|Can't take int. smartlink, all stainless|ray.000|||
+8-* EB CAL AS      .38 Super (VHP) 3|6|8(c)|SA|8M|1|4/60days|2450|2|can't take int. smartlink, all stainless|ray.000|||
+8-* EB CAL AS         9x23mm (VHP) 3|6|8(c)|SA|8M|1|4/60days|2450|2|can't take int. smartlink, all stainless|ray.000|||
+8-* EB CAL AS       .357 Sig (VHP) 3|6|8(c)|SA|9M|1|4/60days|2450|2|can't take int. smartlink, all stainless|ray.000|||
+8-* EB CAL AS        .40 S&W (VHP) 3|6|8(c)|SA|8M|1|4/60days|2450|2|can't take int. smartlink, all stainless|ray.000|||
+8-* EB CAL AS      10mm Auto (VHP) 3|6|8(c)|SA|9M|1|4/60days|2450|2|can't take int. smartlink, all stainless|ray.000|||
+8-* EB CAL AS   .400 Cor-Bon (VHP) 3|6|7(c)|SA|9M|1|4/60days|2450|2|can't take int. smartlink, all stainless|ray.000|||
+8-* EB CAL AS        .45 ACP (VHP) 3|6|7(c)|SA|8M|1|4/60days|2450|2|can't take int. smartlink, all stainless|ray.000|||
+7-Commander Slide
+8-* EB CAL C        9mm Para (VHP) 3|7|8(c)|SA|7M|.93|4/60days|2250|2|Can't take int. smartlink, commander slide|ray.000|||
+8-* EB CAL C       .38 Super (VHP) 3|7|8(c)|SA|8M|.93|4/60days|2250|2|can't take int. smartlink, commander slide|ray.000|||
+8-* EB CAL C        .357 Sig (VHP) 3|7|8(c)|SA|9M|.93|4/60days|2250|2|can't take int. smartlink, commander slide|ray.000|||
+8-* EB CAL C         .40 S&W (VHP) 3|7|8(c)|SA|8M|.93|4/60days|2250|2|can't take int. smartlink, commander slide|ray.000|||
+8-* EB CAL C    .400 Cor-Bon (VHP) 3|7|7(c)|SA|9M|.93|4/60days|2250|2|can't take int. smartlink, commander slide|ray.000|||
+8-* EB CAL C         .45 ACP (VHP) 3|7|7(c)|SA|8M|.93|4/60days|2250|2|can't take int. smartlink, commander slide|ray.000|||
+7-Commander with Bobtail mod
+8-* EB CAL CB       9mm Para (VHP) 3|7|8(c)|SA|7M|.93|4/60days|2280|2|Can't take int. smartlink, commander slide, bobtail mod|ray.000|||
+8-* EB CAL CB      .38 Super (VHP) 3|7|8(c)|SA|8M|.93|4/60days|2280|2|can't take int. smartlink, commander slide, bobtail mod|ray.000|||
+8-* EB CAL CB       .357 Sig (VHP) 3|7|8(c)|SA|9M|.93|4/60days|2280|2|can't take int. smartlink, commander slide, bobtail mod|ray.000|||
+8-* EB CAL CB        .40 S&W (VHP) 3|7|8(c)|SA|8M|.93|4/60days|2280|2|can't take int. smartlink, commander slide, bobtail mod|ray.000|||
+8-* EB CAL CB   .400 Cor-Bon (VHP) 3|7|7(c)|SA|9M|.93|4/60days|2280|2|can't take int. smartlink, commander slide, bobtail mod|ray.000|||
+8-* EB CAL CB        .45 ACP (VHP) 3|7|7(c)|SA|8M|.93|4/60days|2280|2|can't take int. smartlink, commander slide, bobtail mod|ray.000|||
+6-Ed Brown Kobra 1911
+7-* EB KF450         .45 ACP (VHP) 3|6|7(c)|SA|8M|1|4/60days|1795|2|Can't take int. smartlink|ray.000|||
+7-* EB KC450       .45 ACP (MPist) 3|6|7(c)|SA|8M|.93|4/60days|1795|2|Can't take int. smartlink|ray.000|||
+7-* EB KF450 SF      .45 ACP (VHP) 3|6|7(c)|SA|8M|1|4/60days|1895|2|Can't take int. smartlink, stainless frame/blued slide|ray.000|||
+7-* EB KC450 SF    .45 ACP (MPist) 3|6|7(c)|SA|8M|.93|4/60days|1895|2|Can't take int. smartlink, stainless frame/blued slide|ray.000|||
+7-* EB KF450         .45 ACP (VHP) 3|6|7(c)|SA|8M|1|4/60days|1995|2|Can't take int. smartlink, all stainless|ray.000|||
+7-* EB KC450       .45 ACP (MPist) 3|6|7(c)|SA|8M|.93|4/60days|1995|2|Can't take int. smartlink, all stainless|ray.000|||
+5-Fabrique Nationale
+6-Fab Nat BDA9 & BDAO
+7-* FN BDA9       9mm Para (MPist) 3|6|14(c)|SA|7M|.88|2/24hrs|550|1|none|ray.000|||
+7-* FN BDA9C      9mm Para (MPist) 3|7|10(c)|SA|7M|.86|2/24hrs|525|1|none|ray.000|||
+7-* FN BDAO       9mm Para (MPist) 3|6|14(c)|SA|7M|.88|2/24hrs|550|1|none|ray.000|||
+7-* FN BDAOC      9mm Para (MPist) 3|7|10(c)|SA|7M|.86|2/24hrs|525|1|none|ray.000|||
+6-Fab Nat Five-SeveN
+7-* FN Five-seveN   5.7x28mm (VHP) 3|6|20(c)|SA|6M|.62|5/5days|585|3|0.75armor mod, AP ammo=.5armor mod.  Ammo avail=5/5days, can use subsonic, can convert to SA/FA|ray.000|||
+7-* FN 5-7 Tactical 5.7x28mm (VHP) 3|6|20(c)|SA|6M|.65|5/5days|650|3|0.75armor mod, AP ammo=.5armor mod.  Ammo avail=5/5days, can use subsonic, can convert to SA/FA|ray.000|||
+7-* FN 5-7 Smart    5.7x28mm (VHP) 3|6|20(c)|SA|6M|.72|6/7days|975|3|smartlink2, 0.75armor mod, AP ammo=.5armor mod.  Ammo avail=5/5days, can use subsonic, can convert to SA/FA|ray.000|||
+6-Other Fabrique Nationale
+7-* FN MK3        9mm Para (MPist) 3|6|13(c)|SA|7M|.88|2/24hrs|550|1|none|ray.000|||
+5-Glock
+6-Full Size
+7-* G 17          9mm Para (MPist) 3|6|17(c)|SA|7M|.62|2/24hrs|550|1|none|ray.000|||
+7-* G 20           10mm Para (VHP) 3|6|15(c)|SA|9M|.78|2/48hrs|550|1|none|ray.000|||
+7-* G 21           .45 ACP (MPist) 3|6|13(c)|SA|8M|.75|2/24hrs|550|1|none|ray.000|||
+7-* G 22           .40 S&W (MPist) 3|6|15(c)|SA|8M|.65|2/24hrs|550|1|none|ray.000|||
+7-* G 31            .357 SIG (VHP) 3|6|15(c)|SA|9M|.66|2/24hrs|550|1|none|ray.000|||
+7-* G 37           .45 Glock (VHP) 3|6|12(c)|SA|9M|.75|2/24hrs|550|1|none|ray.000|||
+6-Compact
+7-* G 19          9mm Para (MPist) 3|6|15(c)|SA|7M|.60|2/24hrs|510|1|none|ray.000|||
+7-* G 23           .40 S&W (MPist) 3|6|13(c)|SA|8M|.60|2/24hrs|510|1|none|ray.000|||
+7-* G 25         .380 Auto (MPist) 3|6|15(c)|SA|5M|.57|2/24hrs|510|1|none|ray.000|||
+7-* G 32            .357 SIG (VHP) 3|6|13(c)|SA|9M|.61|2/24hrs|510|1|none|ray.000|||
+6-SubCompact
+7-* G 26          9mm Para (MPist) 3|8|12(c)|SA|7M|.56|2/24hrs|510|1|none|ray.000|||
+7-* G 27           .40 S&W (MPist) 3|8|11(c)|SA|8M|.56|2/24hrs|510|1|none|ray.000|||
+7-* G 28         .380 Auto (LPist) 3|8|12(c)|SA|5M|.53|2/24hrs|510|1|none|ray.000|||
+7-* G 29         10mm Auto (MPist) 3|8|10(c)|SA|9M|.7|2/24hrs|510|1|none|ray.000|||
+7-* G 30          .45 Auto (MPist) 3|8|9(c)|SA|8M|.68|2/24hrs|510|1|none|ray.000|||
+7-* G 33          .357 SIG (MPist) 3|6|11(c)|SA|9M|.56|2/24hrs|510|1|none|ray.000|||
+6-Practical/Tactical
+7-* G 34            9mm Para (VHP) 3|5|17(c)|SA|7M|.68|4/48hrs|680|2|none|ray.000|||
+7-* G 35             .40 S&W (VHP) 3|5|15(c)|SA|8M|.68|4/48hrs|680|2|none|ray.000|||
+6-Other Glocks
+7-* G 18          9mm Para (MPist) 3|6|17(c)|SA/FA|7M|.65|6/72hrs|750|3|none|ray.000|||
+7-* G 18C         9mm Para (MPist) 3|6|17(c)|SA/FA|7M|.65|6/72hrs|750|3|gasvent 1|ray.000|||
+7-* G 36           .45 ACP (MPist) 3|7|6(c)|SA|8M|.57|2/24hrs|510|1|none|ray.000|||
+5-Heckler & Koch
+6-H&K Mark 23
+7-* H&K Mark 23      .45 ACP (VHP) 3|5|12(c)|SA|8M|1.1|8/72hrs|2415|4|threaded barrel|ray.000|||
+7-* H&K Mk23 Mod 0   .45 ACP (VHP) 3|4|12(c)|SA|8M|1.1|8/14days|4210|4|threaded barrel, suppressor, laser sight, flashlight|ray.000|||
+6-H&K P2000
+7-* H&K P2000     9mm Para (MPist) 3|6|13(c)|SA|7M|.62|2/24hrs|885|1|none|ray.000|||
+7-* H&K P2000     .357 SIG (MPist) 3|6|12(c)|SA|9M|.62|2/24hrs|885|1|none|ray.000|||
+7-* H&K P2000      .40 S&W (MPist) 3|6|12(c)|SA|8M|.62|2/24hrs|885|1|none|ray.000|||
+7-* H&K P2000St   9mm Para (MPist) 3|6|13(c)|SA|7M|.62|2/24hrs|845|1|stainless steel slide|ray.000|||
+7-* H&K P2000St   .357 SIG (MPist) 3|6|12(c)|SA|9M|.62|2/24hrs|845|1|stainless steel slide|ray.000|||
+7-* H&K P2000St    .40 S&W (MPist) 3|6|12(c)|SA|8M|.62|2/24hrs|845|1|stainless steel slide|ray.000|||
+7-* H&K P2000Sm   9mm Para (MPist) 3|6|13(c)|SA|7M|.62|2/24hrs|1335|1|Smartlink2|ray.000|||
+7-* H&K P2000Sm   .357 SIG (MPist) 3|6|12(c)|SA|9M|.62|2/24hrs|1335|1|Smartlink2|ray.000|||
+7-* H&K P2000Sm    .40 S&W (MPist) 3|6|12(c)|SA|8M|.62|2/24hrs|1335|1|Smartlink2|ray.000|||
+7-* H&K P2000SS   9mm Para (MPist) 3|6|13(c)|SA|7M|.62|2/24hrs|1395|1|stainless steel slide, smartlink2|ray.000|||
+7-* H&K P2000SS   .357 SIG (MPist) 3|6|12(c)|SA|9M|.62|2/24hrs|1395|1|stainless steel slide, smartlink2|ray.000|||
+7-* H&K P2000SS    .40 S&W (MPist) 3|6|12(c)|SA|8M|.62|2/24hrs|1395|1|stainless steel slide, smartlink2|ray.000|||
+6-H&K P2000SK
+7-* H&K P2000SK   9mm Para (MPist) 3|7|10(c)|SA|7M|.68|2/24hrs|930|1|none|ray.000|||
+7-* H&K P2000SK   .357 SIG (MPist) 3|7|9(c)|SA|9M|.68|2/24hrs|930|1|none|ray.000|||
+7-* H&K P2000SK    .40 S&W (MPist) 3|7|9(c)|SA|8M|.68|2/24hrs|930|1|none|ray.000|||
+7-* H&K P2000SKSt 9mm Para (MPist) 3|7|10(c)|SA|7M|.68|2/24hrs|990|1|stainless steel slide|ray.000|||
+7-* H&K P2000SKSt .357 SIG (MPist) 3|7|9(c)|SA|9M|.68|2/24hrs|990|1|stainless steel slide|ray.000|||
+7-* H&K P2000SKSt  .40 S&W (MPist) 3|7|9(c)|SA|8M|.68|2/24hrs|990|1|stainless steel slide|ray.000|||
+7-* H&K P2000SKSm 9mm Para (MPist) 3|7|10(c)|SA|7M|.68|2/24hrs|1380|1|Smartlink2|ray.000|||
+7-* H&K P2000SKSm .357 SIG (MPist) 3|7|9(c)|SA|9M|.68|2/24hrs|1380|1|Smartlink2|ray.000|||
+7-* H&K P2000SKSm  .40 S&W (MPist) 3|7|9(c)|SA|8M|.68|2/24hrs|1380|1|Smartlink2|ray.000|||
+7-* H&K P2000SKSS 9mm Para (MPist) 3|7|10(c)|SA|7M|.68|2/24hrs|1440|1|stainless steel slide, smartlink2|ray.000|||
+7-* H&K P2000SKSS .357 SIG (MPist) 3|7|9(c)|SA|9M|.68|2/24hrs|1440|1|stainless steel slide, smartlink2|ray.000|||
+7-* H&K P2000SKSS  .40 S&W (MPist) 3|7|9(c)|SA|8M|.68|2/24hrs|1440|1|stainless steel slide, smartlink2|ray.000|||
+6-H&K P7 Series
+7-* H&K P7K3     .380 Auto (LPist) 3|7|8(c)|SA|6L|.75|4/48hrs|700|2|no internal acc. allowed|ray.000|||
+7-* H&K P7M7       .45 ACP (MPist) 3|6|7(c)|SA|8M|1|8/72hrs|980|4|no internal acc. allowed|ray.000|||
+7-* H&K P7M8      9mm Para (MPist) 3|6|8(c)|SA|7M|.78|4/48hrs|750|2|no internal acc. allowed|ray.000|||
+7-* H&K P7M10      .40 S&W (MPist) 3|6|10(c)|SA|8M|.9|8/72hrs|900|4|no internal acc. allowed|ray.000|||
+7-* H&K P7M13     9mm Para (MPist) 3|6|13(c)|SA|7M|.84|4/48hrs|900|2|no internal acc. allowed|ray.000|||
+6-H&K P9 Series
+7-* H&K P9S       9mm Para (MPist) 3|6|9(c)|SA|7M|.88|4/72hrs|1200|2|none|ray.000|||
+7-* H&K P9S        .45 ACP (MPist) 3|6|7(c)|SA|8M|.88|6/7days|1500|3|none|ray.000|||
+6-H&K USP
+7-* H&K USP9      9mm Para (MPist) 3|6|15(c)|SA|7M|.75|2/24hrs|770|1|none|ray.000|||
+7-* H&K USP40      .40 S&W (MPist) 3|6|13(c)|SA|8M|.75|2/24hrs|770|1|none|ray.000|||
+7-* H&K USP45      .45 ACP (MPist) 3|6|12(c)|SA|8M|.79|2/24hrs|840|1|none|ray.000|||
+7-* H&K USP9 St   9mm Para (MPist) 3|6|15(c)|SA|7M|.75|2/24hrs|830|1|stainless steel|ray.000|||
+7-* H&K USP40 St   .40 S&W (MPist) 3|6|13(c)|SA|8M|.75|2/24hrs|830|1|stainless steel|ray.000|||
+7-* H&K USP45 St   .45 ACP (MPist) 3|6|12(c)|SA|8M|.79|2/24hrs|900|1|stainless steel|ray.000|||
+7-* H&K USP9 Sm   9mm Para (MPist) 3|6|15(c)|SA|7M|.75|2/24hrs|1220|1|smartlink2|ray.000|||
+7-* H&K USP40 Sm   .40 S&W (MPist) 3|6|13(c)|SA|8M|.75|2/24hrs|1220|1|smartlink2|ray.000|||
+7-* H&K USP45 Sm   .45 ACP (MPist) 3|6|12(c)|SA|8M|.79|2/24hrs|1290|1|smartlink2|ray.000|||
+7-* H&K USP9 SS   9mm Para (MPist) 3|6|15(c)|SA|7M|.75|2/24hrs|1280|1|smartlink2, stainless steel|ray.000|||
+7-* H&K USP40 SS   .40 S&W (MPist) 3|6|13(c)|SA|8M|.75|2/24hrs|1280|1|smartlink2, stainless steel|ray.000|||
+7-* H&K USP45 SS   .45 ACP (MPist) 3|6|12(c)|SA|8M|.79|2/24hrs|1350|1|smartlink2, stainless steel|ray.000|||
+6-H&K USP compact
+7-* H&K USP9c     9mm Para (MPist) 3|7|15(c)|SA|7M|.66|2/24hrs|800|1|none|ray.000|||
+7-* H&K USP40c     .40 S&W (MPist) 3|7|12(c)|SA|8M|.69|2/24hrs|800|1|none|ray.000|||
+7-* H&K USP45c     .45 ACP (MPist) 3|7|8(c)|SA|8M|.72|2/24hrs|875|1|none|ray.000|||
+7-* H&K USP9c St  9mm Para (MPist) 3|7|15(c)|SA|7M|.66|2/24hrs|860|1|stainless steel|ray.000|||
+7-* H&K USP40c St  .40 S&W (MPist) 3|7|12(c)|SA|8M|.69|2/24hrs|860|1|stainless steel|ray.000|||
+7-* H&K USP45c St  .45 ACP (MPist) 3|7|8(c)|SA|8M|.72|2/24hrs|935|1|stainless steel|ray.000|||
+7-* H&K USP9c Sm  9mm Para (MPist) 3|7|15(c)|SA|7M|.66|2/24hrs|1250|1|smartlink2|ray.000|||
+7-* H&K USP40c Sm  .40 S&W (MPist) 3|7|12(c)|SA|8M|.69|2/24hrs|1250|1|smartlink2|ray.000|||
+7-* H&K USP45c Sm  .45 ACP (MPist) 3|7|8(c)|SA|8M|.72|2/24hrs|1325|1|smartlink2|ray.000|||
+7-* H&K USP9c SS  9mm Para (MPist) 3|7|15(c)|SA|7M|.66|2/24hrs|1310|1|smartlink2, stainless steel|ray.000|||
+7-* H&K USP40c SS  .40 S&W (MPist) 3|7|12(c)|SA|8M|.69|2/24hrs|1310|1|smartlink2, stainless steel|ray.000|||
+7-* H&K USP45c SS  .45 ACP (MPist) 3|7|8(c)|SA|8M|.72|2/24hrs|1385|1|smartlink2, stainless steel|ray.000|||
+6-H&K USP Elite
+7-* H&K USP9ELT     9mm Para (VHP) 3|5|18(c)|SA|7M|.92|4/48hrs|1355|2|none|ray.000|||
+7-* H&K USP45ELT     .45 ACP (VHP) 3|5|12(c)|SA|8M|.92|4/48hrs|1355|2|none|ray.000|||
+7-* H&K USP9ELT-S   9mm Para (VHP) 3|5|18(c)|SA|7M|.92|4/48hrs|1805|2|smartlink2|ray.000|||
+7-* H&K USP45ELT-S   .45 ACP (VHP) 3|5|12(c)|SA|8M|.92|4/48hrs|1805|2|smartlink2|ray.000|||
+6-H&K USP Expert
+7-* H&K USP9exp     9mm Para (VHP) 3|5|15(c)|SA|7M|.87|4/48hrs|1355|2|none|ray.000|||
+7-* H&K USP40exp     .40 S&W (VHP) 3|5|13(c)|SA|8M|.88|4/48hrs|1355|2|none|ray.000|||
+7-* H&K USP45exp     .45 ACP (VHP) 3|5|12(c)|SA|8M|.85|4/48hrs|1355|2|none|ray.000|||
+7-* H&K USP9exp-s   9mm Para (VHP) 3|5|15(c)|SA|7M|.87|4/48hrs|1355|2|smartlink2|ray.000|||
+7-* H&K USP40exp-s   .40 S&W (VHP) 3|5|13(c)|SA|8M|.88|4/48hrs|1355|2|smartlink2|ray.000|||
+7-* H&K USP45exp-s   .45 ACP (VHP) 3|5|12(c)|SA|8M|.85|4/48hrs|1355|2|smartlink2|ray.000|||
+6-H&K USP Match
+7-* H&K USP9match   9mm Para (VHP) 3|5|15(c)|SA|7M|1.2|6/72hrs|850|3|underbarrel weight|ray.000|||
+7-* H&K USP40match   .40 S&W (VHP) 3|5|13(c)|SA|8M|1.2|6/72hrs|850|3|underbarrel weight|ray.000|||
+7-* H&K USP45match   .45 ACP (VHP) 3|5|12(c)|SA|8M|1.2|6/72hrs|850|3|underbarrel weight|ray.000|||
+7-* H&K USP9match-sf 9mmPara (VHP) 3|5|15(c)|SA|7M|1.2|6/72hrs|910|3|underbarrel weight, stainless steel|ray.000|||
+7-* H&K USP40match-sf .40S&W (VHP) 3|5|13(c)|SA|8M|1.2|6/72hrs|910|3|underbarrel weight, stainless steel|ray.000|||
+7-* H&K USP45match-sf .45ACP (VHP) 3|5|12(c)|SA|8M|1.2|6/72hrs|910|3|underbarrel weight, stainless steel|ray.000|||
+7-* H&K USP9match-sm 9mmPara (VHP) 3|5|15(c)|SA|7M|1.2|6/72hrs|1300|3|underbarrel weight, smartlink2|ray.000|||
+7-* H&K USP40match-sm .40S&W (VHP) 3|5|13(c)|SA|8M|1.2|6/72hrs|1300|3|underbarrel weight, smartlink2|ray.000|||
+7-* H&K USP45match-sm .45ACP (VHP) 3|5|12(c)|SA|8M|1.2|6/72hrs|1300|3|underbarrel weight, smartlink2|ray.000|||
+7-* H&K USP9match-ss 9mmPara (VHP) 3|5|15(c)|SA|7M|1.2|6/72hrs|1360|3|underbarrel weight, smartlink2, stainless steel|ray.000|||
+7-* H&K USP40match-ss .40S&W (VHP) 3|5|13(c)|SA|8M|1.2|6/72hrs|1360|3|underbarrel weight, smartlink2, stainless steel|ray.000|||
+7-* H&K USP45match-ss .45ACP (VHP) 3|5|12(c)|SA|8M|1.2|6/72hrs|1360|3|underbarrel weight, smartlink2, stainless steel|ray.000|||
+6-H&K USP Tactical
+7-* H&K USP9SD      9mm Para (VHP) 3|6|15(c)|SA|7M|.77|4/48hrs|1020|2|threaded barrel|ray.000|||
+7-* H&K USP40 tact   .40 S&W (VHP) 3|6|13(c)|SA|8M|.86|4/48hrs|1020|2|threaded barrel|ray.000|||
+7-* H&K USP45 tact   .45 ACP (VHP) 3|6|12(c)|SA|8M|.86|4/48hrs|1115|2|threaded barrel|ray.000|||
+7-* H&K USP45CT      .45 ACP (VHP) 3|7|8(c)|SA|8M|.78|4/48hrs|1020|2|threaded barrel|ray.000|||
+7-* H&K USP9SD-s    9mm Para (VHP) 3|6|15(c)|SA|7M|.77|4/48hrs|1470|2|threaded barrel, smartlink2|ray.000|||
+7-* H&K USP40 tact-s .40 S&W (VHP) 3|6|13(c)|SA|8M|.86|4/48hrs|1470|2|threaded barrel, smartlink2|ray.000|||
+7-* H&K USP45 tact-s .45 ACP (VHP) 3|6|12(c)|SA|8M|.86|4/48hrs|1565|2|threaded barrel, smartlink2|ray.000|||
+7-* H&K USP45CT-s    .45 ACP (VHP) 3|7|8(c)|SA|8M|.78|4/48hrs|1470|2|threaded barrel, smartlink2|ray.000|||
+6-H&K USP/MP
+7-* H&K USP/MP    9mm Para (MPist) 3|5|15(c)|SA/FA|7M|1.6|12/18days|1400|4|none|ray.000|||
+7-* H&K USP/MP-sf 9mm Para (MPist) 3|5|15(c)|SA/FA|7M|1.6|12/18days|1400|4|stainless steel|ray.000|||
+7-* H&K USP/MP-sm 9mm Para (MPist) 3|5|15(c)|SA/FA|7M|1.6|12/18days|1400|4|smartlink2|ray.000|||
+7-* H&K USP/MP-ss 9mm Para (MPist) 3|5|15(c)|SA/FA|7M|1.6|12/18days|1400|4|stainless steel, smartlink2|ray.000|||
+5-Izhmekh
+6-* I PM       9mm Makarov (LPist) 3|7|8(c)|SA|5M|.73|2/24hrs|150|1|none|ray.000|||
+6-* I PMM       9mm Mak HI (LPist) 3|7|12(c)|SA|6M|.76|2/24hrs|300|1|none|ray.000|||
+6-* I IZH-71H     .380 ACP (LPist) 3|7|12(c)|SA|5M|.76|2/24hrs|250|1|none|ray.000|||
+6-* I Baikal-442  9mm Para (LPist) 3|7|12(c)|SA|6M|.78|2/24hrs|300|1|none|ray.000|||
+6-* I PSM         5.45x18mm (LHOP) 3|9|8(c)|SA|6L|.46|2/24hrs|400|1|armor piercing bullet (-1 armor rating)|ray.000|||
+6-* I Baikal-441    .25 ACP (LHOP) 3|9|8(c)|SA|5L|.46|2/24hrs|400|1|none|ray.000|||
+5-Kahr
+6-* Kahr K9       9mm Para (LPist) 3|7|7(c)|SA|7M|.71|3/36hrs|650|1|Can't take int. smartlink|ray.000|||
+6-* Kahr K40       .40 S&W (LPist) 3|7|6(c)|SA|8M|.74|3/36hrs|650|1|Can't take int. smartlink|ray.000|||
+6-* Kahr K9-S     9mm Para (LPist) 3|7|7(c)|SA|7M|.71|3/36hrs|710|1|Can't take int. smartlink, stainless steel|ray.000|||
+6-* Kahr K40-S     .40 S&W (LPist) 3|7|6(c)|SA|8M|.74|3/36hrs|710|1|Can't take int. smartlink, stainless steel|ray.000|||
+6-* Kahr PM9      9mm Para (LPist) 3|8|6(c)|SA|7M|.45|3/36hrs|660|1|Can't take int. smartlink|ray.000|||
+6-* Kahr P9       9mm Para (LPist) 3|7|7(c)|SA|6M|.50|3/36hrs|630|1|Can't take int. smartlink|ray.000|||
+6-* Kahr P40       .40 S&W (LPist) 3|7|6(c)|SA|8M|.53|3/36hrs|630|1|Can't take int. smartlink|ray.000|||
+6-* Kahr MK9      9mm Para (LPist) 3|8|6(c)|SA|7M|.68|3/36hrs|675|1|Can't take int. smartlink|ray.000|||
+6-* Kahr MK40      .40 S&W (LPist) 3|8|5(c)|SA|8M|.68|3/36hrs|675|1|Can't take int. smartlink|ray.000|||
+6-* Kahr MK9-D    9mm Para (LPist) 3|8|6(c)|SA|7M|.68|3/36hrs|725|1|Duo-tone (stainless & black), Can't take int. smartlink|ray.000|||
+6-* Kahr MK40-D    .40 S&W (LPist) 3|8|5(c)|SA|8M|.68|3/36hrs|725|1|Duo-tone (stainless & black), Can't take int. smartlink|ray.000|||
+5-Kel-Tec
+6-* Kel-Tec P11   9mm Para (LPist) 3|8|10(c)|SA|6M|.4|2/24hrs|315|1|Can't take int. smartlink|ray.000|||
+6-* Kel-Tec P40    .40 S&W (LPist) 3|8|9(c)|SA|8M|.4|4/48hrs|350|1|Can't take int. smartlink|ray.000|||
+6-* Kel-Tec P357  .357 SIG (LPist) 3|8|9(c)|SA|8M|.4|2/24hrs|350|1|Can't take int. smartlink|ray.000|||
+6-* Kel-Tec P32     .32 ACP (LHOP) 3|9|7(c)|SA|6L|.2|2/24hrs|300|1|Can't take int. smartlink|ray.000|||
+6-* Kel-Tec P11p  9mm Para (LPist) 3|8|10(c)|SA|6M|.4|2/24hrs|315|1|parkerized, Can't take int. smartlink|ray.000|||
+6-* Kel-Tec P40p   .40 S&W (LPist) 3|8|9(c)|SA|8M|.4|4/48hrs|350|1|parkerized, Can't take int. smartlink|ray.000|||
+6-* Kel-Tec P357p .357 SIG (LPist) 3|8|9(c)|SA|8M|.4|2/24hrs|350|1|parkerized, Can't take int. smartlink|ray.000|||
+6-* Kel-Tec P11c  9mm Para (LPist) 3|8|10(c)|SA|6M|.4|2/24hrs|315|1|chrome finish, Can't take int. smartlink|ray.000|||
+6-* Kel-Tec P40c   .40 S&W (LPist) 3|8|9(c)|SA|8M|.4|4/48hrs|350|1|chrome finish, Can't take int. smartlink|ray.000|||
+6-* Kel-Tec P357c .357 SIG (LPist) 3|8|9(c)|SA|8M|.4|2/24hrs|350|1|chrome finish, Can't take int. smartlink|ray.000|||
+6-* Kel-Tec P32     .32 ACP (LHOP) 3|9|7(c)|SA|6L|.2|2/24hrs|300|1|Can't take int. smartlink|ray.000|||
+6-* Kel-Tec P32p    .32 ACP (LHOP) 3|9|7(c)|SA|6L|.2|2/24hrs|340|1|parkerized, Can't take int. smartlink|ray.000|||
+6-* Kel-Tec P32C    .32 ACP (LHOP) 3|9|7(c)|SA|6L|.2|2/24hrs|355|1|chrome finish, Can't take int. smartlink|ray.000|||
+5-Kimber
+6-* Ki Ultra CDP   .45 ACP (LPist) 3|7|7(c)|SA|8M|.7|4/48hrs|1100|2|Can't take int. smartlink|ray.000|||
+6-* Ki Compact CDP .45 ACP (MPist) 3|7|7(c)|SA|8M|.8|4/48hrs|1100|2|Can't take int. smartlink|ray.000|||
+6-* Ki Pro CDP     .45 ACP (MPist) 3|6|7(c)|SA|8M|.8|4/48hrs|1100|2|Can't take int. smartlink|ray.000|||
+6-* Ki Custom CDP  .45 ACP (MPist) 3|6|7(c)|SA|8M|.9|4/48hrs|1100|2|Can't take int. smartlink|ray.000|||
+5-Magnum Research
+6-Baby Eagle (IMI Jericho)
+7-* M 9900        9mm Para (MPist) 3|6|16(c)|SA|7M|1|2/24hrs|500|1|none|ray.000|||
+7-* M 9900RS      9mm Para (MPist) 3|6|16(c)|SA|7M|.92|2/24hrs|500|1|none|ray.000|||
+7-* M 9900RB      9mm Para (MPist) 3|7|13(c)|SA|7M|.87|2/24hrs|500|1|none|ray.000|||
+7-* M 9900BL      9mm Para (MPist) 3|7|13(c)|SA|7M|.62|2/24hrs|500|1|none|ray.000|||
+7-* M 9400         .40 S&W (MPist) 3|6|12(c)|SA|8M|1|2/24hrs|500|1|none|ray.000|||
+7-* M 9400RS       .40 S&W (MPist) 3|6|12(c)|SA|8M|.92|2/24hrs|500|1|none|ray.000|||
+7-* M 9400RB       .40 S&W (MPist) 3|7|9(c)|SA|8M|.87|2/24hrs|500|1|none|ray.000|||
+7-* M 9400BL       .40 S&W (MPist) 3|7|9(c)|SA|8M|.62|2/24hrs|500|1|none|ray.000|||
+7-* M 4500RS       .45 ACP (MPist) 3|6|10(c)|SA|8M|.92|2/24hrs|500|1|none|ray.000|||
+6-Desert Eagle XXVI
+7-* M DE357         .357 Mag (SMG) 3|5|9(c)|SA|9M|1.8|4/48hrs|1150|2|none|ray.000|||
+7-* M DE41           .41 Mag (SMG) 3|5|8(c)|SA|9M|1.9|4/48hrs|1150|2|none|ray.000|||
+7-* M DE44           .44 Mag (SMG) 3|5|8(c)|SA|10M|1.9|4/48hrs|1150|2|none|ray.000|||
+7-* M DE440         .440 CBM (SMG) 3|5|7(c)|SA|11M|2|4/48hrs|1150|2|+2 recoil|ray.000|||
+7-* M DE50            .50 AE (SMG) 3|5|7(c)|SA|11M|2|4/48hrs|1150|2|+2 recoil|ray.000|||
+5-Para Ordnance
+6-* P14.45         .45 ACP (MPist) 3|6|14(c)|SA|8M|1.1|2/24hrs|900|1|Can't take int. smartlink|ray.000|||
+6-* P16.40         .40 S&W (MPist) 3|6|16(c)|SA|8M|1.1|2/24hrs|900|1|Can't take int. smartlink|ray.000|||
+6-* P18.9         9mm Para (MPist) 3|6|18(c)|SA|7M|1.1|2/24hrs|900|1|Can't take int. smartlink|ray.000|||
+5-Ruger
+6-Ruger SP101
+7-* R 241           .22 LR (LPist) 3|6|6(cyl)|SA|4L|.94|2/24hrs|480|1|adjustable rear sight|ray.000|||
+7-* R 3231     .32 H&R Mag (MPist) 3|7|6(cyl)|SA|6L|.85|2/24hrs|480|1|adjustable rear sight|ray.000|||
+7-* R 3241     .32 H&R Mag (MPist) 3|6|6(cyl)|SA|6L|.94|2/24hrs|480|1|adjustable rear sight|ray.000|||
+7-* R 321X        .357 Mag (MPist) 3|7|5(cyl)|SA|9M|.7|2/24hrs|480|1|can fire .38 Mag at 5M and (LPist)|ray.000|||
+7-* R 331X        .357 Mag (MPist) 3|7|5(cyl)|SA|9M|.77|2/24hrs|480|1|can fire .38 Mag at 5M and (LPist)|ray.000|||
+7-* R 321XL       .357 Mag (MPist) 3|7|5(cyl)|SA|9M|.7|2/24hrs|480|1|concealed hammer, can fire .38 Mag at 5M and (LPist)|ray.000|||
+6-Ruger GP100
+7-* R GP141       .357 Mag (MPist) 3|6|6(cyl)|SA|9M|1.2|2/24hrs|500|1|can fire .38 Mag at 5M and (LPist)|ray.000|||
+7-* R GP160         .357 Mag (VHP) 3|5|6(cyl)|SA|9M|1.2|2/24hrs|500|1|can fire .38 Mag at 5M and (LPist)|ray.000|||
+7-* R GP161         .357 Mag (VHP) 3|5|6(cyl)|SA|9M|1.3|2/24hrs|500|1|can fire .38 Mag at 5M and (LPist)|ray.000|||
+7-* R GPF331      .357 Mag (MPist) 3|6|6(cyl)|SA|8M|1|2/24hrs|490|1|can fire .38 Mag at 5M and (LPist)|ray.000|||
+7-* R GPF340      .357 Mag (MPist) 3|6|6(cyl)|SA|9M|1|2/24hrs|490|1|can fire .38 Mag at 5M and (LPist)|ray.000|||
+7-* R GPF341      .357 Mag (MPist) 3|6|6(cyl)|SA|9M|1.1|2/24hrs|490|1|can fire .38 Mag at 5M and (LPist)|ray.000|||
+7-* R GP141-s     .357 Mag (MPist) 3|6|6(cyl)|SA|9M|1.2|2/24hrs|540|1|stainless steel, can fire .38 Mag at 5M and (LPist)|ray.000|||
+7-* R GP160-s       .357 Mag (VHP) 3|5|6(cyl)|SA|9M|1.2|2/24hrs|540|1|stainless steel, can fire .38 Mag at 5M and (LPist)|ray.000|||
+7-* R GP161-s       .357 Mag (VHP) 3|5|6(cyl)|SA|9M|1.3|2/24hrs|540|1|stainless steel, can fire .38 Mag at 5M and (LPist)|ray.000|||
+7-* R GPF331-s    .357 Mag (MPist) 3|6|6(cyl)|SA|8M|1|2/24hrs|530|1|stainless steel, can fire .38 Mag at 5M and (LPist)|ray.000|||
+7-* R GPF340-s    .357 Mag (MPist) 3|6|6(cyl)|SA|9M|1|2/24hrs|530|1|stainless steel, can fire .38 Mag at 5M and (LPist)|ray.000|||
+7-* R GPF341-s    .357 Mag (MPist) 3|6|6(cyl)|SA|9M|1.1|2/24hrs|530|1|stainless steel, can fire .38 Mag at 5M and (LPist)|ray.000|||
+6-Ruger Super Redhawk
+7-* R KSRH7          .44 Mag (SMG) 3|4|6(cyl)|SA|10M|1.5|2/24hrs|650|1|scope mount, detachable 1" scope ring|ray.000|||
+7-* R KSRH9          .44 Mag (SMG) 3|4|6(cyl)|SA|10M|1.64|2/24hrs|650|1|scope mount, detachable 1" scope ring|ray.000|||
+7-* R KSRH7454   .454 Casull (SMG) 3|4|6(cyl)|SA|12M|1.5|2/24hrs|750|1|scope mount, detachable 1" scope ring, +2 recoil, can fire .45 colt at 8M (no recoil penalty)|ray.000|||
+7-* R KSRH9454   .454 Casull (SMG) 3|4|6(cyl)|SA|12M|1.64|2/24hrs|750|1|scope mount, detachable 1" scope ring, +2 recoil, can fire .45 colt at 8M (no recoil penalty)|ray.000|||
+7-* R KSRH7480    .480 Ruger (SMG) 3|4|6(cyl)|SA|11M|1.5|2/24hrs|750|1|scope mount, detachable 1" scope ring, +2 recoil|ray.000|||
+7-* R KSRH9480    .480 Ruger (SMG) 3|4|6(cyl)|SA|11M|1.64|2/24hrs|750|1|scope mount, detachable 1" scope ring, +2 recoil|ray.000|||
+6-Ruger Thunderbolt
+7-* R TBOLT             10mm (VHP) 3|5|12(b)|SA/BF/FA|9M|1.25|14/12days|1250|5|no recoil penalties in first burst|ray.000|||
+7-* R TBOLT-S1          10mm (VHP) 3|5|12(b)|SA/BF/FA|9M|1.25|14/12days|1700|5|no recoil penalties in first burst, smartlink1|ray.000|||
+7-* R TBOLT-S2          10mm (VHP) 3|5|12(b)|SA/BF/FA|9M|1.25|14/12days|2150|5|no recoil penalties in first burst, smartlink2|ray.000|||
+5-Saeder-Krupp
+6-* SK P61         7.62x30mm (VHP) 3|5|8(c)|SS/SA|7M|.7|10/6days|2145|4|suppressor, can't use APDS, special ammo (DE8025)|ray.000|||
+6-* SK P61-L       7.62x30mm (VHP) 3|5|8(c)|SS/SA|7M|.7|10/6days|2745|4|lasersight, suppressor, can't use APDS, special ammo (DE8025)|ray.000|||
+5-SIG
+6-SIG Sauer Full Size
+7-* SIG P226      9mm Para (MPist) 3|6|15(c)|SA|7M|.8|2/24hrs|850|1|none|ray.000|||
+7-* SIG P226       .40 S&W (MPist) 3|6|12(c)|SA|8M|.87|2/24hrs|850|1|none|ray.000|||
+7-* SIG P226        .357 SIG (VHP) 3|6|12(c)|SA|9M|.87|2/24hrs|850|1|none|ray.000|||
+7-* SIG P220      9mm Para (MPist) 3|6|9(c)|SA|7M|.79|4/48hrs|870|2|none|ray.000|||
+7-* SIG P220       .38 Super (VHP) 3|6|9(c)|SA|8M|.79|6/72hrs|870|3|none|ray.000|||
+7-* SIG P220       .45 ACP (MPist) 3|5|8(c)|SA|8M|.79|2/24hrs|870|1|none|ray.000|||
+7-* SIG P226-T    9mm Para (MPist) 3|6|15(c)|SA|7M|.8|2/24hrs|900|1|two-tone|ray.000|||
+7-* SIG P226-T     .40 S&W (MPist) 3|6|12(c)|SA|8M|.87|2/24hrs|900|1|two-tone|ray.000|||
+7-* SIG P226-T      .357 SIG (VHP) 3|6|12(c)|SA|9M|.87|2/24hrs|900|1|two-tone|ray.000|||
+7-* SIG P220-T    9mm Para (MPist) 3|6|9(c)|SA|7M|.79|4/48hrs|910|2|two-tone|ray.000|||
+7-* SIG P220-T     .38 Super (VHP) 3|6|9(c)|SA|8M|.79|6/72hrs|910|3|two-tone|ray.000|||
+7-* SIG P220-T     .45 ACP (MPist) 3|5|8(c)|SA|8M|.79|2/24hrs|910|1|two-tone|ray.000|||
+7-* SIG P226-ST   9mm Para (MPist) 3|6|15(c)|SA|7M|.8|2/24hrs|900|1|stainless steel|ray.000|||
+7-* SIG P226-ST    .40 S&W (MPist) 3|6|12(c)|SA|8M|.87|2/24hrs|900|1|stainless steel|ray.000|||
+7-* SIG P226-ST     .357 SIG (VHP) 3|6|12(c)|SA|9M|.87|2/24hrs|900|1|stainless steel|ray.000|||
+7-* SIG P220-ST   9mm Para (MPist) 3|6|9(c)|SA|7M|.79|4/48hrs|910|2|stainless steel|ray.000|||
+7-* SIG P220-ST    .38 Super (VHP) 3|6|9(c)|SA|8M|.79|6/72hrs|910|3|stainless steel|ray.000|||
+7-* SIG P220-ST    .45 ACP (MPist) 3|5|8(c)|SA|8M|.79|2/24hrs|910|1|stainless steel|ray.000|||
+6-SIG Sauer Compact
+7-* SIG P228      9mm Para (MPist) 3|6|13(c)|SA|7M|.8|2/24hrs|830|1|none|ray.000|||
+7-* SIG P229      9mm Para (MPist) 3|6|13(c)|SA|7M|.8|2/24hrs|830|1|none|ray.000|||
+7-* SIG P229       .40 S&W (MPist) 3|6|12(c)|SA|8M|.83|2/24hrs|830|1|none|ray.000|||
+7-* SIG P229        .357 SIG (VHP) 3|6|12(c)|SA|9M|.83|2/24hrs|830|1|none|ray.000|||
+7-* SIG P245       .45 ACP (MPist) 3|6|6(c)|SA|8M|.78|2/24hrs|830|1|none|ray.000|||
+7-* SIG P228-T    9mm Para (MPist) 3|6|13(c)|SA|7M|.8|2/24hrs|880|1|two-tone|ray.000|||
+7-* SIG P229-T    9mm Para (MPist) 3|6|13(c)|SA|7M|.8|2/24hrs|880|1|two-tone|ray.000|||
+7-* SIG P229-T     .40 S&W (MPist) 3|6|12(c)|SA|8M|.83|2/24hrs|880|1|two-tone|ray.000|||
+7-* SIG P229-T      .357 SIG (VHP) 3|6|12(c)|SA|9M|.83|2/24hrs|880|1|v|ray.000|||
+7-* SIG P245-T     .45 ACP (MPist) 3|6|6(c)|SA|8M|.78|2/24hrs|880|1|v|ray.000|||
+6-SIG Pro
+7-* SIG SP2009    9mm Para (MPist) 3|6|13(c)|SA|7M|.7|2/24hrs|600|1|none|ray.000|||
+7-* SIG SP2340     .40 S&W (MPist) 3|6|12(c)|SA|8M|.8|2/24hrs|600|1|none|ray.000|||
+7-* SIG SP2340      .357 SIG (VHP) 3|6|12(c)|SA|9M|.8|2/24hrs|600|1|none|ray.000|||
+7-* SIG SP2009-T  9mm Para (MPist) 3|6|13(c)|SA|7M|.7|2/24hrs|660|1|two-tone|ray.000|||
+7-* SIG SP2340-T   .40 S&W (MPist) 3|6|12(c)|SA|8M|.8|2/24hrs|660|1|two-tone|ray.000|||
+7-* SIG SP2340-T    .357 SIG (VHP) 3|6|12(c)|SA|9M|.8|2/24hrs|660|1|two-tone|ray.000|||
+6-SIG P210
+7-* SIG P210-8-9    9mm Para (VHP) 3|6|8(c)|SA|7M|.91|4/48hrs|4290|2|none|ray.000|||
+7-* SIG P210-6-9    9mm Para (VHP) 3|6|8(c)|SA|7M|.91|4/48hrs|2090|2|none|ray.000|||
+7-* SIG P210-5-9    9mm Para (VHP) 3|6|8(c)|SA|7M|.96|4/48hrs|2330|2|none|ray.000|||
+7-* SIG P210-2-9    9mm Para (VHP) 3|6|8(c)|SA|7M|.91|4/48hrs|1680|2|none|ray.000|||
+5-Smith & Wesson
+6-S&W Model 60, 610
+7-* S&W 2.125"    .357 Mag (LPist) 3|7|5(cyl)|SA|9M|.64|2/24hrs|480|1|can use .38 special ammo at 6L|ray.000|||
+7-* S&W 3"        .357 Mag (MPist) 3|7|5(cyl)|SA|9M|.68|2/24hrs|500|1|can use .38 special ammo at 6L and (LPist)|ray.000|||
+7-* S&W 610        10mm Auto (VHP) 3|6|6(cyl)|SA|9M|1.4|3/36hrs|600|1|can use .40 S&W ammo at 8M and (MPist)|ray.000|||
+6-S&W Model 586/686
+7-* S&W 586 2.5"  .357 Mag (LPist) 3|7|6(cyl)|SA|9M|1|2/24hrs|530|1|can use .38 special ammo at 5M and (LHOP) and (+1 recoil comp)|ray.000|||
+7-* S&W 586 4"    .357 Mag (MPist) 3|6|6(cyl)|SA|9M|1.1|2/24hrs|560|1|can use .38 special ammo at 5M and (LPist) and (+1 recoil comp)|ray.000|||
+7-* S&W 586 6"      .357 Mag (VHP) 3|5|6(cyl)|SA|9M|1.2|2/24hrs|600|1|can use .38 special ammo at 5M and (MPist) and (+1 recoil comp)|ray.000|||
+7-* S&W 586 8.375"  .357 Mag (SMG) 3|4|6(cyl)|SA|9M|1.4|2/24hrs|650|1|can use .38 special ammo at 5M and (VHP) and (+1 recoil comp)|ray.000|||
+7-* S&W 686 2.5"  .357 Mag (LPist) 3|7|6(cyl)|SA|9M|1|2/24hrs|580|1|stainless steel, can use .38 special ammo at 5M and (LHOP) and (+1 recoil comp)|ray.000|||
+7-* S&W 686 4"    .357 Mag (MPist) 3|6|6(cyl)|SA|9M|1.1|2/24hrs|610|1|stainless steel, can use .38 special ammo at 5M and (LPist) and (+1 recoil comp)|ray.000|||
+7-* S&W 686 6"      .357 Mag (VHP) 3|5|6(cyl)|SA|9M|1.2|2/24hrs|650|1|stainless steel, can use .38 special ammo at 5M and (MPist) and (+1 recoil comp)|ray.000|||
+7-* S&W 686 8.375"  .357 Mag (SMG) 3|4|6(cyl)|SA|9M|1.4|2/24hrs|700|1|stainless steel, can use .38 special ammo at 5M and (VHP) and (+1 recoil comp)|ray.000|||
+7-* S&W 586 2.5"+ .357 Mag (LPist) 3|7|7(cyl)|SA|9M|1|2/24hrs|555|1|can use .38 special ammo at 5M and (LHOP) and (+1 recoil comp)|ray.000|||
+7-* S&W 586 4"+   .357 Mag (MPist) 3|6|7(cyl)|SA|9M|1.1|2/24hrs|585|1|can use .38 special ammo at 5M and (LPist) and (+1 recoil comp)|ray.000|||
+7-* S&W 586 6"+     .357 Mag (VHP) 3|5|7(cyl)|SA|9M|1.2|2/24hrs|625|1|can use .38 special ammo at 5M and (MPist) and (+1 recoil comp)|ray.000|||
+7-* S&W 686 2.5"+ .357 Mag (LPist) 3|7|7(cyl)|SA|9M|1|2/24hrs|605|1|stainless steel, can use .38 special ammo at 5M and (LHOP) and (+1 recoil comp)|ray.000|||
+7-* S&W 686 4"+   .357 Mag (MPist) 3|6|7(cyl)|SA|9M|1.1|2/24hrs|635|1|stainless steel, can use .38 special ammo at 5M and (LPist) and (+1 recoil comp)|ray.000|||
+7-* S&W 686 6"+     .357 Mag (VHP) 3|5|7(cyl)|SA|9M|1.2|2/24hrs|675|1|stainless steel, can use .38 special ammo at 5M and (MPist) and (+1 recoil comp)|ray.000|||
+6-S&W Model 29/629
+7-* S&W 26 4"        .44 Mag (VHP) 3|6|6(cyl)|SA|10M|1.2|2/24hrs|590|1|can use .44 special ammo at 8M and (MPist) and (+1 recoil comp)|ray.000|||
+7-* S&W 26 6"        .44 Mag (VHP) 3|5|6(cyl)|SA|10M|1.3|2/24hrs|640|1|can use .44 special ammo at 8M and (MPist) and (+1 recoil comp)|ray.000|||
+7-* S&W 26 8.375"    .44 Mag (SMG) 3|4|6(cyl)|SA|10M|1.4|2/24hrs|680|1|can use .44 special ammo at 8M and (MPist) and (+1 recoil comp)|ray.000|||
+7-* S&W 629 4"       .44 Mag (VHP) 3|6|6(cyl)|SA|10M|1.2|2/24hrs|640|1|stainless steel, can use .44 special ammo at 8M and (MPist) and (+1 recoil comp)|ray.000|||
+7-* S&W 629 6"       .44 Mag (VHP) 3|5|6(cyl)|SA|10M|1.3|2/24hrs|690|1|stainless steel, can use .44 special ammo at 8M and (MPist) and (+1 recoil comp)|ray.000|||
+7-* S&W 629 8.375"   .44 Mag (SMG) 3|4|6(cyl)|SA|10M|1.4|2/24hrs|730|1|stainless steel, can use .44 special ammo at 8M and (MPist) and (+1 recoil comp)|ray.000|||
+6-S&W Model 627&629
+7-* S&W 627PC     .357 Mag (MPist) 3|6|8(cyl)|SA|9M|1|6/14hrs|1025|3|can use .38 special ammo at 5M and (LPist) and (+1 recoil comp)|ray.000|||
+7-* S&W 629PC      .44 Mag (MPist) 3|6|6(cyl)|SA|10M|1.1|6/14hrs|1025|3|can use .44 special ammo at 8M and (LPist) and (+1 recoil comp)|ray.000|||
+6-S&W X-Frame
+7-* S&W 500       .500 Mag (LCarb) 3|4|5(cyl)|SA|10S|2.05|4/48hrs|990|2|+3 recoil, gas vent 1, (Net +2 recoil)|ray.000|||
+7-* S&W 500H      .500 Mag (LCarb) 3|4|5(cyl)|SA|10S|2.32|4/48hrs|1115|2|+3 recoil, gas vent 1, (Net +2 recoil)|ray.000|||
+7-* S&W 500S        .500 Mag (SMG) 3|5|5(cyl)|SA|9S|1.58|4/48hrs|920|2|+3 recoil, gas vent 1, (Net +2 recoil)|ray.000|||
+7-* S&W 460XVR    .500 Mag (LCarb) 3|4|5(cyl)|SA|9S|2.05|4/48hrs|1000|2|+3 recoil, gas vent 1, (Net +2 recoil)|ray.000|||
+5-Springfield Armory
+6-* Sp 1911A1      .45 ACP (MPist) 3|6|7(c)|SA|8M|1.05|2/24hrs|450|1|Can't take int. smartlink|ray.000|||
+6-* Sp MSO         .45 ACP (MPist) 3|6|7(c)|SA|8M|1.2|2/24hrs|750|1|Can't take int. smartlink|ray.000|||
+6-* Sp TRPO        .45 ACP (MPist) 3|6|7(c)|SA|8M|1.3|3/36hrs|1400|1|Can't take int. smartlink|ray.000|||
+5-Steyr
+6-* Steyr M9      9mm Para (MPist) 3|6|14(c)|SA|7M|.78|2/24hrs|510|1|none|ray.000|||
+6-* Steyr M40      .40 S&W (MPist) 3|6|12(c)|SA|8M|.78|2/24hrs|510|1|none|ray.000|||
+6-* Steyr M357      .357 SIG (VHP) 3|6|12(c)|SA|9M|.78|2/24hrs|510|1|none|ray.000|||
+6-* Steyr S9      9mm Para (MPist) 3|7|10(c)|SA|7M|.65|2/24hrs|510|1|none|ray.000|||
+6-* Steyr S40      .40 S&W (MPist) 3|7|10(c)|SA|8M|.65|2/24hrs|510|1|none|ray.000|||
+5-Taurus
+6-Taurus 44
+7-* T 44,4"        .44 Mag (MPist) 3|6|6(cyl)|SA|10M|1.24|2/24hrs|500|1|none|ray.000|||
+7-* T 44,6"          .44 Mag (VHP) 3|5|6(cyl)|SA|10M|1.24|2/24hrs|525|1|none|ray.000|||
+7-* T 44,8"          .44 Mag (SMG) 3|4|6(cyl)|SA|10M|1.24|2/24hrs|525|1|none|ray.000|||
+7-* T 44,4"B       .44 Mag (MPist) 3|6|6(cyl)|SA|10M|1.24|2/24hrs|550|1|barrel porting (+1 recoil comp)|ray.000|||
+7-* T 44,6"B         .44 Mag (VHP) 3|5|6(cyl)|SA|10M|1.24|2/24hrs|575|1|barrel porting (+1 recoil comp)|ray.000|||
+7-* T 44,8"B         .44 Mag (SMG) 3|4|6(cyl)|SA|10M|1.24|2/24hrs|575|1|barrel porting (+1 recoil comp)|ray.000|||
+7-* T 44,4"S       .44 Mag (MPist) 3|6|6(cyl)|SA|10M|1.24|2/24hrs|565|1|stainless steel|ray.000|||
+7-* T 44,6"S         .44 Mag (VHP) 3|5|6(cyl)|SA|10M|1.24|2/24hrs|590|1|stainless steel|ray.000|||
+7-* T 44,8"S         .44 Mag (SMG) 3|4|6(cyl)|SA|10M|1.24|2/24hrs|590|1|stainless steel|ray.000|||
+7-* T 44,4"BS      .44 Mag (MPist) 3|6|6(cyl)|SA|10M|1.24|2/24hrs|615|1|stainless steel, barrel porting (+1 recoil comp)|ray.000|||
+7-* T 44,6"BS        .44 Mag (VHP) 3|5|6(cyl)|SA|10M|1.24|2/24hrs|640|1|stainless steel, barrel porting (+1 recoil comp)|ray.000|||
+7-* T 44,8"BS        .44 Mag (SMG) 3|4|6(cyl)|SA|10M|1.24|2/24hrs|640|1|stainless steel, barrel porting (+1 recoil comp)|ray.000|||
+6-Taurus 608
+7-* T 608,4"      .357 Mag (MPist) 3|6|8(cyl)|SA|9M|1.24|2/24hrs|470|1|none|ray.000|||
+7-* T 608,6"        .357 Mag (VHP) 3|5|8(cyl)|SA|9M|1.24|2/24hrs|485|1|none|ray.000|||
+7-* T 608,8"        .357 Mag (SMG) 3|4|8(cyl)|SA|9M|1.24|2/24hrs|485|1|none|ray.000|||
+7-* T 608,4"B     .357 Mag (MPist) 3|6|8(cyl)|SA|9M|1.24|2/24hrs|520|1|barrel porting (+1 recoil comp)|ray.000|||
+7-* T 608,6"B       .357 Mag (VHP) 3|5|8(cyl)|SA|9M|1.24|2/24hrs|535|1|barrel porting (+1 recoil comp)|ray.000|||
+7-* T 608,8"B       .357 Mag (SMG) 3|4|8(cyl)|SA|9M|1.24|2/24hrs|535|1|barrel porting (+1 recoil comp)|ray.000|||
+7-* T 608,4"S     .357 Mag (MPist) 3|6|8(cyl)|SA|9M|1.24|2/24hrs|535|1|stainless steel|ray.000|||
+7-* T 608,6"S       .357 Mag (VHP) 3|5|8(cyl)|SA|9M|1.24|2/24hrs|550|1|stainless steel|ray.000|||
+7-* T 608,8"S       .357 Mag (SMG) 3|4|8(cyl)|SA|9M|1.24|2/24hrs|550|1|stainless steel|ray.000|||
+7-* T 608,4"BS    .357 Mag (MPist) 3|6|8(cyl)|SA|9M|1.24|2/24hrs|585|1|stainless steel, barrel porting (+1 recoil comp)|ray.000|||
+7-* T 608,6"BS      .357 Mag (VHP) 3|5|8(cyl)|SA|9M|1.24|2/24hrs|600|1|stainless steel, barrel porting (+1 recoil comp)|ray.000|||
+7-* T 608,8"BS      .357 Mag (SMG) 3|4|8(cyl)|SA|9M|1.24|2/24hrs|600|1|stainless steel, barrel porting (+1 recoil comp)|ray.000|||
+6-Taurus Raging Bull
+7-* T 416            .41 Mag (VHP) 3|5|6(cyl)|SA|9M|1.5|3/36hrs|785|1|barrel porting (+1 recoil comp)|ray.000|||
+7-* T 444            .44 Mag (VHP) 3|5|6(cyl)|SA|10M|1.5|3/36hrs|785|1|barrel porting (+1 recoil comp)|ray.000|||
+7-* T 454        .454 Casull (VHP) 3|5|5(cyl)|SA|12M|1.5|3/36hrs|785|1|barrel porting (+1 recoil comp), double uncomp recoil, can fire .45 Colt ammo at 8M without recoil penalty|ray.000|||
+7-* T 480         .480 Ruger (VHP) 3|5|5(cyl)|SA|11M|1.5|3/36hrs|785|1|barrel porting (+1 recoil comp), double uncomp recoil|ray.000|||
+6-Taurus Raging Hornet, Bee, 30
+7-* T Hornet      .22 Hornet (SMG) 3|4|8(cyl)|SA|8M|1.5|4/48hrs|900|2|rifle ammo, x.75armor mod|ray.000|||
+7-* T Bee           .218 Bee (SMG) 3|4|8(cyl)|SA|8M|1.5|4/48hrs|900|2|rifle ammo, x.75armor mod|ray.000|||
+7-* T Thirty     .30 Carbine (SMG) 3|4|8(cyl)|SA|9M|1.5|4/48hrs|900|2|rifle ammo, x.75armor mod|ray.000|||
+7-* T Hornet-s    .22 Hornet (SMG) 3|4|8(cyl)|SA|8M|1.5|4/48hrs|930|2|rifle ammo, x.75armor mod, includes scope mount, use (LCarb) if scope used|ray.000|||
+7-* T Bee-s         .218 Bee (SMG) 3|4|8(cyl)|SA|8M|1.5|4/48hrs|930|2|rifle ammo, x.75armor mod, includes scope mount, use (LCarb) if scope used|ray.000|||
+7-* T Thirty-s   .30 Carbine (SMG) 3|4|8(cyl)|SA|9M|1.5|4/48hrs|930|2|rifle ammo, x.75armor mod, includes scope mount, use (LCarb) if scope used|ray.000|||
+6-Taurus Tracker
+7-* T 627           .357 Mag (VHP) 3|6|7(cyl)|SA|9M|.82|2/24hrs|450|1|barrel porting (+1 recoil comp)|ray.000|||
+7-* T 425            .41 Mag (VHP) 3|6|5(cyl)|SA|9M|.82|2/24hrs|450|1|barrel porting (+1 recoil comp)|ray.000|||
+7-* T 455          .45 ACP (MPist) 3|6|5(cyl)|SA|8M|.68|2/24hrs|450|1|barrel porting (+1 recoil comp)|ray.000|||
+7-* T 460         .45 Colt (MPist) 3|6|5(cyl)|SA|8M|.68|2/24hrs|450|1|barrel porting (+1 recoil comp)|ray.000|||
+7-* T 627T          .357 Mag (VHP) 3|6|7(cyl)|SA|9M|.66|2/24hrs|563|1|Titanium alloy|ray.000|||
+7-* T 425T           .41 Mag (VHP) 3|6|5(cyl)|SA|9M|.66|2/24hrs|563|1|Titanium alloy|ray.000|||
+7-* T 455T         .45 ACP (MPist) 3|6|5(cyl)|SA|8M|.54|2/24hrs|563|1|Titanium alloy|ray.000|||
+7-* T 460T        .45 Colt (MPist) 3|6|5(cyl)|SA|8M|.54|2/24hrs|563|1|Titanium alloy|ray.000|||
+5-Walther
+6-Walther P22
+7-* W P22           .22 LR (LPist) 3|7|10(c)|SA|5L|.54|2/24hrs|250|1|none|ray.000|||
+7-* W P22T          .22 LR (MPist) 3|6|10(c)|SA|5L|.56|2/24hrs|300|1|none|ray.000|||
+7-* W P22-s         .22 LR (LPist) 3|7|10(c)|SA|5L|.54|2/24hrs|280|1|stainless steel|ray.000|||
+7-* W P22T-s        .22 LR (MPist) 3|6|10(c)|SA|5L|.56|2/24hrs|330|1|stainless steel|ray.000|||
+6-Walther P99
+7-* W P99         9mm Para (LPist) 3|6|16(c)|SA|7M|.6|2/24hrs|550|1|none|ray.000|||
+7-* W P99          .40 S&W (LPist) 3|6|12(c)|SA|8M|.6|2/24hrs|550|1|none|ray.000|||
+7-* W P99-s       9mm Para (LPist) 3|6|16(c)|SA|7M|.6|2/24hrs|580|1|stainless steel|ray.000|||
+7-* W P99-s        .40 S&W (LPist) 3|6|12(c)|SA|8M|.6|2/24hrs|580|1|stainless steel|ray.000|||
+6-Walther PPK
+7-* W PPK          .380 ACP (LHOP) 3|8|6(c)|SA|5M|.59|2/24hrs|550|1|none|ray.000|||
+7-* W PPK           .32 ACP (LHOP) 3|8|7(c)|SA|6L|.59|2/24hrs|550|1|none|ray.000|||
+7-* W PPK            .22 LR (LHOP) 3|8|8(c)|SA|5L|.59|3/7days|500|1|none|ray.000|||
+7-* W PPK           .25 ACP (LHOP) 3|8|9(c)|SA|5L|.59|4/30days|500|2|none|ray.000|||
+7-* W PPK/s        .380 ACP (LHOP) 3|8|7(c)|SA|5M|.65|2/24hrs|550|1|none|ray.000|||
+7-* W PPK/s         .32 ACP (LHOP) 3|8|8(c)|SA|6L|.65|3/7days|550|1|none|ray.000|||
+7-* W PPK/s          .22 LR (LHOP) 3|8|10(c)|SA|5L|.65|3/7days|550|1|none|ray.000|||
+7-* W PP           .32 ACP (LPist) 3|7|8(c)|SA|6L|.71|3/7days|620|1|none|ray.000|||
+3-Tasers
+4-* Colt TP-6A              (Tasr) 3|7|6(m)|SS|8S|.75|6/24hrs|550|1|None|sr2.???|||
+4-* Defiance Super Shock    (Tasr) 3|4|4(m)|SA|10S Stun|2|5/24hrs|1000|1|Low-light Scope|sr3.278|||
+4-* Dynatech Industries HT  (Tasr) 3|7|1|SS|9S Stun|.5|5/36hrs|500|2|None|cb1.6|||
+4-* Enertex AKM Power Squ.  (Tasr) 3|5|50(m)|SS|Drug|1|Always|15|1|None|cb1.6|||
+4-* Excalibur Nightstick    (Tasr) 1|5|1|8S stun|1|4/48hrs|1800|2|cb1.2|||
+5-* Jupiter Taser Club      (Tasr) 3|4|-/1|-/SS|10S stun/8S stun|3|12/14days|1800|3|None|sta2.98|||
+4-* Militech Electronics    (Tasr) 3|6|10(m)|SS|8S Stun|.5|4/24hrs|300|1|None|cb1.7|||
+4-* Militech Electronics II (Tasr) 3|7|10(m)|SS|5S Stun|1.5|5/36hrs|600|1.4|None|cb1.7|||
+4-* Mitsubitshi             (Tasr) 3|6|12(c)|SS|8S Stun|1.5|6/4 days|1000|1|None|cb1.7|||
+4-* Nova Inf. Telcom Taser  (Tasr) 3|8/12|1|SS|6S Stun|.75|12/7days|750|2.5|Fully functioning Telcom unit, half taser range|tss.5|||
+4-* Stundart Pistol         (Tasr) 3|3|2(b)|SS|10S Stun|3.5|8/4days|1090|2|None|cb1.34|||
+4-* Taser II                (Tasr) 1|7|0|5S Stun|.5|4/24hrs|300|1|sr2.???|||
+4-* Techtronica Model 009   (Tasr) 3|3|6(c)|SS|10S Stun|3.5|8/72hrs|1950|2.5|None|sr2.???|||
+4-* Yamaha Pulsar           (Tasr) 3|5|4(m)|SA|8D Stun|2|12/7days|1350|2|None|cc.19|||
+3-Submachine guns
+4-* 9mm Flechette SMG        (SMG) 3|6|30(c)|SA/BF|6M(f)|3|6/4days|2000|2|6 round burst; uses flachette rules|tss.7|||
+4-* AK-97 SMG/Carbine        (SMG) 3|4|30(c)|SA/BF/FA|6M|4|5/3days|800|1|Fold. Stock(1RC)|sr3.278|||
+4-* Arasaka Minami 10        (SMG) 3|6|40(c)|SA/BF/FA|7M|3.25|3/24hrs|1000|.9|None|sr2.???|||
+4-* Ares Tommy Gun           (SMG) 3|2|60(c)|BF/FA|7M|5.5|10/60days|2900|2|RC(6)[Gas Vent III, Foregrip and Stock], drum feed, Smartlink-2|tss.16|||
+4-* Ares Tommy Gun Lite      (SMG) 3|2|15(c)|BF/FA|7M|4.6|10/60days|2900|2|RC(6)[Gas Vent III, Foregrip and Stock], drum feed, Smartlink-2|tss.16|||
+4-* Ares Tommy Gun Heavy     (SMG) 3|-|160(c)|BF/FA|7M|6.4|10/60days|2900|2|RC(6)[Gas Vent III, Foregrip and Stock], drum feed, Smartlink-2|tss.16|||
+4-* Auto-Ord. Thompson(Tommy)(SMG) 3|4|50(c)|BF|9M|5.3|10/12days|1200|4|stats when drum fed, remove drum for conceal 4 and ammo 30(c)|tss.3|||
+4-* Baretta Model 70         (SMG) 3|3|35(c)|BF/FA|6M|3.75|5/72hrs|900|1|Laser sight, Sound Suppressor|cc.21|||
+4-* Beretta M-24 Advanced    (SMG) 3|4|50(c)|BF/FA|7M|3.5|6/4days|950|1.25|None|cb1.32|||
+4-* Beretta M-24 Adv. Smart  (SMG) 3|4|50(c)|BF/FA|7M|3.5|6/4days|1250|1.25|Smartlink|sr2.???|||
+4-* Buzzsaw                  (SMG) 3|4|1000(c)|FA|7L|5.5|12/14days|215|1|None|cp.23|||
+4-* Ceres Tri-Barrel         (SMG) 3|2|36(c)/belt|BF/FA|6L|4.5|9/60hrs|1000|3|Smartlink|cp.24|||
+4-* Colt Cobra TZ-110        (SMG) 3|4|32(c)|SA/BF/FA|6M|3|6/36hrs|800|2|Gas Vent II(2RC), Fold Stock(1RC)|cc.21|||
+4-* Colt Cobra TZ-115        (SMG) 3|4|32(c)|SA/BF/FA|6M|3|6/36hrs|750|2|Laser Sight|cc.21|||
+4-* Colt Cobra TZ-118        (SMG) 3|5|32(c)|SA/BF/FA|6M|3|6/36hrs|850|2|Smartlink|cc.21|||
+4-* Colt M24A3 Water Carbine (SMG) 3|5|30(c)|SA/BF|6M|3.5|5/48hrs|1000|2.5|None|cc.21|||
+4-* DB45-A Double Barrel     (SMG) 3|4|50(c)|SA/BF|7M|3.5|5/72hrs|1500|2|Will not accept underbarrel accessories; 6 round bursts; double recoil|tss.7|||
+4-* Defiance AT-900          (SMG) 3|4|30(c)|SA/BF/FA|6M|3.75|5/36hrs|900|1|Gas Vent (2), Laser Sight|sr2.???|||
+4-* Defiance AT-900 Smart    (SMG) 3|4|30(c)|SA/BF/FA|6M|3.75|5/36hrs|1800|1|Gas Vent (2), Smartlink|sr2.???|||
+4-* Fed. Arms Tech Asslt II  (SMG) 3|5|50(c)|SA/FA|6L|2.5|4/36hrs|600|1|None|sr2.???|||
+4-* FN P55                   (SMG) 3|5|50(c)|SA/BF/FA|8M|3.5|8/4days|650|2.5|Gas Vent (2), Mag:(2)|sr2.???|||
+4-* FN P55 Smart             (SMG) 3|5|50(c)|SA/BF/FA|8M|3.75|9/4days|900|2.75|Gas Vent (2), Smartlink|sr2.???|||
+4-* H&K MP7z Urban Combat    (SMG) 3|6/18|36(c)|SA/BF/FA|7M|1.75|6/6days|2200|2|Gas Vent (3), Silencer|sr2.???|||
+4-* H&K MP7z Urb. Comb.Smart (SMG) 3|6/18|36(c)|SA/BF/FA|7M|2|8/8days|4000|2|Gas Vent (3), Silencer, Smartlink|sr2.???|||
+4-* H&K MP-9                 (SMG) 3|4|25(c)|SA/BF|7M|3.75|5/36hrs|900|1|Gas Vent (3), Smartlink|sr2.???|||
+4-* H&K MP-2013              (SMG) 3|3|35(c)|SA/BF/FA|6M|2.75|5/48hrs|900|1.1|Sound Suppressor|sr2.???|||
+4-* H&K MPK9                 (SMG) 3|5|35(c)|SA/BF|7M|3|5/36hrs|1040|.8|None|sr2.???|||
+4-* H&K MPK-11               (SMG) 3|4|30(c)|SA/FA|7M|3.5|5/48hrs|1400|1.2|None|sr2.???|||
+4-* Heckler & Koch HK227     (SMG) 3|4|28(c)|SA/BF/FA|7M|4|4/24hrs|1500|.75|Laser Sight, Gas Vent II(2RC), Retr. Stock(1RC)|sr3.278|||
+4-* Heckler & Koch HK227-S   (SMG) 3|5|28(c)|SA/BF|7M|3|10/7days|1200|2|Laser Sight, Suppressor, Retr. Stock(1RC)|sr3.278|||
+4-* Heckler & Koch MP-5 TX   (SMG) 3|5|20(c)|SA/BF/FA|6M|3.25|5/36hrs|850|1|Gas Vent II(2RC), Laser Sight|cc.21|||
+4-* Ingram MAC-14            (SMG) 3|6|20(c)|SA/FA|7M|3|4/36hrs|650|1|None|sr2.???|||
+4-* Ingram MAC-20            (SMG) 3|5|20(c)/16(32)(c)|SA/FA|9M/7M|3.75/3.5|6/48hrs|700|1.5|Sound Suppressor|sr2.???|||
+4-* Ingram Smartgun Mod. 20t (SMG) 3|5|32(c)|BF/FA|7M|3|4/24hrs|950|1|Smartlink, Fold. Stock(1RC), Gas Vent II(2RC)|sr3.278|||
+4-* Ingram SuperMach 100 Std (SMG) 3|5|40(c)|SA/BF/FA|6L|3|9/48hrs|850|3|RC(3)|cc.21|||
+4-* Ingram SuperMach 100 Ext (SMG) 3|4|60(c)|SA/BF/FA|6L|3.25|9/48hrs|875|3|RC(3)|cc.21|||
+4-* Ingram Warrior-10        (SMG) 3|4|30(c)|SA/BF|7M|3|3/24hrs|650|.9|None|cc.21|||
+4-* Mal. Arms SubFlechette   (SMG) 3|3(2)|10(30)(c)|BF/FA|6M|4|4/24hrs|795|1|Caseless, Gas Vent (3)|cb1.33|||
+4-* Militech-10              (SMG) 3|2|30(c)|BF/FA|6M|7|5/72hrs|3455|3|Mag:91), Grenade Launcher (4-shot), Sound Suppressor|cb1.35|||
+4-* Militech Mini-Gat Carbne (SMG) 3|1|120(c)|BF/FA|6L|5.75|20/14days|2695|5|Caseless|cb1.34|||
+4-* Nostalgia Ind. Big Bore  (SMG) 3|-|20(c)|SS/BF|8M|4.5|4/24hrs|500|3|None|tss.2|||
+4-* Sandler Model II         (SMG) 3|3|30(c)|BF/FA|6M|3.75|4/24hrs|700|1|Gas Vent (2), Laser Sight|sr2.???|||
+4-* Sandler TMP              (SMG) 3|4|20(c)|BF/FA|6M|3.25|5/36hrs|500|1|Laser sight, Fold Stock(1RC)|cc.21|||
+4-* SCK Model 100            (SMG) 3|4|30(c)|SA/BF|7M|4.5|5/36hrs|1000|1|Smartlink|cc.21|||
+4-* Set.-Arasaka "PMS" Adv.  (SMG) 3|4|40(c)|SA/BF|6M|3.5|4/72hrs|950|1|Caseless, Sound Suppressor|cb1.30|||
+4-* Set.-Arasaka "PMS" Adv.  (SMG) 3|4|40(c)|SA/BF|6M|3.5|4/72hrs|1150|1|Caseless, Smartlink, Sound Suppressor|sr2.???|||
+4-* Sternmeyer SMG 21        (SMG) 3|4|30(c)|SA.BF/FA|7M|3.25|4/36hrs|1000|1.1|None|sr2.???|||
+4-* Steyr MP i 25            (SMG) 3|4|35(c)|SA/BF/FA|6M|3.75|5/60hrs|725|2|Gas Vent (1), Laser Sight|sr2.???|||
+4-* Syrko Eagle              (SMG) 3|4|50(c)|SA/FA|6M|3|5/3days|900|1|Gas Vent (2), Smartlink|sr2.???|||
+4-* Uzi III                  (SMG) 3|5|24(c)|BF|6M|2|4/24hrs|600|.75|Laser Sight, Fold Stock(1RC)|sr3.278|||
+4-* Uzi 3S                   (SMG) 3|5|24(c)|SA/BF|6M|2.5|10/36hrs|900|2|Laser Sight, Sound Suppressor|sr2.???|||
+4-* Uzi IV                   (SMG) 3|4|30(c)|SA/BF/FA|6M|3|6/60hrs|1000|1|Gas Vent (2), Laser Sight|sr2.???|||
+4-* Uzi IV Smart             (SMG) 3|5|30(c)|SA/BF/FA|6M|3.25|8/60hrs|1200|1.25|Gas Vent (2), Smartlink|sr2.???|||
+4-* Uzi Miniauto 9           (SMG) 3|5|30(c)|BF/FA|6M|3|4/36hrs|700|1|None|sr2.???|||
+4-* Walther S900             (SMG) 3|4|30(c)|SA/BF|6M|3|5/36hrs|900|1|Gas Vent (2), Laser Sight|sr2.???|||
+4-H&K
+5-* H&K 227  .227HK         (Carb) 3|4|30(c)|SA/BF/FA|6M|2.3|3/48hrs|1200|1|Integral Smartlink-2|ray.000|||
+5-* H&K 227S 9mm Para        (SMG) 3|3|30(c)|SA/BF/FA|7M|3|3/48hrs|1500|1|Integral Smartlink-2|ray.000|||
+5-* MP5A1 9mm Para           (SMG) 3|4|30(c)|SA/FA|8M|2.5|3/48hrs|1050|1|No Stock (Receiver Cap), SEF Trigger Group|ray.000|||
+5-* MP5A2 9mm Para           (SMG) 3|3|30(c)|SA/FA|8M|2.9|3/48hrs|1100|1|Fixed Stock, SEF Trigger Group|ray.000|||
+5-* MP5A3 9mm Para           (SMG) 3|3|30(c)|SA/FA|8M|2.9|3/48hrs|1150|1|Retractable Stock, SEF Trigger Group|ray.000|||
+5-* MP5A4 9mm Para           (SMG) 3|3|30(c)|SA/BF/FA|8M|3|4/48hrs|1150|1|Fixed Stock, 3-Round Burst Trigger Group|ray.000|||
+5-* MP5A5 9mm Para           (SMG) 3|3|30(c)|SA/BF/FA|8M|3|4/48hrs|1250|1|Retractable Stock, 3-Round Burst Trigger Group|ray.000|||
+5-* MP5N  9mm Para           (SMG) 3|3|30(c)|SA/FA|8M|2.9|6/36hrs|1280|1|Retractable Stock|ray.000|||
+5-* MP5K  9mm Para         (MPist) 3|4|15(c)|SA/FA|7M|2|6/36hrs|950|1|Forgrip -1 RC, Any range over short incurs additional +1/Range level|ray.000|||
+5-* MP5KA1 9mm Para        (MPist) 3|4|15(c)|SA/FA|7M|2|6/36hrs|950|1|Forgrip -1 RC, Any range over short incurs additional +1/Range level|ray.000|||
+5-* MP5KA4 9mm Para        (MPist) 3|4|15(c)|SA/BF/FA|7M|2|6/36hrs|1000|1|Forgrip -1 RC, Any range over short incurs additional +1/Range level|ray.000|||
+5-* MP5KA5 9mm Para        (MPist) 3|4|15(c)|SA/BF/FA|7M|2|6/36hrs|1000|1|Forgrip -1 RC, Any range over short incurs additional +1/Range level|ray.000|||
+5-* MP5K PDW 9mm Para      (MPist) 3|3|15(c)|SA/FA|7M|2.8|6/72hrs|1150|1|Forgrip -1 RC, Folding Stock|ray.000|||
+5-* MP5KN PDW 9mm Para     (MPist) 3|3|15(c)|SA/FA|7M|2.8|6/72hrs|1150|1|Forgrip -1 RC, Folding Stock|ray.000|||
+5-* MP5SD1 9mm Para          (VHP) 3|4|30(c)|SA/FA|6M|3.3|3/48hrs|1690|1|No stock (Receiver Cap), SEF Trigger Group|ray.000|||
+5-* MP5SD2 9mm Para          (VHP) 3|3|30(c)|SA/FA|6M|3.5|3/48hrs|1710|1|Fixed Stock, SEF Trigger Group|ray.000|||
+5-* MP5SD3 9mm Para          (VHP) 3|3|30(c)|SA/FA|6M|3.5|3/48hrs|1760|1|Retractable Stock, SEF Trigger Group|ray.000|||
+5-* MP5SD4 9mm Para          (VHP) 3|4|30(c)|SA/BF/FA|6M|3.3|4/48hrs|1720|1|No stock (Receiver Cap), 3-Round Burst Trigger Group|ray.000|||
+5-* MP5SD5 9mm Para          (VHP) 3|3|30(c)|SA/BF/FA|6M|3.5|4/48hrs|1760|1|Fixed Stock, 3-Round Burst Trigger Group|ray.000|||
+5-* MP5SD6 9mm Para          (VHP) 3|3|30(c)|SA/BF/FA|6M|3.5|4/48hrs|1840|1|Retractable Stock, 3-Round Burst Trigger Group|ray.000|||
+5-* MP5/10A2 10mm Para       (SMG) 3|3|30(c)|SA/FA|10M|2.9|6/36hrs|1280|1|Fixed Stock, Ambidextrous Navy Trigger Group|ray.000|||
+5-* MP5/10A3 10mm Para       (SMG) 3|3|30(c)|SA/FA|10M|2.9|6/36hrs|1280|1|Retractable Stock, Ambidextrous Navy Trigger Group|ray.000|||
+5-* MP5/40A2 .40 S&W         (SMG) 3|3|30(c)|SA/FA|9M|2.9|6/36hrs|1280|1|Fixed Stock, Ambidextrous Navy Trigger Group|ray.000|||
+5-* MP5/40A3 .40 S&W         (SMG) 3|3|30(c)|SA/FA|9M|2.9|6/36hrs|1280|1|Retractable Stock, Ambidextrous Navy Trigger Group|ray.000|||
+5-* MP7 PDW  4.6x30mm        (SMG) 3|4|20(c)|SA/FA|5M|1.2|6/7days|820|1|Retractable Stock|Underbarrel Grip, Rail Mount|ray.000|||
+5-* MP7-SL2 PDW 4.6x30mm     (SMG) 3|4|20(c)|SA/FA|5M|1.5|6/7days|1580|1|Retractable Stock|Underbarrel Grip, Integral Smartlink-2|Rail Mount|ray.000|||
+5-* UMP9A2  9mm Para         (SMG) 3|3|30(c)|SA/BF/FA|7M|2.1|3/48hrs|700|1|Folding Stock, Sling|ray.000|||
+5-* UMP40A2 .40 S&W          (SMG) 3|3|30(c)|SA/BF/FA|8M|2.1|3/48hrs|700|1|Folding Stock, Sling|ray.000|||
+5-* UMP45A2 .45 ACP          (SMG) 3|3|25(c)|SA/BF/FA|8M|2.3|3/48hrs|720|1|Folding Stock, Sling|ray.000|||
+4-Israeli Military Industries
+5-* UZI 9mm Para             (SMG) 3|3|32(c)|SA/FA|8M|3.7|2/24hrs|1150|1|Retractable Stock|ray.000|||
+5-* Mini UZI 9mm Para        (SMG) 3|4|25(c)|SA/FA|7M|2.7|3/36hrs|950|1|Retractable Stock|ray.000|||
+5-* Micro UZI 9mm Para     (MPist) 3|4|20(c)|SA/FA|7M|2|4/48hrs|680|1|Retractable Stock|ray.000|||
+5-* Micro UZI .45 ACP      (MPist) 3|4|16(c)|SA/FA|8M|2.2|4/48hrs|680|1|Retractable Stock|ray.000|||
+4-Izhmash
+5-* Bizon .380 ACP           (VHP) 3|3|64(c)|SA/FA|5M|2.5|3/7days|500|1|Folding Stock, Flash Supressor|ray.000|||
+5-* Bizon 9mm Makarov        (SMG) 3|3|64(c)|SA/FA|7M|2.5|3/7days|500|1|-2 Power if using flash supressor, Folding Stock, Flash Supressor|ray.000|||
+5-* Bizon 9mm Para           (SMG) 3|3|64(c)|SA/FA|7M|2.5|3/7days|500|1|Folding Stock, Flash Supressor|ray.000|||
+5-* Bizon PP27 7.62x25mm   (LCarb) 3|3|45(c)|SA/FA|7M|2.5|3/7days|500|1|Folding Stock, Flash Supressor|ray.000|||
+4-Fabrique Nationale
+5-* P90 5.7x28mm           (LCarb) 3|3|50(c)|SA/FA|6M|2.5|6/7days|1330|1|Fixed Stock, Optical Sight (No Mag), 5L when using subsonic ammunition, Standard ammunition provides a x0.5 Armor Rating modifier|ray.000|||
+4-FAMAE
+5-* SAF 9mm Para Fixed stock (SMG) 3|3|30(c)|SA/BF/FA|7M|2.7|3/48hrs|780|1|Fixed Stock|ray.000|||
+5-* SAF 9mm Para Fold stock  (SMG) 3|3|30(c)|SA/BF/FA|7M|2.7|3/48hrs|780|1|Folding Stock|ray.000|||
+5-* SAF .40 S&W Fixed stock  (SMG) 3|3|30(c)|SA/BF/FA|8M|2.7|3/48hrs|800|1|Fixed Stock|ray.000|||
+5-* SAF .40S&W Folding stock (SMG) 3|3|30(c)|SA/BF/FA|8M|2.7|3/48hrs|800|1|Folding Stock|ray.000|||
+5-* Mini SAF 9mm Para      (MPist) 3|4|30(c)|SA/BF/FA|7M|2.3|5/72hrs|700|1|Forgrip|ray.000|||
+5-* SAF Silenciada 9mm Para  (SMG) 3|3|30(c)|SA/BF/FA|6M|2.7|5/72hrs|1150|1|Integral Silencer|ray.000|||
+4-Steyr
+5-* AUG 9mm Para           (LCarb) 3|4|25(c)|SA/FA|8M|3.3|6/7days|700|1|1.5 Optical Scope, Fixed Stock, Forgrip|ray.000|||
+5-* TMP 9mm Para             (SMG) 3|4|30(c)|SA/BF/FA|7M|2.7|3/48hrs|750|1|Forgrip -1 RC|ray.000|||
+5-* TMP 10mm Auto            (SMG) 3|4|30(c)|SA/BF/FA|9M|2.8|3/48hrs|780|1|Forgrip -1 RC|ray.000|||
+5-* TMP227 .227 HK           (SMG) 3|4|30(c)|SA/BF/FA|6M|2.4|3/48hrs|780|1|Forgrip -1 RC, Damage code 5L if subsonic ammunition is used|ray.000|||
+3-Assault rifles
+4-* Ares Alpha              (AsRf) 3|2|42(c)|SA/BF/FA|8M|5.25|8/48hrs|2000|4|Grenade Launcher 8(m), RC(2), Smartlink-2|cc.22|||
+4-* Ares HVAR               (AsRf) 3|2|50(c)|SA/BF/FA|6M|5|14/7days|3200|4|RC(3), Smartlink-2, 6 rnd BF = 12D, See Rules|cc.22|||
+4-* AK-47                   (AsRf) 3|4|30(c)|SA/BF/FA|9M|6|24/14days|900|2|None|tss.3|||
+4-* AK-97                   (AsRf) 3|3|38(c)|SA/BF/FA|8M|4.5|3/36hrs|700|2|None|sr3.278|||
+4-* AK-98                   (AsRf) 3|2|38(c)|SA/BF/FA|8M|6|8/4days|2500|4|Grenade Launcher (6-shot)|sr3.278|||
+4-* AKR-20                  (AsRf) 3|3|30(c)|SA/BF/FA|8M|4|5/48hrs|1000|2|Gas Vent (1), Laser Sight|sr2.???|||
+4-* Anti-Vehicular Rifle    (AsRf) 3|3|10(c)|SA/BF|8S|5.3|14/16days|6000|3.2|Mag:(2)|sr2.???|||
+4-* Colt M22A2              (AsRf) 3|3|40(c)|SA/BF/FA|8M|4.75|4/3days|1600|2|Gas Vent I(1RC), Mag:(2), Grenade Launcher 6(m)|cc.22|||
+4-* Colt M-23               (AsRf) 3|3|40(c)|SA/BF/FA|8M|4.5|6/36hrs|950|2|None|cc.22|||
+4-* Darra-Polytechnic M-9   (AsRf) 3|3|40(c)|SA/FA|8M|3.75|3/36hrs|1300|.9|Caseless, Mag:(1)|cb1.34|||
+4-* FA-SB5                  (AsRf) 3|2|30(c)|SA/BF|10S|6.2|14/7days|3000|2|drum fed, can also accept belted ammo, heavy weapon recoil applies|tss.7|||
+4-* Federated Arms Light Assault15 3|3|30(c)|BF/FA|8M|3.5|4/36hrs|400|1.25|Caseless, Mag:(1)|cb1.35|||
+4-* Federated Arms Light Assault15 3|3|30(c)|BF/FA|8M|3.5|4/36hrs|700|1.25|Caseless, Mag:(1), Smartlink|cb1.35|||
+4-* FN AGRL                 (AsRf) 3|-|40(c)|SA/BF/FA|8M|5|5/36hrs|2000|2|Gas Vent (2), Grenade Launcher (6-shot), Laser Sight, Mag:(2)|sr2.???|||
+4-* FN HAR                  (AsRf) 3|2|35(c)|SA/BF/FA|8M|4.5|4/48hrs|1200|2|Laser Sight, Gas Vent II(2RC), Fold Stock(1RC)|sr3.278|||
+4-* FN RAL                  (AsRf) 3|3|30(c)|SA/FA|8M|5|5/60hrs|1200|2|Mag:(1)|sr2.???|||
+4-* H&K G9A4z/i             (AsRf) 3|3|30(c)|SA/BF/FA|8M|4|3/36hrs|1500|4|None|sr2.???|||
+4-* Heckler & Koch G12A3z   (AsRf) 3|2|32(c)|SA/BF/FA|8M|5.25|8/4days|2200|3|Laser sight, Gas Vent II(2RC), Tele. Stock, Can have UB GrLn.(-1 Conc)|cc.22|||
+4-* H&K G36A3C Compact      (Carb) 3|3|30(c)|SA/BF/FA|8M|3|4/9 Days|980|2|Retr. Stock provides +1 conceal|bjf.00|||
+4-* H&K HK 70               (AsRf) 3|2(1)|20(45)(c)|SA/BF/FA|8M|3.75|8/7days|950|2|Gas Vent (2)|sr2.???|||
+4-* H&K HK 70 K             (AsRf) 3|3(2)|20(45)(c)|SA/BF/FA|8M|4|8/7days|950|2.25|Gas Vent (2)|sr2.???|||
+4-* Honda AR-1              (AsRf) 3|3|28(c)|BF/FA|8M|4.25|9/6 days|1000|2|Magnifcation (1)|sr2.???|||
+4-* Kalashnikov A-80        (AsRf) 3|1|35(c)|SA/FA|8M|4.5|4/36hrs|1100|2.5|None|sr2.???|||
+4-* Kalishnikov AK-100      (AsRf) 3|-|30(c)|SA/BF/FA|8M|5.75|5/36hrs|1000|2|Gas Vent (2)|sr2.???|||
+4-* Kalishnikov AK-100 Smart(AsRf) 3|-|30(c)|SA/BF/FA|8M|5.75|5/36hrs|2000|2|Gas Vent (2), Smartlink|sr2.???|||
+4-* Kalishnikov AK-101      (AsRf) 3|2|30(m)|SA/BF/FA|8M|5.5|8/4days|1600|2|Gas Vent (2), Laser Sight|sr2.???|||
+4-* Kalishnikov AK-101 Smart(AsRf) 3|2|30(m)|SA/BF/FA|8M|5.5|8/4days|3200|2|Gas Vent (2), Smartlink|sr2.???|||
+4-* M-16A1                  (AsRf) 3|3|20(c)|SA/BF/FA|9M|4|8/4days|1500|2|available 30 round banana clips|tss.3|||
+4-* M-16B                   (AsRf) 3|4/5|20(c)|SA/BF|9M|3.8|8/4days|1625|2|Fold Stock, available 30 round banana clip|tss.3|||
+4-* Maremont LR             (AsRf) 3|3|36(c)|BF/FA|8M|4.25|6/4days|1400|2.5|Laser Sight, Mag:(1)|sr2.???|||
+4-* Militech Cyborg Rifle   (AsRf) 3|2|30(c)|SA|6S|7.5|10/7days|800|2.5|Gas Vent (2)|sr2.???|||
+4-* Militech M-31a1 AICW    (AsRf) 3|1|150(c)|SA/BF/FA|6M|6.5|20/28days|1695|4.5|Grenade Launcher (4-shot)|cb1.31|||
+4-* Militech Ronin LgtAssalt(AsRf) 3|1|35(c)|SA/BF/FA|8M|3.5|4/48hrs|900|2|Laser Sight|sr2.???|||
+4-* Parker Carbine          (AsRf) 3|3|500(c)|FA|6M|5.1|12/7days|2500|1|Caseless, Gas Vent (2), RC:is halved|sr2.???|||
+4-* Semopal vz/88V          (AsRf) 3|2|35(c)|SA/BF/FA|8M|5.5|5/36hrs|1800|2|Laser sight, Gas Vent II(2RC), Fold Stock, Mag:(2)|cc.22|||
+4-* S&W MdF "Cyborg Assault"(AsRf) 3|4|8(c)|SS|8S|4|10/5days|1650|2.5|22mm Muzzle Adaptor|cb1.35|||
+4-* SIG 880                 (AsRf) 3|2|30(c)|SA/BF|8M|4|4/36hrs|850|2|Gas Vent (2), Laser Sight|sr2.???|||
+4-* SIG 882                 (AsRf) 3|3|30(c)|SA/BF|8M|4|5/36hrs|850|2|Gas Vent (2), Laser Sight|sr2.???|||
+4-* Seco M-995              (AsRf) 3|-|30(c)|SA/BF/FA|8M|5.75|10/4days|3000|3|Gas Vent (3), Grenade Launcher (6-shot), Laser Sight, Rangefinder Grenade Link|sr2.???|||
+4-* Seco M-995 Smart        (AsRf) 3|-|30(c)|SA/BF/FA|8M|5.75|10/4days|6000|3|Gas Vent (3), Grenade Launcher (6-shot), Rangefinder Grenade Link, Smartlink|sr2.???|||
+4-* Shadow Arms Bullpup AR  (AsRf) 3|4|40(c)|SA/BF/FA|8M|3.5|8/7days|3700|2|1 point recoil comp|tss.7|||
+4-* Vehement A-V Standard   (AsRf) 3|2|8(c)|SA/BF|8S|6|12/7days|8000|3|Uses Gunnery skill and Heavy Weapons recoil|tss.6|||
+4-* Vehement A-V Full Auto  (AsRf) 3|2|8(c)|SA/BF/FA|8S|6|12/7days|8500|3|Must be mounted, uses Heavy Weapon recoil|tss.6|||
+4-* Car-33 OIWS 5mm Caseles (AsRf) 3|2|50(c)|SA/BF/FA|8M|4.17|18/36 wks|7530|4|Smartlink II, Advanced Biometric Safety, 20mm ATG Grenade Launcher|ray.000|||
+4-* Armalite AR10 Carbine   (AsRf) 3|2|20(c)|SA/FA|9S|4|5/72hrs|1435|2|gas vent 2, retractable stock (+1 conceal when retracted), double uncompensated recoil.  Uses 7.62mm NATO|ray.000|||
+4-* Armalite AR10            (LMG) 3|2|20(c)|SA/FA|9S|4.35|4/72hrs|1435|2|gas vent 2, double uncompensated recoil.  Uses 7.62mm NATO|ray.000|||
+4-* Armalite AR10(T)        (Snip) 3|2|10(c)|SA|9S|4.7|5/14 days|2080|3|gas vent 2, double uncompensated recoil.  Uses 7.62mm NATO|ray.000|||
+4-* F2000 5.56mm            (AsRf) 3|3|30(c)|SA/FA|9M|3.6|3/4days|950|2||ray.000|||
+4-* FAMAS F1 5.56mm NATO    (AsRf) 3|2|25(c)|SA/BF/FA|9M|3.6|5/7days|950|3|folding bipod, seperate switch for BF/FA (another simple action)|ray.000|||
+4-* FAMAS G1 5.56mm NATO    (AsRf) 3|2|30(c)|SA/BF/FA|9M|3.6|5/7days|880|3|folding bipod, seperate switch for BF/FA (another simple action)|ray.000|||
+4-* Ruger AC556F 5.56mmNATO (Carb) 3|3|20(c)|SA/BF/FA|9M|3.5|6/5days|480|3|folding stock (+1 conceal when folded)|ray.000|||
+4-* Ruger AC556FSD .300Whis (Carb) 3|2|20(c)|SA/BF/FA|8M|3.5|6/5days|1650|3|folding stock (+1 conceal when folded), 9M if supersonic|ray.000|||
+4-* Ruger Mini14SD .300Whis (Carb) 3|2|5(c)|SA|8M|3.5|6/5days|1350|3|folding stock (+1 conceal when folded), 9M if supersonic|ray.000|||
+4-* Sig SG550 5.56mm NATO   (AsRf) 3|2|30(c)|SA/BF/FA|9M|4.1|4/9days|1250|2|folding stock (+1 conceal when folded), folding bipod|ray.000|||
+4-* Sig SG551 5.56mm NATO   (Carb) 3|3|30(c)|SA/BF/FA|9M|3.5|4/9days|1100|2|folding stock (+1 conceal when folded)|ray.000|||
+4-* Sig SG552 5.56mm NATO   (Carb) 3|4|30(c)|SA/BF/FA|8M|3.5|4/9days|1050|2|folding stock (No conceal bonus when folded)|ray.000|||
+4-* M1A 7.62mm NATO          (LMG) 3|2|10(c)|SA|9S|4.2|4/48hrs|1300|2|can use 20 rnd clip, double uncompensated recoil|ray.000|||
+4-* M14 7.62mm NATO          (LMG) 3|2|20(c)|SA/FA|9S|4.2|6/72hrs|1500|3|can use 10 rnd clip, double uncompensated recoil|ray.000|||
+4-* SOCOM16 7.62mm NATO     (AsRf) 3|3|20(c)|SA|9S|4|6/72hrs|1730|3|forward scope mount, can use 10 rnd clip, double uncompensated recoil|ray.000|||
+4-* AUG A1 5.56mm NATO      (AsRf) 3|3|30(c)|SA/FA|9M|3.6|6/7days|1050|3|gray, green, or black, level 0 scope, stock and forgrip each give 1 recoil comp|ray.000|||
+4-* AUG A2 5.56mm NATO      (AsRf) 3|3|30(c)|SA/FA|9M|3.6|6/7days|1050|3|gray, green, or black, M1913 Rail, level 0 scope, stock and forgrip each give 1 recoil comp|ray.000|||
+4-* Vektor CR21 5.56mm NATO (AsRf) 3|3|35(c)|SA/FA|9M|3.8|5/7days|1185|3|Can use 20 rnd clip, Reflex sight (TN-1), Picatinny Rail.  Fire mode switch not Smartlink compatible|ray.000|||
+4-* Vektor CR21C 5.56mmNATO (AsRf) 3|4|20(c)|SA/FA|8M|3.5|5/7days|1050|3|Can use 35 rnd clip, Reflex sight (TN-1), Picatinny Rail.  Fire mode switch not Smartlink compatible|ray.000|||
+4-* Zastava M77B1 7.62mNATO (SptR) 3|2|30(c)|SA/FA|9S|5|4/9days|900|2|double uncompensated recoil|ray.000|||
+4-* Zastava M77AB1 7.62NATO (SptR) 3|2|30(c)|SA/FA|9S|4.8|4/9days|920|2|double uncompensated recoil, folding stock (+1 conceal when folded)|ray.000|||
+4-* Zastava M77LMG 7.62NATO (SptR) 3|-|30(c)|SA/FA|9S|5.4|4/9days|1050|2|21" heavy barrel (+1 comp), bipod, double uncompensated recoil|ray.000|||
+4-Singapore Tech Kinetics
+5-* SAR 21 5.56mm NATO      (AsRf) 3|3|30(c)|SA/FA|9M|4|5/7days|1395|3|laser targeter (TN-1).  Fire mode switch not Smartlink compatible|ray.000|||
+5-* SAR MMS 5.56mm NATO     (AsRf) 3|3|30(c)|SA/FA|9M|3.6|5/7days|1295|3|laser targeter (TN-1)|ray.000|||
+5-* SAR 21 5.56mm NATO sc   (AsRf) 3|3|30(c)|SA/FA|9M|4|5/7days|1425|3|scope 1, laser targeter (TN-1).  Fire mode switch not Smartlink compatible|ray.000|||
+5-* SAR MMS 5.56mm NATO sc  (AsRf) 3|3|30(c)|SA/FA|9M|3.6|5/7days|1325|3|scope 1, laser targeter (TN-1)|ray.000|||
+4-Colt M16 Series
+5-* AR15 .223 Rem           (AsRf) 3|2|30(c)|SA|9M|3.4|2/24hrs|800|2||ray.000|||
+5-* M16A1 5.56mm NATO       (AsRf) 3|2|30(c)|SA/FA|9M|2.9|6/7 days|2000|3||ray.000|||
+5-* M16A2 5.56mm NATO       (AsRf) 3|2|30(c)|SA/BF|9M|3.4|6/36hrs|800|3||ray.000|||
+5-* M16A3 5.56mm NATO       (AsRf) 3|2|30(c)|SA/FA|9M|3.5|6/36hrs|800|3|integral M1913 Picatinny Rail|ray.000|||
+5-* M16A4 5.56mm NATO       (AsRf) 3|2|30(c)|SA/BF|9M|3.5|6/36hrs|800|3||ray.000|||
+5-* M4 5.56mm NATO          (Carb) 3|3|30(c)|SA/BF|9M|2.6|6/36hrs|750|3|retractable stock (+1 conceal retracted)|ray.000|||
+5-* M4A1 5.56mm NATO        (Carb) 3|3|30(c)|SA/FA|9M|2.7|6/36hrs|750|3|retractable stock (+1 conceal retracted), integral M1913 Picatinny Rail|ray.000|||
+5-* M4C 5.56mm NATO         (Carb) 3|3|30(c)|SA/FA|8M|2.4|6/36hrs|700|3|retractable stock (+1 conceal retracted)|ray.000|||
+4-Colt M23 Series
+5-* AR23 .223 Rem           (AsRf) 3|3|30(c)|SA|9M|3.5|2/24hrs|800|2||ray.000|||
+5-* M23 5.56mm NATO         (AsRf) 3|3|40(c)|SA/BF/FA|9M|3.5|6/36hrs|950|3||ray.000|||
+5-* M23C 5.56mm NATO        (Carb) 3|3|30(c)|SA/BF/FA|9M|2.6|6/36hrs|1050|3|retractable stock (+1 conceal retracted)|ray.000|||
+5-* M23C3 .300 Whisper      (Carb) 3|4|30(c)|SA/BF/FA|8M|3|6/72hrs|1800|3||ray.000|||
+4-Fusil Automatique L�gere
+5-* FAL 50.00 7.62mm NATO    (LMG) 3|2|20(c)|SA/FA|9S|4.3|5/7days|1500|3|double uncompensated recoil|ray.000|||
+5-* FAL 50.64 7.62mm NATO    (LMG) 3|2|20(c)|SA/FA|9S|3.9|5/7days|1500|3|folding stock (+1 conceal when folded), double uncompensated recoil|ray.000|||
+5-* FAL StG58A 7.62mm NATO   (LMG) 3|2|20(c)|SA|9S|4.3|4/48hrs|995|2|includes bipod, double uncompensated recoil|ray.000|||
+5-* FAL Para 7.62mm NATO    (AsRf) 3|3|20(c)|SA/FA|9S|3.75|5/7days|1500|3|folding stock (+1 conceal when folded), double uncompensated recoil|ray.000|||
+5-* FAL StG58C 7.62mm NATO  (AsRf) 3|3|20(c)|SA/FA|9S|3.85|5/7days|1050|3|includes bipod, double uncompensated recoil|ray.000|||
+5-* FAL SA58C 7.62mm NATO   (AsRf) 3|3|20(c)|SA|9S|3.85|4/48hrs|1395|2|double uncompensated recoil|ray.000|||
+5-* FAL OSW1 7.62mm NATO    (Carb) 3|3|20(c)|SA|7S|4.25|4/48hrs|1525|2|folding stock (+1 conceal when folded), double uncompensated recoil|ray.000|||
+5-* FAL OSW2 7.62mm NATO    (Carb) 3|3|20(c)|SA/FA|7S|4.25|5/7days|1525|3|folding stock (+1 conceal when folded), double uncompensated recoil|ray.000|||
+5-* FNC 5.56mm              (AsRf) 3|2|30(c)|SA/BF/FA|9M|3.6|3/4days|730|2||ray.000|||
+5-* FNC Para 5.56mm         (AsRf) 3|2|30(c)|SA/BF/FA|9M|3.8|3/4days|750|2|folding stock (+1 conceal when folded)|ray.000|||
+5-* FNC Sporter 5.56mm      (AsRf) 3|2|30(c)|SA|9M|3.6|4/48hrs|730|2||ray.000|||
+4-H&K
+5-* H&K G3A3 7.62mm NATO     (LMG) 3|2|20(c)|SA/FA|9S|4.4|5/7days|1200|3|double uncompensated recoil|ray.000|||
+5-* H&K G3KA4 7.62mm NATO   (AsRf) 3|3|20(c)|SA/FA|7S|4.1|5/7days|1120|3|retractable stock (+1 conceal retracted), double uncompensated recoil|ray.000|||
+5-* H&K G11A4zC 5.08x35mm   (AsRf) 3|2|50(c)|SA/BF/FA|9M|4.37|14/18days|5550|4|retractable stock (No conceal bonus retracted), no barrel mount, special recoil, smartlink2|ray.000|||
+5-* H&K G36A3C 5.56mm NATO  (Carb) 3|3|30(c)|SA/BF/FA|8M|3|4/9days|980|2|retractable stock (+1 conceal retracted)|ray.000|||
+5-* H&K G36A3C 5.56mm NATO  (Carb) 3|3|30(c)|SA/BF/FA|8M|3|4/9days|980|2|retractable stock (+1 conceal retracted)|ray.000|||
+5-* H&K G36KA3 5.56mm NATO  (Carb) 3|3|30(c)|SA/BF/FA|9M|3|4/9days|1820|2|level 1 scope, red-dot sight (TN-1)|ray.000|||
+5-* H&K G36 5.56mm NATO     (AsRf) 3|2|30(c)|SA/BF/FA|9M|3.3|4/9days|1820|2|level 1 scope, red-dot sight (TN-1)|ray.000|||
+5-* H&K MG36 5.56mm NATO    (AsRf) 3|-|100 drum|SA/BF/FA|9M|4|4/9days|1820|2|level 1 scope, red-dot sight (TN-1)|ray.000|||
+5-* H&K G36/7KA3 7.62mm NATO (LMG) 3|3|20(c)|SA/BF/FA|9S|3.4|4/9days|2150|2|level 1 scope, red-dot sight (TN-1), double uncompensated recoil|ray.000|||
+5-* H&K G36/7A3 7.62mm NATO  (LMG) 3|2|20(c)|SA/BF/FA|9S|4|4/9days|2150|2|level 1 scope, red-dot sight (TN-1), double uncompensated recoil|ray.000|||
+5-* H&K MG36/7 7.62mm NATO   (LMG) 3|-|100 drum|SA/BF/FA|9S|4.6|4/9days|2150|2|level 1 scope, red-dot sight (TN-1), double uncompensated recoil|ray.000|||
+5-* H&K HK53A2 7.62mm NATO  (AsRf) 3|2|30(c)|SA/FA|9M|3.8|4/9days|1150|2|390mm barrel, SEF Trigger Group, double recoil|ray.000|||
+5-* H&K HK53KA2 7.62mm NATO (Carb) 3|2|30(c)|SA/FA|9M|3.65|4/9days|1200|2|322mm barrel, SEF Trigger Group, double recoil|ray.000|||
+5-* H&K HK53A2 5.56mm NATO  (Carb) 3|2|30(c)|SA/FA|8M|3.05|4/9days|980|2|3-rnd burst Trigger Group|ray.000|||
+5-* H&K HK53A3 5.56mm NATO  (Carb) 3|2|30(c)|SA/FA|8M|3.05|4/9days|1000|2|3-rnd burst Trigger Group, retractable stock (+1 conceal retracted)|ray.000|||
+4-Israeli Military Industry
+5-* Galil AR 5.56mm NATO    (AsRf) 3|2|35(c)|SA/FA|9M|3.95|4/9days|1500|2|folding stock (+1 conceal when folded)|ray.000|||
+5-* Galil SAR 5.56mm NATO   (AsRf) 3|3|35(c)|SA/FA|9M|3.75|4/9days|1450|2|folding stock (+1 conceal when folded)|ray.000|||
+5-* Galil MAR 5.56mm NATO   (AsRf) 3|3|35(c)|SA/FA|8M|3|4/9days|1000|2|folding stock (+1 conceal when folded)|ray.000|||
+5-* Galil ARM 7.62mm NATO   (AsRf) 3|2|25(c)|SA/FA|9S|4.35|4/9days|1750|2|folding stock (+1 conceal when folded), double recoil|ray.000|||
+5-* Galil AR 7.62mm NATO    (AsRf) 3|2|25(c)|SA/FA|9S|3.95|4/9days|1500|2|folding stock (+1 conceal when folded), double recoil|ray.000|||
+5-* Galil SAR 7.62mm NATO   (AsRf) 3|3|25(c)|SA/FA|8S|3.75|4/9days|1450|2|folding stock (+1 conceal when folded), double recoil|ray.000|||
+5-* TAR-21 5.56mm           (AsRf) 3|2|30(c)|SA/FA|9M|3.5|4/9days|1130|2|integral reflex sight (TN-1)|ray.000|||
+5-* TAR commando 5.56mm     (Carb) 3|3|30(c)|SA/FA|9M|3.5|4/9days|1130|2|integral reflex sight (TN-1)|ray.000|||
+5-* TAR micro 5.56mm        (Carb) 3|4|20(c)|SA/BF/FA|8M|3.2|4/9days|980|2|integral reflex sight (TN-1)|ray.000|||
+4-Izhmash Kalashnikov
+5-* AK74M 5.45x39mm         (AsRf) 3|2|30(c)|SA/FA|9M|3.6|3/7days|500|2|folding stock (+1 conceal when folded), gas vent 3|ray.000|||
+5-* AK101 5.56mm NATO       (AsRf) 3|2|30(c)|SA/FA|9M|3.6|3/7days|500|2|folding stock (+1 conceal when folded), gas vent 3|ray.000|||
+5-* AK102 5.56mm NATO       (Carb) 3|3|30(c)|SA/FA|9M|3.3|3/7days|800|2|folding stock (+1 conceal when folded), gas vent 3|ray.000|||
+5-* AK103 7.62x39mm         (AsRf) 3|2|30(c)|SA/FA|9M|3.6|3/7days|500|2|folding stock (+1 conceal when folded), gas vent 3|ray.000|||
+5-* AK104 7.62x39mm         (Carb) 3|3|30(c)|SA/FA|9M|3.3|3/7days|800|2|folding stock (+1 conceal when folded), gas vent 3|ray.000|||
+5-* AK105 5.45x39mm         (Carb) 3|3|30(c)|SA/FA|9M|3.3|3/7days|800|2|folding stock (+1 conceal when folded), gas vent 3|ray.000|||
+5-* AK107 5.56mm NATO       (AsRf) 3|2|30(c)|SA/BF/FA|9M|3.6|3/7days|800|2|internal comp 2, folding stock (+1 conceal when folded), gas vent 3|ray.000|||
+5-* AK108 5.45x39mm         (AsRf) 3|2|30(c)|SA/BF/FA|9M|3.6|3/7days|800|2|internal comp 2, folding stock (+1 conceal when folded), gas vent 3|ray.000|||
+5-* AN-94 5.45x39mm         (AsRf) 3|2|30(c)|SA/BF/FA|9M|3.6|3/7days|1250|2|folding stock (+1 conceal when folded), special recoil|ray.000|||
+3-Shotguns
+4-* Arasaka Rapid Ass.Shot12(ShtG) 3|1|20(c)|SA/FA|8S|5.5|8/10days|1800|2.25|None|sr2.???|||
+4-* Ares Thunderer          (ShtG) 3|0|10(c)/10(c)|SA/BF|10S|6.1|8/1month|2925|3|Troll Designed, Heavy Barrel(1RC), Shock Pads(1RC), Foregrip(1RC)|cc.78|||
+4-* Ares Wippet             (ShtG) 3|4|6(m)|SA|6M/9M|2|5/36hrs|1500|1.5|None|sr2.???|||
+4-* Autoshot Riot Gun       (ShtG) 3|2|20(c)|SA/FA|9S|4.5|10/7days|1500|2|None|sr2.???|||
+4-* Benelli M1014           (ShtG) 3|2|6(m)|SA|10S/10D(f)|3.82|6/48hours|980|1|Low power "less-than-lethal" ammo can be manually cycled with the ext. bolt handle. Collapsible stock(1RC)|cc.0|||
+4-* Benelli M1 Entry        (ShtG) 3|3|5(m)|SA|9S|3.22|4/6 days|750|1|Pistol Grip stock, -1 Recoil, Uses Lpist ranges|cc.0|||
+4-* Benelli M1 Tactical     (ShtG) 3|2|5(m)|SA|10S/10D(f)|3.52|4/24 hours|800|1|Pistol Grip stock, -1 Recoil|cc.0|||
+4-* Chandler Capture 100    (ShtG) 3|3|10(m)|SA|10S|4|4/24hrs|1500|2|Gas Vent (2), Shock Pads|sr2.???|||
+4-* Chandler Capt. 100 Smart(ShtG) 3|3|10(m)|SA|10S|4|4/24hrs|2200|2|Gas Vent (2), Shock Pads, Smartlink|sr2.???|||
+4-* Syrko Cobra             (ShtG) 3|2(4)|10(c)|SA|10S|4.5|4/60hrs|1200|1|Smartlink|sr2.???|||
+4-* Defiance T-250          (ShtG) 3|4|5(m)|SA|10S|3|3/24hrs|500|1|None|sr3.278|||
+4-* Eichiro Hatamoto II     (ShtG) 3|6|1|SS|8S|2.5|12/7days|1200|2|None|sr2.???|||
+4-* Enfield AS7             (ShtG) 3|3|10(c)|SA/BF|8S|4|8/8days|1000|1|Laser Sight|sr3.278|||
+4-* Franchi SPAS-15     12G (ShtG) 3|2|6(c)|SS/SA|10S|3.9|4/36hrs|1150|2|folding stock (+1 conceal when folded), simple to change SS to SA|ray.000|||
+4-* Franchi SPAS-22         (ShtG) 3|2(4)|10(m)|SA/BF|10S|4|8/8days|1000|2|Smartlink-2, Fold Stock(1RC,-2Conc)|cc.23|||
+4-* Holland&Holland .600 NE (ShtG) 3|-|2(b)|SA|12S|4.5|-|10000|-|None|sr2.???|||
+4-* Kimatsuhama UBS-5       (ShtG) 3|(-2)|4(m)|SS|7S|2.25|5/48hrs|500|1.1|None|sr2.???|||
+4-* Kimatsuhama UBS-6       (ShtG) 3|(-2)|6(m)|SA|7S|2.5|6/48hrs|750|1.1|None|sr2.???|||
+4-* Kimatsuhama UBS-7       (ShtG) 3|(-3)|2x 4(m)|2x SS|7S|3.5|10/7days|1700|1.25|None|sr2.???|||
+4-* "King Buck" Multi-Magnum(ShtG) 3|1|4(m)|SA|9S|7|12/4days|800|2.1|None|sr2.???|||
+4-* Militech Crusher SSG    (ShtG) 3|5|6(c)|SA|6S/8M|3|6/48hrs|1450|1.5|None|cb1.30|||
+4-* Militech Mil/Pol 10ga.  (ShtG) 3|2|6(m)|SA|10S|4.5|4/60hrs|800|1|None|cb1.33|||
+4-* Militech Mil/Pol 12ga.  (ShtG) 3|2|8(m)|SA|8S|4.5|4/60hrs|800|1|None|cb1.33|||
+4-* Mossberg CMDT           (ShtG) 3|2|8(c)|SA/BF|9S|4.25|8/8days|1000|1|Laser sight|cc.23|||
+4-* Mossberg CMDT           (ShtG) 3|4|8(c)|SA/BF|8S|4.25|8/8days|1000|1|Laser sight, Heavy pistol ranges|cc.23|||
+4-* Mossberg SM-CMDT        (ShtG) 3|2|8(c)|SA/BF|9S|4.5|12/8days|1500|2|Smartlink|cc.23|||
+4-* Mossberg SM-CMDT        (ShtG) 3|4|8(c)|SA/BF|8S|4.5|12/8days|1500|2|Smartlink, Heavy pistol ranges|cc.23|||
+4-* Neostead Home Defense   (ShtG) 3|8|6(c)|SS|11S(f)|3.25|3/6days|850|1.75|Uses Flechette rules|tss.2|||
+4-* Neostead Combat         (ShtG) 3|8|12(c)|SS|12S|3.5|8/10days|1450|3|2 different types of ammo w/ selector switch|tss.2|||
+4-* Nostal. Ind. Scattergun (ShtG) 3|-|3(c)|SS|10S(f)|5|8/48hrs|280|2.75|Uses Flechette rules|tss.2|||
+4-* Nostal. Ind. Police PM5 (ShtG) 3|1|7(c)|SA|9S(f)|5|5/72hrs|650|2.5|Requires special clips|tss.2|||
+4-* Ranger Arms Security 12 (ShtG) 3|3|15(c)|SA/BF/FA|10S|4.5|10/8days|2000|2|Gas Vent (2), Laser Sight|sr2.???|||
+4-* Remington 990           (ShtG) 3|2|8(m)|SA|8S/10D(f)|4|3/48hrs|650|2|Slug(8S),Shot(10D(f))|cc.23|||
+4-* Remington 990 Sawed-Off (ShtG) 3|4|8(m)|SA|6S/8D(f)|3|3/48hrs|650|2|Slug(6S),Shot(8D(f)|cc.23|||
+4-* Remington 1628          (ShtG) 3|4|8(m)|SS|8S|3|3/24hrs|500|1|None|sr2.???|||
+4-* Remington Rapid Asslt12 (ShtG) 3|3|15(c)|SA/BF|10S|4.5|12/8days|2000|2|Smartlink|sr2.???|||
+4-* Sandler "Mad Max"       (ShtG) 3|5|2(b)|SA|6S|2.25|4/48hrs|400|1|None|sr2.???|||
+4-* Saiga 12K               (ShtG) 3|2|8(c)|SA/FA|10S/10D(f)|3.5|6/36 Hours|780|2|Collapsible stock|bjf.00|||
+4-* Savage Model 77E        (ShtG) 3|4|5(m)|SA|12S|4.5|8/12days|1100|2|None|tss.3|||
+4-* Sternmeyer Stakeout 10  (ShtG) 3|4|10(m)|SA|9S|3.75|8/7days|900|1.5|None|sr2.???|||
+4-* Stoeger Coach Gun       (ShtG) 3|3|2|SS|10S/10D(f)|2.9|2/24 Hours|250|1|None|bjf.00|||
+4-* Street Sweeper ShtG     (Tasr) 3|-|1(b)|SS|10S(f)|3|5/24hrs|200|2|None|cc.23|||
+4-* VC Boxlock Hammerless   (ShtG) 3|6|2(b)|SS|12S|3.6|24/48hrs|700|1.8|Collapsible stock|tss.3|||
+4-* Win. 1300 Defender PG   (ShtG) 3|2|6(m)|SA|11S|4|4/24hrs|870|2.5|Pistol grips|tss.3|||
+4-* Win. 1300 Defender SS   (ShtG) 3|4|6(m)|SA|11S|3.6|4/24hrs|950|2.5|Collapsible stock|tss.3|||
+4-* Wirtz SW3i DemoControl  (ShtG) 3|3|4(m)|SS|(special)|3|9/16days|600|4|None|sr2.???|||
+4-* Wristbreaker I          (ShtG) 3|2(3)|2x 10(m)|2x SA/FA|8S|4.25|14/14days|1450|3|None|cp.25|||
+4-* Wristbreaker II         (ShtG) 3|3(4)|2x 5(m)|2x SA|8S|2.75|8/10days|1450|1.5|None|cp.25|||
+4-* AET Nesostead NS    12G (ShtG) 3|3|2x 6(m)|SS|10S|3.9|2/24hrs|650|1|magazine selector: simple action to switch magazine feeds|ray.000|||
+4-* Jackhammer M3       12G (ShtG) 3|2|10(cassette)|SA/FA|10S|3.72|6/36hrs|1250|3|double recoil, no mounts for top, barrel, under, or stock|ray.000|||
+4-Benelli
+5-* Benelli M1 Tactical 12G (ShtG) 3|2|5(m)|SA|10S|3.52|4/24hrs|800|2|none|ray.000|||
+5-* Benelli M1 Entry   12G (LPist) 3|2|5(m)|SA|9S|3.22|4/6days|750|2|none|ray.000|||
+5-* Beneli M1 TacticalP 12G (ShtG) 3|2|5(m)|SA|10S|3.52|4/24hrs|830|2|folding pistol grip stock(+1 conceal when folded)|ray.000|||
+5-* Beneli M1 EntryP   12G (LPist) 3|2|5(m)|SA|9S|3.22|4/6days|780|2|folding pistol grip stock(+1 conceal when folded)|ray.000|||
+5-* Benelli M3S90       12G (ShtG) 3|2|7(m)|SS/SA|10S|3.74|4/36hrs|920|2|simple to switch SS to SA|ray.000|||
+5-* Benelli M3S90 Smart 12G (ShtG) 3|2|7(m)|SS/SA|10S|3.74|4/36hrs|1670|2|smart1, simple to switch SS to SA|ray.000|||
+5-* Benelli M3S90SmartS 12G (ShtG) 3|2|7(m)|SS/SA|10S|3.74|4/36hrs|1720|2|smart1, free to switch SS to SA|ray.000|||
+5-* Benelli M1014       12G (ShtG) 3|2|6(m)|SA|10S|3.82|6/48hrs|980|2|can manually advance|ray.000|||
+5-* Benelli Nova Slug    12G (SMG) 3|2|6(m)|SS|10S|3.75|2/24hrs|350|1|if steel shot is used, reduce range to LPist after 150 shots|ray.000|||
+4-Fabarm
+5-* Fabarm FP6          12G (ShtG) 3|2|5(m)|SS|10S|3.6|2/24hrs|520|1|Pump action (simple to ready, simple to fire)|ray.000|||
+5-* Fabarm FP6 Entry   12G (LPist) 3|3|5(m)|SS|10S|2.9|3/36hrs|500|2|Pump action (simple to ready, simple to fire)|ray.000|||
+5-* Fabarm FP6 P        12G (ShtG) 3|2|5(m)|SS|10S|3.6|2/24hrs|550|1|folding pistol grip stock(+1 conceal when folded), Pump action (simple to ready, simple to fire)|ray.000|||
+5-* Fabarm FP6 Entry P 12G (LPist) 3|3|5(m)|SS|10S|2.9|3/36hrs|530|2|folding pistol grip stock(+1 conceal when folded), Pump action (simple to ready, simple to fire)|ray.000|||
+5-* Fabarm Tactical     12G (ShtG) 3|2|5(m)|SA|10S|3|2/24hrs|520|1|none|ray.000|||
+5-* Fabarm Tactical     12G (ShtG) 3|2|5(m)|SA|10S|3|2/24hrs|550|1|folding pistol grip stock(+1 conceal when folded)|ray.000|||
+4-Saiga
+5-* Saiga 12K           12G (ShtG) 3|3|7(c)|SA|10S|3.5|6/36hrs|600|3|folding stock (+1 conceal when folded, locks weapon), double recoil|ray.000|||
+5-* Saiga 12K mod1      12G (ShtG) 3|3|7(c)|SA/FA|10S|3.5|6/36hrs|650|3|folding stock (+1 conceal when folded, locks weapon), double recoil|ray.000|||
+5-* Saiga 12K mod2      12G (ShtG) 3|3|7(c)|SA/FA|10S|3.5|6/36hrs|660|3|folding stock (+1 conceal when folded), double recoil|ray.000|||
+4-Stoeger Coach Gun
+5-* Coach Gun 12        12G (ShtG) 3|3|2(breech)|SS|10S|2.9|2/24hrs|250|1|complex to chamber 2, simple each fire.  Can not fire simultaneously|ray.000|||
+5-* Coach Gun 20        20G (ShtG) 3|3|2(breech)|SS|8S|2.9|2/24hrs|250|1|complex to chamber 2, simple each fire.  Can not fire simultaneously|ray.000|||
+5-* Coach Gun      .410Bore (ShtG) 3|3|2(breech)|SS|9M|2.9|2/24hrs|250|1|complex to chamber 2, simple each fire.  Can not fire simultaneously|ray.000|||
+5-* Coach Gun 12 sawed  12G (LHop) 3|4|2(breech)|SS|9S|2.9|2/24hrs|250|1|complex to chamber 2, simple each fire.  Can not fire simultaneously|ray.000|||
+5-* Coach Gun 20 sawed  20G (LHop) 3|4|2(breech)|SS|7S|2.9|2/24hrs|250|1|complex to chamber 2, simple each fire.  Can not fire simultaneously|ray.000|||
+5-* Coach Gun sawed .41Bore (LHop) 3|4|2(breech)|SS|8M|2.9|2/24hrs|250|1|complex to chamber 2, simple each fire.  Can not fire simultaneously|ray.000|||
+4-Mossberg
+5-* Mossberg 590        12G (ShtG) 3|2|8(m)|SS|10S|3.1|2/24hrs|450|1|Pump action (simple to ready, simple to fire)|ray.000|||
+5-* Mossberg 590DA      12G (ShtG) 3|2|8(m)|SS|10S|3.1|2/24hrs|510|1|Double Action, Pump action (simple to ready, simple to fire)|ray.000|||
+5-* Mossberg 590A1C    12G (LPist) 3|3|6(m)|SS|9S|3.1|4/48hrs|460|2|Pump action (simple to ready, simple to fire)|ray.000|||
+5-* Mossberg M9200A1    12G (ShtG) 3|2|4(m)|SA|10S|3.43|2/24hrs|630|1|none|ray.000|||
+3-Rifles
+4-Sniper rifles
+5-* ARES MP Laser III       (Snip) 3|-|20|SA|15M|25|24/21days|120000|3|Power decrease by distance|fof.49|||
+5-* Barret Model 121        (Snip) 3|-|14(c)|SA|14D|10|14/30days|4800|5|Folding Bipod(2RC), Silencer, Smartlink, +2 Recoil/Rnd, Use ONLY 121 Rnds|cc.21|||
+5-* H&K PSG-65              (Snip) 3|-|20(m)|SA|14S|6|12/7days|7000|4|Gas Vent (2), Low-Light, Mag:(3), Smartlink, Thermographic|sr2.???|||
+5-* RAI Model 1050          (Snip) 3|-|5(c)|SA|15S|5.25|14/10days|6000|4|High-power Laser Sight, Low-Light, Mag:(3), Shock Pads, Silencer|sr2.???|||
+5-* Ranger Arms SM-3        (Snip) 3|-|6(m)|SA|14S|4|12/7days|4000|4|Low-Light or Thermo Mag:(3) Scope, Gas Vent II(2RC), Silencer|sr3.278|||
+5-* SMF K6                  (Snip) 3|-|30(c)|SA/FA|10S|5|14/21days|2000|3|Gas Vent (2)|sr2.???|||
+5-* Tsunami Arms Ramjet Rifl(Snip) 3|-|9(c)|SA/BF|10S/12S/14S/16S|5|16/14 days|7380|4|Bipod, Mag:(3), RC:(1), Smartlink-2|sr2.???|||
+5-* Walther MA-2100         (Snip) 3|-|10(m)|SA|14S|4.5|12/7days|6500|4|Smartlink|cc.21|||
+5-* H&K G3 SG/1 7.62 NATO   (Snip) 3|-|20(c)|SA/FA|9S|5.54|12/9days|1805|4|x2 recoil in FA mode|ray.000|||
+5-* H&K HK94 SG/1 9mm Para (LCarb) 3|3|15(c)|SA|9M|4.2|12/9days|1525|4|none|ray.000|||
+5-* H&K MSG90 7.62 NATO     (Snip) 3|-|5(c)|SA|9S|6.4|12/7days|5620|4|none|ray.000|||
+5-* H&K MSG90A1 7.62 NATO   (Snip) 3|-|5(c)|SA|9S|6.4|12/7days|5750|4|threaded barrel, flash hider|ray.000|||
+5-* H&K PSG/1 7.62 NATO     (Snip) 3|-|5(c)|SA|9S|8.1|12/7days|9850|4|scope 1 (not removable), tripod (no recoil comp)|ray.000|||
+5-AMP Technical Services
+6-* DSR-1 .243 Win          (SptR) 3|2|5(c)|SS|7S|5.9|9/7days|7795|4|extra clip held in slot, gas vent 1, folding bipod, picatinny rail|ray.000|||
+6-* DSR-1 .308 Subsonic     (AsRf) 3|2|5(c)|SS|9M|5.9|9/7days|7795|4|extra clip held in slot, gas vent 1, folding bipod, picatinny rail|ray.000|||
+6-* DSR-1 7.62mm NATO       (Snip) 3|2|5(c)|SS|9S|5.9|9/days|7795|4|extra clip held in slot, gas vent 1, folding bipod, picatinny rail|ray.000|||
+6-* DSR-1 .300 Win Mag       (MMG) 3|2|4(c)|SS|12S|5.9|9/7days|7895|4|extra clip held in slot, gas vent 1, folding bipod, picatinny rail|ray.000|||
+6-* DSR-1 .338 Lapua         (HSR) 3|2|4(c)|SS|14S|5.9|9/7days|8095|4|extra clip held in slot, gas vent 1, folding bipod, picatinny rail|ray.000|||
+5-Barrett Model 98
+6-* M98 .338 Lapua           (HSR) 3|-|10(c)|SA|14S|6|8/9days|2250|4|gas vent 1, but extra +1 recoil. Picatinny rail|ray.000|||
+6-* M98S .338 Lapua          (HSR) 3|-|10(c)|SA|14S|6.2|12/21days|3750|4|gas vent 1, but extra +1 recoil. Picatinny rail, smartlink2|ray.000|||
+5-Fabrique Nationale (DS Arms)
+6-* SA58B21 7.62mm NATO     (Snip) 3|2|10(c)|SA|9S|5|4/48hrs|1795|2|none|ray.000|||
+6-* SA58B24 7.62mm NATO     (Snip) 3|-|10(c)|SA|9S|5.2|4/48hrs|1795|2|none|ray.000|||
+5-Izhmash SVD
+6-* SVD 7.62x54Rmm PSO-1    (Snip) 3|-|10(c)|SA|9S|4.3|3/7days|950|2|scope 1|ray.000|||
+6-* SVD 7.62x54Rmm PO Talon (Snip) 3|-|10(c)|SA|9S|4.3|3/7days|1150|2|scope 2|ray.000|||
+6-* SVDS 7.62x54Rmm PSO-1   (Snip) 3|-|10(c)|SA|9S|4.7|3/7days|1050|2|scope 1, folding stock gives conceal (2).|ray.000|||
+6-* SVDS 7.62x54Rm PO Talon (Snip) 3|-|10(c)|SA|9S|4.7|3/7days|1250|2|scope 2, folding stock gives conceal (2).|ray.000|||
+5-Knight's Armament Corp
+6-* SR-25MR 7.62mm NATO     (Snip) 3|-|20(c)|SA|9S|4.9|4/48hrs|2495|2|Picatinny Rail|ray.000|||
+6-* Mk11-0 7.62mm NATO      (Snip) 3|-|20(c)|SA|9S|3.5|10/30days|4550|4|Picatinny Rail, +2 suppression modifier when suppressor attached|ray.000|||
+6-* SR25KSD .338 Whisper    (AsRf) 3|2|20(c)|SA/FA|10M|3.8|6/7days|2895|3|Picatinny Rail, +4 suppression modifier|ray.000|||
+5-* M21 7.62mm NATO         (Snip) 3|-|10(c)|SA|9S|3.5|4/48hrs|2975|2|M1A scope mount, folding bipod|ray.000|||
+5-Steyr Mannlicher Tactical
+6-* SSG PI 7.62 NATO        (Snip) 3|-|5(c)|SS|9S|4.1|7/7days|1400|3|none|ray.000|||
+6-* SSG PII 7.62 NATO       (Snip) 3|-|5(c)|SS|9S|4.25|7/7days|1400|3|none|ray.000|||
+6-* SSG PIIK 7.62 NATO       (LMG) 3|2|5(c)|SS|9S|3.7|7/7days|1320|3|none|ray.000|||
+6-* PII McM 7.62 NATO       (Snip) 3|-|5(c)|SS|9S|4.8|6/6days|1600|3|none|ray.000|||
+6-* PIIK McM 7.62 NATO       (LMG) 3|2|5(c)|SS|9S|4.5|6/6days|1550|3|none|ray.000|||
+6-* SSG-PIV 7.62 NATO       (SptR) 3|3|5(c)|SS|9S|3.8|7/14days|1550|3|none|ray.000|||
+5-UCAS M54 Scout/Sniper
+6-* M54 7.62 NATO           (SptR) 3|2|10(c)|SS|9S|3.4|7/7days|2640|3|folding bipod (if removed, conceal+1), scope 2|ray.000|||
+6-* M54A1 7.62 NATO         (SptR) 3|2|10(c)|SS|9S|3.6|7/14days|3150|3|folding bipod (if removed, conceal+1), scope 2, smart2|ray.000|||
+6-* M54A2 .300 WSM          (Snip) 3|2|8(c)|SS|12S|3.4|7/7days|2640|3|folding bipod (if removed, conceal+1), scope 2|ray.000|||
+6-* M54A3 .300 WSM          (Snip) 3|2|8(c)|SS|12S|3.6|7/14days|3150|3|folding bipod (if removed, conceal+1), scope 2, smart2|ray.000|||
+4-Sport rifles
+5-* Nostal. Ind. Long Gun   (SptR) 3|-|5(c)|SS|10M|5|6/24hrs|400|2|None|tss.2|||
+5-* Remington 750           (SptR) 3|3|5(m)|SA|7S|3|3/24hrs|600|1|Mag:(1)|sr3.278|||
+5-* Remington 950           (SptR) 3|2|5(m)|SA|9S|4|3/24hrs|800|1|Mag:(1)|sr3.278|||
+5-* Ruger 100               (SptR) 3|2|5(m)|SA|7S|3.75|3/24hrs|1300|1|Mag:(3)|cc.21|||
+5-* SIG 883 SP              (SptR) 3|2|5(30)(c)|SA|9M|4.25|3/36hrs|950|1.5|Mag:(2), Shock Pads|sr2.???|||
+5-* Browning Eclipse M1000   (MMG) 3|-|3(c)|SS|12S|4.45|4/48hrs|1050|2|heavy barrel|ray.000|||
+5-Browning Hunter
+6-* Browning Hunter .223    (AsRf) 3|2|6(c)|SS|9M|2.8|2/24hrs|620|1|none|ray.000|||
+6-* Browning Hunter .22-250 (SptR) 3|2|4(c)|SS|10M|2.8|2/24hrs|620|1|none|ray.000|||
+6-* Browning Hunter .25-06   (LMG) 3|2|4(c)|SS|9S|2.8|2/24hrs|620|1|none|ray.000|||
+6-* Browning Hunter .260     (LMG) 3|2|4(c)|SS|9S|3.0|2/24hrs|620|1|none|ray.000|||
+6-* Browning Hunter .270     (LMG) 3|2|4(c)|SS|9S|3.0|2/24hrs|620|1|none|ray.000|||
+6-* Browning Hunter 7mm-08   (LMG) 3|2|4(c)|SS|9S|2.9|2/24hrs|620|1|none|ray.000|||
+6-* Browning Hunter .308     (LMG) 3|2|4(c)|SS|9S|3.0|2/24hrs|620|1|none|ray.000|||
+6-* Browning Hunter .30-06  (Snip) 3|2|4(c)|SS|9S|3.0|2/24hrs|620|1|none|ray.000|||
+6-* Browning Hunter 7mm mag  (MMG) 3|2|3(c)|SS|11S|3.2|2/24hrs|650|1|none|ray.000|||
+6-* Browning Hunter .270 WSM (MMG) 3|2|3(c)|SS|12S|3.0|2/24hrs|650|1|none|ray.000|||
+6-* Browning Hunter 7mm WSM  (MMG) 3|2|3(c)|SS|12S|3.0|2/24hrs|650|1|none|ray.000|||
+6-* Browning Hunter .300 WSM (MMG) 3|2|3(c)|SS|12S|3.0|2/24hrs|650|1|none|ray.000|||
+6-* Brownin Hunt .300win mag (MMG) 3|-|3(c)|SS|12S|3.2|2/24hrs|650|1|none|ray.000|||
+6-* Brownin Hunt .338win mag (MMG) 3|-|3(c)|SS|13S|3.2|2/24hrs|650|1|none|ray.000|||
+5-Browning Classic Hunter
+6-* Browning Classic .27 WSM (MMG) 3|2|3(c)|SS|12S|3.0|2/24hrs|650|1|emboss/engrave|ray.000|||
+6-* Browning Classic 7mm WSM (MMG) 3|2|3(c)|SS|12S|3.0|2/24hrs|650|1|emboss/engrave|ray.000|||
+6-* Browning Classic .30 WSM (MMG) 3|2|3(c)|SS|12S|3.0|2/24hrs|650|1|emboss/engrave|ray.000|||
+5-Browning Micro Hunter
+6-* Browning Micro-H .22    (Carb) 3|2|3(c)|SS|9M|2.8|2/24hrs|615|1|dwarf moded|ray.000|||
+6-* Browning Micro-H .223   (AsRf) 3|2|4(c)|SS|9M|2.8|2/24hrs|615|1|dwarf moded|ray.000|||
+6-* Browning Micro-H .22-25 (SptR) 3|2|3(c)|SS|10M|2.8|2/24hrs|615|1|dwarf moded|ray.000|||
+6-* Browning Micro-H .243    (LMG) 3|2|3(c)|SS|8S|2.8|2/24hrs|615|1|dwarf moded|ray.000|||
+6-* Browning Micro-H 7mm-08  (LMG) 3|2|3(c)|SS|9S|2.8|2/24hrs|615|1|dwarf moded|ray.000|||
+6-* Browning Micro-H .308Win (LMG) 3|2|3(c)|SS|9S|2.8|2/24hrs|615|1|dwarf moded|ray.000|||
+5-Browning Stainless Stalker
+6-* Browning Stalker .243win(SptR) 3|2|4(c)|SS|8S|2.8|2/24hrs|813|1|none|ray.000|||
+6-* Browning Stalker .25-06  (LMG) 3|2|4(c)|SS|9S|3.0|2/24hrs|813|1|none|ray.000|||
+6-* Browning Stalker .260    (LMG) 3|2|4(c)|SS|9S|2.8|2/24hrs|813|1|none|ray.000|||
+6-* Browning Stalker .270    (LMG) 3|2|4(c)|SS|9S|3.0|2/24hrs|813|1|none|ray.000|||
+6-* Browning Stalker 7mm-08  (LMG) 3|2|4(c)|SS|9S|2.8|2/24hrs|813|1|none|ray.000|||
+6-* Browning Stalker .308win (LMG) 3|2|4(c)|SS|9S|2.8|2/24hrs|813|1|none|ray.000|||
+6-* Browning Stalk .30-06sp (Snip) 3|2|4(c)|SS|9S|3.0|2/24hrs|813|1|none|ray.000|||
+6-* Browning Stalker 7mm Mag (MMG) 3|-|3(c)|SS|11S|3.3|2/24hrs|840|1|none|ray.000|||
+6-* Browning Stalker .270WSM (MMG) 3|2|3(c)|SS|12S|3.0|2/24hrs|840|1|none|ray.000|||
+6-* Browning Stalker 7mm WSM (MMG) 3|2|3(c)|SS|12S|3.0|2/24hrs|840|1|none|ray.000|||
+6-* Browning Stalker .300WSM (MMG) 3|2|3(c)|SS|12S|3.0|2/24hrs|840|1|none|ray.000|||
+6-* Browning Stalk .30Win Mg (MMG) 3|-|3(c)|SS|12S|3.3|2/24hrs|840|1|none|ray.000|||
+6-* Browning Stalk .30Ult Mg (MMG) 3|-|3(c)|SS|13S|3.3|2/24hrs|840|1|none|ray.000|||
+6-* Browning Stlk .338Win Mg (MMG) 3|-|3(c)|SS|13S|3.3|2/24hrs|840|1|none|ray.000|||
+6-* Browning Stlk .338Ult Mg (MMG) 3|-|3(c)|SS|14S|3.3|2/24hrs|840|1|none|ray.000|||
+6-* Brownin Stlk .375H&H Mg (SptR) 3|-|3(c)|SS|10D|3.3|2/24hrs|840|1|none|ray.000|||
+5-Kel-Tec SUB-2000
+6-* Sub-2000 9mm           (LCarb) 3|2/4|10(c)/17(c)|SA|7M|1.8|2/24hrs|385|1|no loss of conceal for 17 clip|ray.000|||
+6-* Sub-2000 .40 auto      (LCarb) 3|2/4|10(c)/15(c)|SA|8M|1.8|2/24hrs|385|1|no loss of conceal for 15 clip|ray.000|||
+6-* Sub-2000 .357 SIG      (LCarb) 3|2/4|10(c)/15(c)|SA|9M|1.8|3/36hrs|400|1|no loss of conceal for 15 clip|ray.000|||
+5-Marlin Model 1894
+6-* Marlin 1894 .44 Mag    (LCarb) 3|2|10(m)|SS|11M|2.7|2/24hrs|550|1|none|ray.000|||
+6-* Marlin 1894P .44 Mag   (LCarb) 3|3|8(m)|SS|11M|2.6|2/24hrs|540|1|none|ray.000|||
+6-* Marlin 1894C .357 Mag  (LCarb) 3|3|9(m)|SS|10M|2.7|2/24hrs|540|1|none|ray.000|||
+6-* Marlin 1894CP .357 Mag (LCarb) 3|3|8(m)|SS|10M|2.6|2/24hrs|530|1|none|ray.000|||
+5-Marlin Model 1895
+6-* Marlin 1895 .45-70 Gov  (Carb) 3|2|4(m)|SS|7D|3.4|2/24hrs|600|1|none|ray.000|||
+6-* Marlin 1895G .45-70 Gov (Carb) 3|2|4(m)|SS|7D|3.2|2/24hrs|615|1|stainless steel finish|ray.000|||
+6-* Marlin 1895GS .45-7 Gov (Carb) 3|2|4(m)|SS|7D|3.2|2/24hrs|720|1|none|ray.000|||
+6-* Marlin 1895CB .45-7 Gov (AsRf) 3|-|9(m)|SS|7D|3.6|2/24hrs|775|1|none|ray.000|||
+6-* Marlin 1895M .450marlin (Carb) 3|2|4(m)|SS|8D|3.2|2/24hrs|650|1|none|ray.000|||
+5-Remington Model 700
+6-* Remington ADL .223 Rem  (AsRf) 3|2|6(c)|SS|9M|3.3|2/24hrs|470|1|none|ray.000|||
+6-* Remington ADL .22-250 R (SptR) 3|2|4(c)|SS|10M|3.3|2/24hrs|470|1|none|ray.000|||
+6-* Remington ADL .243 win  (SptR) 3|2|4(c)|SS|8S|3.3|2/24hrs|470|1|none|ray.000|||
+6-* Remington ADL .270 win   (LMG) 3|2|4(c)|SS|9S|3.2|2/24hrs|470|1|none|ray.000|||
+6-* Remington ADL .308 win   (LMG) 3|2|4(c)|SS|9S|3.3|2/24hrs|470|1|none|ray.000|||
+6-* Remington ADL .30-06win (Snip) 3|2|4(c)|SS|9S|3.3|2/24hrs|470|1|none|ray.000|||
+6-* Remington ADL 7mm R mag  (MMG) 3|-|3(c)|SS|11S|3.4|2/24hrs|495|1|none|ray.000|||
+6-* Remington ADL .300 W mag (MMG) 3|-|3(c)|SS|12S|3.4|2/24hrs|495|1|none|ray.000|||
+6-* Remington BDL .17 Rem   (Carb) 3|2|7(c)|SS|6M|2.8|2/24hrs|675|1|none|ray.000|||
+6-* Remington BDL .223 Rem  (AsRf) 3|2|6(c)|SS|9M|2.8|2/24hrs|645|1|none|ray.000|||
+6-* Remington BDL .22-25Rem (SptR) 3|2|4(c)|SS|10M|2.8|2/24hrs|645|1|none|ray.000|||
+6-* Remington BDL .243 Win  (SptR) 3|2|4(c)|SS|8S|2.8|2/24hrs|645|1|none|ray.000|||
+6-* Remington BDL .25-06 Rem (LMG) 3|2|4(c)|SS|9S|3.0|2/24hrs|645|1|none|ray.000|||
+6-* Remington BDL .270 Win   (LMG) 3|2|4(c)|SS|9S|3.0|2/24hrs|645|1|none|ray.000|||
+6-* Remington BDL .280 Win   (LMG) 3|2|4(c)|SS|9S|3.0|2/24hrs|645|1|none|ray.000|||
+6-* Remington BDL 7mm-08 Rem (LMG) 3|2|4(c)|SS|9S|2.8|2/24hrs|645|1|none|ray.000|||
+6-* Remington BDL .308 Win   (LMG) 3|2|4(c)|SS|9S|3.0|2/24hrs|645|1|none|ray.000|||
+6-* Remingtn BDL 7mm Rem Mag (MMG) 3|2|3(c)|SS|11S|3.2|2/24hrs|675|1|none|ray.000|||
+6-* Remingtn BDL 7mm Ult Mag (MMG) 3|-|3(c)|SS|12S|3.2|2/24hrs|685|1|none|ray.000|||
+6-* Remingtn BDL .30 Win Mag (MMG) 3|2|3(c)|SS|12S|3.2|2/24hrs|675|1|none|ray.000|||
+6-* Remngtn BDL .338 Win Mag (MMG) 3|2|3(c)|SS|13S|3.2|2/24hrs|675|1|none|ray.000|||
+6-* Remngtn BDL .338 Ult Mag (HMG) 3|-|3(c)|SS|14S|3.2|2/24hrs|685|1|none|ray.000|||
+6-* Remngtn BDL .375 Ult Mag (MMG) 3|-|3(c)|SS|11D|3.2|2/24hrs|685|1|none|ray.000|||
+6-* Rem Sendero 7mm Rem Mag (Snip) 3|-|3(c)|SS|11S|3.8|2/24hrs|1000|1|none|ray.000|||
+6-* Rem Sendero 7mm Ult Mag (Snip) 3|-|3(c)|SS|12S|3.8|2/24hrs|1020|1|none|ray.000|||
+6-* Rem Sendero .300Win Mag (Snip) 3|-|3(c)|SS|12S|3.8|2/24hrs|1000|1|none|ray.000|||
+6-* Rem Sendero .300 Ult Mag (HSR) 3|-|3(c)|SS|13S|3.8|2/24hrs|1020|1|none|ray.000|||
+6-* Rem Sendero .338 Ult Mag (HSR) 3|-|3(c)|SS|14S|3.8|2/24hrs|1020|1|none|ray.000|||
+5-Remington Model 710
+6-* Remington 710 .270 Win   (LMG) 3|2|4(c)|SS|9S|3.2|2/24hrs|350|1|scope 1|ray.000|||
+6-* Remington 710 .30-06    (Snip) 3|2|4(c)|SS|9S|3.2|2/24hrs|350|1|scope 1|ray.000|||
+5-Ruger Mini-14 & Mini-30
+6-* Ruger Mini-14/5 .223Rem (AsRf) 3|3|5(c)/10,20,30(m)|SA|9M|3.1|2/24hrs|600|1|no top mount|ray.000|||
+6-* Ruger Mini-14/5R .223R  (AsRf) 3|3|5(c)/10,20,30(m)|SA|9M|3.1|2/24hrs|650|1|none|ray.000|||
+6-* Rgr Mini-30/5R 7.62x39mm(AsRf) 3|3|5(c)/10,20,30(m)|SA|9M|3.1|2/24hrs|650|1|none|ray.000|||
+5-Steyr Scout
+6-* Steyr Scout .308 Win     (LMG) 3|3|5(c)/10(c)|SS|9S|2.85|6/3days|1900|2|folding bipod, holds extra clip(5) in stock|ray.000|||
+6-* Steyr Scout 7mm-08 Rem   (LMG) 3|3|5(c)/10(c)|SS|9S|2.85|6/3days|1900|2|folding bipod, holds extra clip(5) in stock|ray.000|||
+6-* Steyr Scout .243 Win    (SptR) 3|3|5(c)/10(c)|SS|8S|2.85|6/3days|1900|2|folding bipod, holds extra clip(5) in stock|ray.000|||
+6-* Steyr Scout .223 Rem    (SptR) 3|3|5(c)/10(c)|SS|9M|2.85|6/3days|1500|2|folding bipod, holds extra clip(5) in stock|ray.000|||
+6-* Steyr Scout .376 Steyr  (SptR) 3|3|4(c)/10(c)|SS|10D|2.85|10/30days|7500|3|folding bipod, holds extra clip(4) in stock, 2x recoil|ray.000|||
+5-Winchester Model 70 Classic Super Grade
+6-* Win70 Class-S 25-06 Rem  (LMG) 3|2|5(c)|SS|9S|3.5|2/24hrs|975|1|none|ray.000|||
+6-* Win70 Class-S .27 Win    (LMG) 3|2|5(c)|SS|9S|3.5|2/24hrs|975|1|none|ray.000|||
+6-* Win70 Class-S .30-06spg (Snip) 3|2|5(c)|SS|9S|3.5|2/24hrs|975|1|none|ray.000|||
+6-* Win70 Class-S  7mm R Mag (MMG) 3|-|3(c)|SS|11S|3.6|2/24hrs|1005|1|none|ray.000|||
+6-* Win70 Class-S .300 W Mag (MMG) 3|-|3(c)|SS|12S|3.6|2/24hrs|1005|1|none|ray.000|||
+6-* Win70 Class-S .338 W Mag (MMG) 3|-|3(c)|SS|13S|3.6|2/24hrs|1005|1|none|ray.000|||
+5-Winchester Model 70 Classic Feather
+6-* Win70 Class-F .22 Rem   (SptR) 3|2|4(c)|SS|10M|2.8|2/24hrs|715|1|none|ray.000|||
+6-* Win70 Class-F .243 Win   (LMG) 3|2|5(c)|SS|8S|2.8|2/24hrs|715|1|none|ray.000|||
+6-* Win70 Class-F 6.5x55mm   (LMG) 3|2|4(c)|SS|8S|3.0|2/24hrs|715|1|none|ray.000|||
+6-* Win70 Class-F .270 Win   (LMG) 3|2|4(c)|SS|9S|3.0|2/24hrs|715|1|none|ray.000|||
+6-* Win70 Class-F 7mm-08 Rem (LMG) 3|2|4(c)|SS|9S|2.9|2/24hrs|715|1|none|ray.000|||
+6-* Win70 Class-F .308 Win   (LMG) 3|2|4(c)|SS|9S|3.0|2/24hrs|715|1|none|ray.000|||
+6-* Win70 Class-F .30-06Spg (Snip) 3|2|4(c)|SS|9S|3.0|2/24hrs|715|1|none|ray.000|||
+5-Winchester Model 70 Stealth
+6-* Win70 Stealth .223 Rem  (SptR) 3|2|6(m)|SS|9M|4.9|2/24hrs|800|1|heavy barrel|ray.000|||
+6-* Win70 Stealth .22-250 R (SptR) 3|2|5(m)|SS|10M|4.9|2/24hrs|800|1|heavy barrel|ray.000|||
+6-* Win70 Stealth .308 Win  (Snip) 3|2|5(m)|SS|9S|4.9|2/24hrs|800|1|heavy barrel|ray.000|||
+5-Winchester Model 94
+6-* Win94 Trad .30-30 Win   (carb) 3|2|6(m)|SS|8S|2.8|2/24hrs|410|1|none|ray.ooo|||
+6-* Win94 Trad .44 Magnum  (Lcarb) 3|2|10(m)|SS|10M|2.8|2/24hrs|410|1|none|ray.ooo|||
+6-* Win94 Trad .480 Ruger  (Lcarb) 3|2|10(m)|SS|8S|2.8|2/24hrs|410|1|none|ray.ooo|||
+6-* Win94 Ranger .30-30 Win (carb) 3|3|5(m)|SS|7S|2.6|2/24hrs|355|1|dwarf moded|ray.ooo|||
+6-* Win94 Ranger .357 Mag  (Lcarb) 3|3|9(m)|SS|9M|2.6|2/24hrs|355|1|dwarf moded|ray.ooo|||
+4-Anti-Materiel Rifles
+5-* Acc-Int AW50           (HSnip) 3|-|5(c)|SS|14D|15|6/7DAYS|10950|4|Bipod, Gas Vent II, folding stock  (no conceal), +2 recoil|ray.000|||
+5-* AET IIR20              (HSnip) 3|-|3(c)/1(B)|SS|20D|26|GM|9600|4|Gas Vent IV, breaks to 2 parts, +5 recoil|ray.000|||
+5-* AET IIR134              (AmRf) 3|-|3(c)/1(B)|SS|20D|29|GM|9850|4|Gas Vent IV, breaks to 2 parts, +5 recoil|ray.000|||
+5-* Barrett M82A1          (HSnip) 3|-|10(c)|SA|14D|12.9|8/21DAYS|7300|4|Bipod, Gas Vent II, +3 recoil|ray.000|||
+5-* Barrett M82A1M         (HSnip) 3|-|10(c)|SA|14D|13|12/30DAYS|7420|4|Removable Bipod, Removable Gas Vent II, +3 recoil|ray.000|||
+5-* Barrett M95 (M107)     (HSnip) 3|-|5(10)(c)|SS|14D|10|6/7DAYS|5250|4|Removable Bipod, Gas Vent II, +3 recoil|ray.000|||
+5-* Barrett M99 Big Shot   (HSnip) 3|-|1(B)|SS|14D|11.4|6/7DAYS|3120|4|Removable Bipod, Gas Vent II, breakdown, +3 recoil|ray.000|||
+5-* Steyr IWS 2500          (AmRf) 3|-|8(c)|SS|20D|20|GM|14775|4|Folding Bipod, Gas Vent III, Comp 1, SmartlinkII,  +5 recoil|ray.000|||
+4-Multi-weapons
+5-* Mossberg M-712        (MulWea) 3|3|35(c)/15(c)|(SA/BF/FA)/(SA)|8M/10S|6|12/7days|4000|3|Gas Vent (2, Rifle), Mag:(2), Smartlink|sr2.???|||
+5-* Steyr AUG-CSL         (MulWea) 3|varies|40(c)|varies|varies|varies|10/4days|4500|3|Laser Sight|sr2.???|||
+5-* Syrko Panther         (MulWea) 3|1|40(c)/25(c)|(SA/FA)/(SA/BF)|8M/8S|5.25|8/7days|4000|3|Gas Vent (3, Rifle), Gas Vent (2, Shotgun), Smartlink|sr2.???|||
+3-Heavy weapons
+4-Light Machine Guns
+5-* Ares HV MP-LMG           (LMG) 3|-|80(c)/Belt|SA/BF/FA|6S|8|20/14days|4500|4|RC(3), Smartlink-2, Fires LPist rnds, BF 6 rnds = 12D|cc.26|||
+5-* Ares MP-LMG              (LMG) 3|-|50(c)/Belt|BF/FA|7S|7.5|6/5days|2200|2|Gas Vent II(2RC), Hip Pad Brace(1RC), Laser Sight|cc.26|||
+5-* GE Vindicator Minigun    (LMG) 3|-|belt/50(c)|FA|7S|15|24/14days|2500|2|None|sr2.???|||
+5-* H&K G-6 Adv. Squad Auto. (LMG) 3|-|100(c)|FA|7M|7|14/21days|2050|3.5|Caseless, Mag:(2), Smartlink-2, Thermographic|cb1.35|||
+5-* H&K MG4/46               (LMG) 3|-|belt/100(c)|BF/FA|7S|7|11/8days|2500|4|Laser Sight, Mag:(3), Shock Pads, Thermographic|sr2.???|||
+5-* Ingram Valiant           (LMG) 3|-|belt/50(c)|BF/FA|7S|9|6/5days|1500|2|Hip Brace(1RC), Gas Vent II(2RC)|sr3.279|||
+5-* IWS Mini-5               (LMG) 3|-|belt|FA|7S|14|24/14days|13000|2|None|sr2.???|||
+5-* IWS Mini-5 Smart         (LMG) 3|-|belt|FA|7S|14|24/14days|26000|2|Smartlink|sr2.???|||
+5-* SIG 883                  (LMG) 3|1|30(50)(c)|SA/FA|9M|6.5|6/48hrs|1000|2.5|Bipod, Gas Vent (3), Laser Sight, Shock Pads|sr2.???|||
+5-* Syrko Tiger              (LMG) 3|-|40(c)/belt|SA/FA|7S|8.25|7/7days|3000|2|Caseless, Gas Vent (3), Smartlink|sr2.???|||
+5-* Fab-Nat Minimi(M249 SAW) (LMG) 3|-|40(c)/belt|FA|9M|7.6|6/14days|4100|2|Bipod|ray.000|||
+5-* Fab-Nat Minim(M249 PARA) (LMG) 3|-/2|40(c)/belt|FA|9M|7.1|6/14days|3900|2|Bipod|ray.000|||
+5-* Fab-Nat Minimi(M249 SPW) (LMG) 3|-|40(c)/belt|FA|9M|5.7|6/14days|4250|2|Removable Bipod|ray.000|||
+5-* Fab-Nat Minim(M249 MK46) (LMG) 3|-|40(c)/belt|FA|9M|5.7|6/14days|4750|2|Bipod|ray.000|||
+5-* IMI Negev                (LMG) 3|-|40(c)/belt|SA/FA|9M|7.6|6/14days|2500|2|Bipod|ray.000|||
+5-* IMI CMDO                (AsRf) 3|-/2|40(c)/belt|SA/FA|8M|7|6/14days|2350|2|Forgrip|ray.000|||
+5-* H&K HK23                 (LMG) 3|-/2|Belt|SA/BF/FA|9M|7.1|6/14days|3800|2|Bipod|ray.000|||
+4-Medium Machine Guns
+5-* FN MAG-5 MMG             (MMG) 3|-|50(box)/Belt|FA|9S|9.5|18/14days|3200|3|Laser sight, Gas Vent II(2RC) Folding Tripod(6RC)|cc.26|||
+5-* Ultimax MMG              (MMG) 3|-|40(c)/Belt|FA|9S|12|14/14days|2500|2|None|sr3.279|||
+5-* Fab-Nat MAG (M240B)      (MMG) 3|-|Belt|FA|9S|12.2|6/14days|6600|2|Bipod|ray.000|||
+5-* Fab-Nat MAG (M240G)      (MMG) 3|-|Belt|FA|9S|11.6|6/14days|6300|2|Bipod|ray.000|||
+5-* H&K HK21                 (MMG) 3|-/2|Belt|SA/BF/FA|9S|9.3|6/14days|4000|2|Bipod|ray.000|||
+5-* Saco Defense M60         (MMG) 3|-|Belt|FA|9S|9|6/14days|6500|2|Bipod|ray.000|||
+5-* Saco Defense M60E3       (MMG) 3|-|Belt|FA|9S|9|6/14days|6300|2|Bipod, Optional Heavy Barrel, foregrip|ray.000|||
+5-* Saco Defense M60E4       (MMG) 3|-|Belt|FA|9S|10.5|6/14days|6800|2|Bipod, Optional Heavy Barrel, foregrip|ray.000|||
+5-* Saco Defense M60D        (MMG) 3|-|Belt|FA|9S|9|6/14days|6000|2|Bipod, pintle mount kit |ray.000|||
+4-Heavy Machine Guns
+4-* NR-10 Multi-Barrel HMG   (HMG) 3|-|35(c) or belt|FA|10S|41|28/30days|75000|3|None|sr2.???|||
+4-* RPK HMG                  (HMG) 3|-|40(c)/Belt|FA|10S|15|18/18days|4000|2|fold-out tripod(6RC)|sr3.279|||
+4-* Stoner-Ares M107 HMG     (HMG) 3|-|40(c)/Belt|FA|10S|12.5|18/14days|5200|3|Laser sight,Gas Vent III(3RC) Tripod(6RC)|cc.26|||
+4-* Ruhrmetall SF20          (HMG) 3|-|belt/80(c)|BF/FA|10S|14|17/28days|7200|2|Gas Vent (3), Shock Pads|sr2.???|||
+4-Assault Cannons and Miniguns
+5-* Panther Assault Cannon  (ACan) 3|-|22(c)/Belt|SS|18D|18|16/14days|7200|2|Either: Folding Bipod(2RC) or Shoulder Strap & Hip Brace(1RC)|cc.26|||
+5-* Vindicator Minigun      (MinG) 3|-|50(c)/Belt|FA|7S|15|24/14days|2500|2|None|cc.26|||
+5-* Vigorous Assault Cannon (ACan) 3|-|20(c)/Belt|SS|18D|20|16/14days|6500|2|None|sr3.279|||
+4-Misc Heavy Weapons
+5-* 2-Barrel HMG Chaingun          3|-|belt|FA|9S|20|26/21days|6500|2|None|sr2.???|||
+5-* 7.62cm 10-Barrel               3|-|10(m)|FA|(7.62cm rocket)|30|22/14days|9500|4|None|sr2.???|||
+5-* 7.62cm Single Barrel           3|-|1(m)|SA|(7.62cm rocket)|2.5|10/10days|1000|1.75|None|sr2.???|||
+5-* 12.7cm 10-Barrel               3|-|10(m)|FA|(12.7cm rocket)|35|24/14days|12000|4|None|sr2.???|||
+5-* 12.7cm Single Barrel           3|-|1(m)|SA|(12.7 cm rocket)|3|11/10days|1250|1.75|None|sr2.???|||
+5-* Ares MP Maser                  3|-|20|SA|10M + Special|25|-|750000|-|None|sr2.???|||
+5-* Barrett-Arasaka Light 20mm     3|-|10(c)|SS|18D|19|15/14days|6000|2|None|sr2.???|||
+5-* Colt-Mauser M2X Cannon         3|-|8(c)|SS|18D|23|20/14days|6100|2|Mag:(2), Shock Pads|sr2.???|||
+5-* IWS Assault 20                 3|-|20(m)|SA|18D|16|16/14days|7200|2|Gas Vent (4), Shock Pads|sr2.???|||
+5-* M10A Light Recoilless Rifle    3|-|1(b|SS|(Grenade)|6.5|12/14days|2000|2|None|cp.26|||
+5-* M400                           3|-|2x belt|FA|10S|18.5|22/21days|5500|2|Gas Vent (3)|sr2.???|||
+5-* M400 Smart                     3|-|2x belt|FA|10S|19|24/21days|7500|2.5|Gas Vent (3), Smartlink-2|sr2.???|||
+5-* Militech AM-3                  3|-|5(c)|SS|20D|26|20/14days|8000|3|Gas Vent (2), Mag:(3), Shock Pads, Smartlink|sr2.???|||
+5-* Panther Hvy Recoilless Rfe     3|-|1(b)|SS|(Grenade)|10|14/14days|4000|3|None|cp.26|||
+5-* Rhinemetall EMG-85 Railgun     3|-|5(m)|SS|25D|35|-|113700|-|Gyro Mount (5), Smartlink-2|sr2.???|||
+5-* Whitney-Morgan Caseless  (MMG) 3|-|belt|FA|9S|35|26/30days|25000|4|Caseless|sr2.???|||
+3-Launch Weapons
+4-Grenade launchers
+5-* Ares Antioch            (GrLn) 3|6(-3)|6(m)|SS|(Grenade)|+2|8/4days|1700|3|Standalone or Acc for Gun|sr3.279|||
+5-* Ares Suppressor (Stan.) (GrLn) 3|-|12(c)|SA/BF|(Grenade)|7|18/14days|3400|3|None|sr2.???|||
+5-* Ares Suppressor (RF)    (GrLn) 3|-|12(c)|SA/BF|(Grenade)|7|18/14days|4300|3|Rangefinder|sr2.???|||
+5-* Ares Suprpessor (Smart) (GrLn) 3|-|12(c)|SA/BF|(Grenade)|7|18/14days|6800|3|Smartlink|sr2.???|||
+5-* Ares Suppressor(Smrt+Ran)GrLn) 3|-|12(c)|SA/BF|(Grenade)|7|18/14days|7700|3|Rangefinder, Smartlink|sr2.???|||
+5-* ArmTech MGL-6           (GrLn) 3|6|6(c)|SA|(Grenade)|2.5|6/36hrs|1600|3|None|cc.26|||
+5-* ArmTech MGL-12          (GrLn) 3|3|12(c)|SA|(Grenade)|5|6/36hrs|2200|3|None|cc.26|||
+5-* Generic Under-Barrel    (GrLn) 3|(-3)|6(m)|SS|(Grenade)|(+2 kg)|8/4days|1700|3|None|sr2.???|||
+5-* Grenade Launcher        (GrLn) 3|(-2)|1(m)|SS|(Grenade)|1|6/4days|1250|2.75|None|sr2.???|||
+5-* Hand-Held GrLn          (GrLn) 3|2|5(c)|SS|(Grenade)|2.5|9/5days|2300|3|None|sr2.???|||
+5-* Militech Mini-GrLn      (GrLn) 3|3(-2)|4(m)|SA|(Grenade)|3.5|10/6days|2550|3|None|cb1.31|||
+5-* Militech Mini-GrLn      (GrLn) 3|1(-4)|16(c)|SA|(Grenade)|5|24/12days|4750|5|None|cb1.31|||
+5-* M-12 Portable Mortar    (MrTr) 3|-|1|SS|(As Mortar)|30|12/14days|3000|2|None|cc.26|||
+5-* Rockwell AGL-113        (GrLn) 3|-|20(c)/belt|FA|(Grenade)|50|24/21days|15000|4|None|sr2.???|||
+5-* US M79                  (GrLn) 3|4|1|SS|(Grenade)|3.4|48/72hrs|1250|4|breech loading|tss.3|||
+5-* Colt M79                (GrLn) 3|3|1(b)|SS|(Grenade)|3|6/5days|700|2|none|ray.000|||
+5-* Colt M203               (GrLn) 3|-2|1(b)|SS|(Grenade)|3|6/5days|605|2|acc for m16/m23|ray.000|||
+5-* H&K HK69A1              (GrLn) 3|4|1(b)|SS|(Grenade)|2.7|6/5days|600|2|none|ray.000|||
+5-* Carswell M443 20mm      (Snip) 3|-2|3(m)|SS|(Grenade)|2.2|14/27days|1560|3|smartlink II w/ rangefinder, underbarrel acc|ray.000|||
+5-* Fab Nationale GL 40mmLV (GrLn) 3|-2|1(b)|SS|(Grenade)|1|3/4days|400|none|ray.000|||
+5-* Zastava grenade launch  (GrLn) 3|-2|1(b)|SS|(Grenade)|1|3/4days|350|none|ray.000|||
+4-Missile/rocket launchers
+5-* Arbelast II MAW        (MisLn) 3|-|1|SS|(As Arbelast II MAW Rocket)|2.75|8/48hrs|1200|2|Imaging Scope(1)|cc.28|||
+5-* Aztechnology Lasher    (MisLn) 3|4/-|1(b)|SS|(As Rocket/Missle)|3|12/2wks|4000|3|Low-light Mag:(2)|cc.27|||
+5-* Ballista Mis. Launcher (BlsTa) 3|-|4(m)|SS|(As Ballista Missile)|6.5|18/30days|10500|4|Laser Designator|cc.28|||
+5-* Briefcase Rocket       (MisLn) 3|6|1|SS|(As Briefcase Rocket)|2.5|8/96hrs|1400|2|half ranges, resembles ordinary briefcase|sta2.35|||
+5-* Great Dragon ATGM      (GATGM) 3|-|1|SS|(As Great Dragon AGTM Missile)|2.75|8/48hrs|1200|2|Optical Imaging Scope(2)|cc.28|||
+5-* IWS Multi-Launcher     (MisLn) 3|-|4(b)|SS|(Missile)|8|12/14days|8000|2|None|sr3.279|||
+5-* M79B1 LAW              (MisLn) 3|4/-|1|SS|(As M79B1 LAW Rocket)|2.5|6/36hrs|700|2|One use ONLY|cc.28|||
+5-* Militech RPG-A         (MisLn) 3|-|1(m)|SS|(Missile)|4.5|9/14days|4500|2.5|None|sr2.???|||
+5-* Ruhrmetall GPRL-Alpha  (MisLn) 3|-|4(m)|SS|(Missile)|9.5|13/28days|9000|2|None|sr2.???|||
+5-* Scorpion 16 Missile Launcher   3|-|1(b)|SS|(Missile)|5|10/14days|6000|2|None|sr2.???|||
+5-* Spike                  (MisLn) 3|-|1(b)|SS|(As Rocket/Missle)|1|10/1wk|800|2|One use ONLY|cc.27|||
+5-* Vogeljager Man Portable (VJMP) 3|-|1|SS|(As Vogeljager Missle)|8|18/28days|12500|4|Sensor Unit(2), Notes - Anti Air Missile Launcher:See Rules|cc.27|||
+4-Mortars
+5-* M-12 Man-Portable Mortar       3|-|1|SS|(Round)|30|12/14days|3000|2|None|fof.44|||
+4-Ballista
+5-* Ballista Multi-Role Launcher   3|-|4(m)|SS|(Round)|6.5|18/30days|10500|4|Type I Laser Designator|fof.42|||
+3-Special weapons
+4-Chemical Delivery Weapons
+5-* Ares Cascade                   3|4|60|SA|(Special)|5.5|12/14days|1800|2|None|mm.115|||
+5-* Ares Squirt                    3|7|10/20|SA|(Special)|1.75|8/3days|750|2|None|sr2.???|||
+5-* Ares SuperSquirt II (LPist)    3|7|20|SA|(Special)Gel Weapon use DMSO ammo|2|9/14days|800|1.5|None|mm.115|||
+5-* Blowgun                   (BG) 3|7|1(b)|SS|-|.25|4/12hrs|10|1|2xImpact Armor for needles or darts|cc.31|||
+5-* Dart Pistol                    3|7|5(c)|SA|(As toxin)|1.5|6/2days|600|2|None|mm.116|||
+5-* Dart Rifle                     3|4|10(c)|SA|(As toxin)|3.25|8/7days|1700|2|None|mm.116|||
+5-* Enerts AKM Power Squirt        3|5|50(m)|SS|(Drugs)|1|always|15|1|None|cp.21|||
+5-* Narcoject Pistol               3|7|5(c)|SA|(As toxin)|1.5|6/2days|600|2|None|sr2.???|||
+5-* Narcoject Rifle                3|4|10(c)|SA|(As toxin)|3.25|8/2days|1700|2|None|sr2.???|||
+5-* Spray Tank                     3|4|20|SS|(As chemical)|5|3/12days|100|1|None|mm.116|||
+4-Constraint Weapons
+5-* Arasaka Restraint Caster (Net) 3|5|4(m)|SS|(Special)|1|6/72hrs|200|8P-E|Use Taser Range|cb1.6|||
+5-* FAB-NG Netgun, Normal    (Net) 3|3|4(b)|SA|(Special)|4.5|8/14days|1500|4|None|cs.70|||
+5-* FAB-NG Netgun, Large     (Net) 3|2|4(b)|SA|(Special)|5|8/14days|2500|5|None|cs.70|||
+5-* Net Gun (Normal)        (NtGn) 3|4|4(b)|SA|Special|4|8/36hrs|750|2|None|cc.31|||
+5-* Net Gun (Large)         (NtGn) 3|3|4(b)|SA|Special|4.5|8/36hrs|1150|2|None|cc.31|||
+5-* Pursuit Security Webgun        3|3|1(m)|SS|(Special)|3.5|6/3days|500|2.5|None|sr2.???|||
+5-* Splat Gun                      3|4|2(m)|SS|(Special)|3|9/7days|600|2|None|mm.116|||
+4-Flame Weapons
+5-* Flame Thrower          (Flthr) 3|-|10|SS|8M|21|10/1wk|1000|3|Accessory-Underbarrel Rifle Mod. + 200 nuyen (see rules)|cc.30|||
+5-* Kendachi Dragon flamethrower   3|3|4(m)|SS|10M|4.25|10/5 days|1660|4.5|None|cb1.33|||
+5-* Shiawase Blazer          (SMG) 3|4|4|SS|6M|6|12/2wks|750|3|Uses light pistol ranges|cc.30|||
+4-Laser weapons & Accessories
+5-* Ares Heavy Laser Plus   (Snip) 3|-|50|SA|18M|30|27/1month|300000|3|Tripod, Backpack Battery Case|cc.30|||
+5-* + Battery Pack                 3|-|-|-|-|15|10/1month|2000|2|Accessory|cc.30|||
+4-* Ares MP Laser            (Las) 3|-|20(Pack)|SA|15M|30|NA|2500000|NA|None|sr2.???|||
+4-* Ares MP Laser III        (Las) 3|-|20(Pack)|SA|15M|25|24/21days|120000|3|None|sr2.???|||
+5-* Ares MP Laser III       (SptR) 3|-|20|SA|15M|20|24/3wks|120000|3|None|cc.30|||
+5-* + Hip Battery                  3|4|-|-|-|2|10/2wks|500|2|Accessory|cc.30|||
+5-* Ares Redline           (HPist) 3|3|10|SA|12M|5|18/3wks|75000|3|None|cc.30|||
+5-* + Battery Clip                 3|4|-|-|-|1|10/2wks|200|2|Accessory|cc.30|||
+4-* Infrared Laser           (Las) 3|normal|normal|normal|normal|normal|+4/+7 days|double normal|+1|normal|sr2.???|||
+4-* Laser LAW                (Las) 3|2|1(m)|SS|12M|5|24/21days|75000|3|None|sr2.???|||
+4-* Laser VLAW               (Las) 3|4|1(m)|SS|10M|3.5|24/21days|60000|3|None|sr2.???|||
+4-* Militech Electronics Laser     3|-|(Special)|SA|3M to 15M|25|26/21days|130000|3.25|None|cb1.7|||
+4-Micro-missile/-rocket Weapons
+5-* FN-AAL Gyrojet Pistol (GJPist) 3|5|10(c)|SA|12M|2|4/48hrs|1000|2|Fires underwater and on land|cc.31|||
+5-* Micro-Missile Pod              3|(-2)|1(m)|SS|(Micromissile)|.75|8/5days|2000|1.9|None|sr2.???|||
+5-* Rostovic Wrist Racate          3|6|6(m)|SA/BF|9S|2.5|18/20days|3800|3.5|None|cb1.34|||
+5-* Militech Urban Missile Launchr 3|3|12(c)|SA|(Micromissile)|3.5|10/7days|4500|2|None|sr2.???|||
+4-Miscellaneous Weapons
+5-* Ares ELD-AR                    3|4|50(c)|SA/BF|(Special)|4.5|9/7days|950|2|None|cs.69|||
+5-* Ares Exec. Protector     (SMG) 3|10/3|35(c)|SA/BF/FA|6M|5/3|6/3days|2000|1.5|Sound Suppressor, Fold Stock(1RC) -(Briefcase SMG)|cc.31|||
+5-* Ares Sonic Beam Rifle    (LAS) 3|3|15|SS|10S stun|6|24/3 wks|120000|3|use battery back from MP Laser III, shotgun ranges - single target /choke 2-10, stun wears off @1 box/combat turn|sta2.35|
+5-* APEX Mobile Point Defense Sys. 27|6|-|20|25000|11/21 days|4|400 amm(belt)FA/8M Init.15+2d6 RC:6|cb1.5|
+5-* Arasaka WXA Comp.Aim.Wpn (LMG) 27|5|-|50|30000|12/21 days|4|500 amm(belt)FA/7S Int.10+2d6 RC:6|cb1.6|
+5-* Avante P-1135 Needlegun(HPist) 3|5|15(c)|SA|5L|1|2/12hrs|200|.75|None|cb1.6|||
+5-* Bracer                (HOPist) 3|7|1(b)|SS|6L|.3|12/7days|1300|3|+1 TN when firing|cc.31|||
+5-* Gun Cane              (HOPist) 3|2/9|1(b)|SS|6L|1|10/7days|500|2|None|cc.31|||
+5-* Jupiter Taser Club    (Tasr)   3|4|-/1|-/SS|10S stun/8S stun|3|12/14days|1800|3|None|sta2.98|||
+5-* Nelspot "Wombat" Airpistol     3|4|20(c)|SA|4L Stun|1.5|2/24hrs|200|.75|None|cp.21|||
+5-* Sentry Weapons                 27|6|-|4.0*|22000|12/21days|4|None|fof.46|
+5-* Sonic Stunner                  3|6|10|SA|15M|2|6/36hrs|1000|1.5|None|sr2.???|||
+5-* Spear Gun               (SpGn) 3|-|-|SS|6M|2|3/24hrs|800|1|None|cc.31|||
+5-* Spetsdod                       3|7|15(c)|SS|(Dart)|.25|18/21days|3600|1|None|sr2.???|||
+5-* Techtronica M40 "Pulse Rifle"  3|1|6(c)|SS|(Special)|8.5|-|3500|-|None|sr2.???|||
+5-* Tsunami Arms "Airhammer" #1    3|5|5(cy)|SA|(Special)|1.5|11/14days|325|2.5|Gun Camera, Laser Sight|sr2.???|||
+5-* Tsunami Arms "Airhammer" #2    3|5|7(cy)|SA|special|1.5|12/14days|400|3|Smartlink|sr2.???|||
+5-* Underbarrel Capacitor Laser    3|(-2)|2(20)|SA|10M|5|24/21 days|95000|3.5|None|sr2.???|||
+4-Multi Weapon Systems
+5-Heckler & Koch G38 System
+6-* HK G38 Assault          (AsRf) 3|2|30(c)|SA/BF/FA|8M|3.25|12/1wk|4000|3|Dual Laser sight & Low Light Mag:(2) Scope, Gas Vent II(2RC) See Rules|cc.22|||
+6-* HK G38 Carbine          (SptR) 3|2|32(c)|SA/BF|7S|3|12/1wk|-|3|-|cc.22|||
+6-* HK G38 LMG               (LMG) 3|2|32(c)|BF/FA|8M|4|12/1wk|-|3|-|cc.22|||
+6-* HK G38 w/drum                  3|-2|100(c)|-|-|+1|-|+50|3|-|cc.22|||
+5-Steyr AUG-CSL System
+6-* Steyr AUG-CSL Assault   (AsRf) 3|2|40(c)|SA/BF/FA|8M|4|10/4days|4500|3|Laser sight, Gas Vent I(1RC), See Rules|cc.22|||
+6-* Steyr AUG-CSL Carbine   (SptR) 3|2|32(c)|SA/BF|7S|3.75|10/4days|-|3|-|cc.22|||
+6-* Steyr AUG-CSL SMG        (SMG) 3|2|32(c)|SA/BF|6M|3.5|10/4days|-|3|-|cc.22|||
+6-* Steyr AUG-CSL LMG        (LMG) 3|2|32(c)|SA/BF/FA|8M|5.5|10/4days|-|3|-|cc.22|||

@@ -1,0 +1,84 @@
+!0-2|Bow and crossbow|9|Concealability|Str.Min.|Damage|Weight|Availability|$Cost|Street Index|Legal|Book.Page|
+2-Projectile weapons
+3-Bows
+4-* Arrows                         2|3|-|(As bow)|.1|3/36hrs|10|1|10-D|sr3.276|
+4-* Ranger-X Arrows                2|4|-|As bow|.08|4/36hrs|18|1|10P-D|cc.13|
+4-* Arasaka Arms Half-Bow    (Bow) 2|3/6/10|3|6M|1.25|6/7 days|300|1.5|4-D|cb1.4|
+4-* Eagletech "Bearcat" Self (Bow) 2|2/4|5|9M|1.25|6/72hrs|500|1.75|4-D|cb1.4|
+4-* Eagletech "Tigercat" Comp(Bow) 2|1|5|8M|1.5|6/72hrs|500|1.75|5-D|cb1.4|
+4-* Eagletech "Tomcat" Comp. (Bow) 2|2|5|9M|1.5|6/48hrs|750|1|5-D|cb1.4|
+4-* Eagletech "Wildcat" Sport(Bow) 2|4|3|5M|1|3/36hrs|350|1|5P-D|cb1.4|
+4-* Standard Bow             (Bow) 2|2|1+|(STR Min.+2)M|1|3/36hrs|100xSTR Min.|1|5-D|sr3.276|
+4-* Standard Bow (for STR1)  (Bow) 2|2|1+|3M|1|3/36hrs|100|1|5-D|sr3.276|
+4-* Standard Bow (for STR2)  (Bow) 2|2|1+|4M|1|3/36hrs|200|1|5-D|sr3.276|
+4-* Standard Bow (for STR3)  (Bow) 2|2|1+|4M|1|3/36hrs|300|1|5-D|sr3.276|
+4-* Standard Bow (for STR4)  (Bow) 2|2|1+|6M|1|3/36hrs|400|1|5-D|sr3.276|
+4-* Standard Bow (for STR5)  (Bow) 2|2|1+|7M|1|3/36hrs|500|1|5-D|sr3.276|
+4-* Standard Bow (for STR6)  (Bow) 2|2|1+|8M|1|3/36hrs|600|1|5-D|sr3.276|
+4-* Standard Bow (for STR7)  (Bow) 2|2|1+|9M|1|3/36hrs|700|1|5-D|sr3.276|
+4-* Standard Bow (for STR8)  (Bow) 2|2|1+|10M|1|3/36hrs|800|1|5-D|sr3.276|
+4-* Standard Bow (for STR9)  (Bow) 2|2|1+|11M|1|3/36hrs|900|1|5-D|sr3.276|
+4-* Standard Bow (for STR10) (Bow) 2|2|1+|12M|1|3/36hrs|1000|1|5-D|sr3.276|
+4-* Standard Bow (for STR11) (Bow) 2|2|1+|13M|1|3/36hrs|1100|1|5-D|sr3.276|
+4-* Standard Bow (for STR12) (Bow) 2|2|1+|14M|1|3/36hrs|1200|1|5-D|sr3.276|
+4-* Ranger-X Bow (for STR2)  (Bow) 2|2|2+|6M|1.5|5/36hrs|240|2|5P-D|cc.13|
+4-* Ranger-X Bow (for STR3)  (Bow) 2|2|2+|7M|1.5|5/36hrs|360|2|5P-D|cc.13|
+4-* Ranger-X Bow (for STR4)  (Bow) 2|2|2+|8M|1.5|5/36hrs|480|2|5P-D|cc.13|
+4-* Ranger-X Bow (for STR5)  (Bow) 2|2|2+|9M|1.5|5/36hrs|600|2|5P-D|cc.13|
+4-* Ranger-X Bow (for STR6)  (Bow) 2|2|2+|10M|1.5|5/36hrs|720|2|5P-D|cc.13|
+4-* Ranger-X Bow (for STR7)  (Bow) 2|2|2+|11M|1.5|5/36hrs|840|2|5P-D|cc.13|
+4-* Ranger-X Bow (for STR8)  (Bow) 2|2|2+|12M|1.5|5/36hrs|960|2|5P-D|cc.13|
+4-* Ranger-X Bow (for STR9)  (Bow) 2|2|2+|13M|1.5|5/36hrs|1080|2|5P-D|cc.13|
+4-* Ranger-X Bow (for STR10) (Bow) 2|2|2+|14M|1.5|5/36hrs|1200|2|5P-D|cc.13|
+4-* Ranger-X Bow (for STR11) (Bow) 2|2|2+|15M|1.5|5/36hrs|1320|2|5P-D|cc.13|
+4-* Ranger-X Bow (for STR12) (Bow) 2|2|2+|16M|1.5|5/36hrs|1440|2|5P-D|cc.13|
+3-Arrowheads
+4-* Barbed                         2|-1|-|(As bow)|(As arrow)|+1/36hrs|+2|1|10P-D|cc.13|
+4-* Explosive                      2|-1|-|(See Rules)|(As arrow)|+2/1wk|+20|1|8P-D|cc.13|
+4-* EX Explosive                   2|-1|-|(See Rules)|(As arrow)|+4/2wks|+60|2|6P-D|cc.13|
+4-* Hammerhead                     2|-1|-|(See Rules)|(As arrow)|+1/36hrs|+10|1|10P-D|cc.13|
+4-* Incendiary                     2|-1|-|(See Rules)|(As arrow)|+4/2wks|+50|2|6-D|cc.13|
+4-* Screamer                       2|-1|-|(See Rules)|(As arrow)|+1/24hrs|(As arrow)|1|Legal|cc.13|
+3-Crossbows
+4-* Bolts                          2|4|-|(As crossbow)|.05|5/36hrs|5|1|10-D|sr3.276|
+4-* 10 Bolts                       2|4|-|(As crossbow)|.5|5/36hrs|50|1|10-D|sr3.276|
+4-* Pistol Bolts                   2|6|-|(As pistol crossbow)|.04|4/36hrs|3|1|10P-D|cc.13|
+4-* 10 Pistol Bolts                2|6|-|(As pistol crossbow)|.4|4/36hrs|30|1|10P-D|cc.13|
+4-* Eagletech "Arbelest"     (MCB) 2|2|5|7M|3|8/7 days|500|1|6-D|cb1.5|
+4-* Eagletech "Handbow"      (LCB) 2|5|1|3M|.5|2/24hrs|75|1|7-D|cb1.5|
+4-* Eagletech "Scorpion"     (HCB) 2|-|5|8S|5|8/7 days|1500|1|5-D|cb1.5|
+4-* Eagletech "Stryker"      (MCB) 2|2|2|4M|3.25|6/48hrs|440|1|6-D|cb1.5|
+4-* Light Crossbow           (LCB) 2|2|3|6L|2|4/36hrs|300|1|5-D|sr3.276|
+4-* Medium Crossbow          (MCB) 2|2|4|6M|3|5/36hrs|500|1|6-D|sr3.276|
+4-* Nomad Hand Crosbow       (LCB) 2|-|1|3M|.5|10/7 days|100|1|7-D|cb1.5|
+4-* Heavy Crossbow           (HCB) 2|-|5|8S|4|6/36hrs|750|1|6-D|sr3.276|
+4-* Pistol Crossbow          (LCB) 2|5|2|4L|1|3/36hrs|200|1|8P-D|cc.13|
+4-* Repeater Crossbow        (MCB) 2|2|4|6M|4|8/48hrs|800|2|5P-D|cc.13|
+3-Accessories
+4-* Bow Accessory Mount            2|-1|-|-|.1|2/24hrs|100|.9|Legal|cc.13|
+3-Slings
+4-* Sling Launcher            (SL) 2|-|5|Per object|7|1/14hrs|40|1|5-D|cc.13|
+4-* Sling Shot (for 1 STR)    (SH) 2|8|1+|3L Stun|.5|2/12hrs|5|1|8-D|cc.13|
+4-* Sling Shot (for 2 STR)    (SH) 2|8|1+|4L Stun|.5|2/12hrs|10|1|8-D|cc.13|
+4-* Sling Shot (for 3 STR)    (SH) 2|8|1+|5L Stun|.5|2/12hrs|15|1|8-D|cc.13|
+4-* Sling Shot (for 4 STR)    (SH) 2|8|1+|6L Stun|.5|2/12hrs|20|1|8-D|cc.13|
+4-* Sling Shot (for 5 STR)    (SH) 2|8|1+|7L Stun|.5|2/12hrs|25|1|8-D|cc.13|
+4-* Sling Shot (for 6 STR)    (SH) 2|8|1+|8L Stun|.5|2/12hrs|30|1|8-D|cc.13|
+4-* Sling Shot (for 7 STR)    (SH) 2|8|1+|9L Stun|.5|2/12hrs|35|1|8-D|cc.13|
+4-* Sling Shot (for 8 STR)    (SH) 2|8|1+|10L Stun|.5|2/12hrs|40|1|8-D|cc.13|
+4-* Sling Shot (for 9 STR)    (SH) 2|8|1+|11L Stun|.5|2/12hrs|45|1|8-D|cc.13|
+4-* Sling Shot (for 10 STR)   (SH) 2|8|1+|12L Stun|.5|2/12hrs|50|1|8-D|cc.13|
+4-* Sling Shot (for 11 STR)   (SH) 2|8|1+|13L Stun|.5|2/12hrs|55|1|8-D|cc.13|
+4-* Sling Shot (for 12 STR)   (SH) 2|8|1+|14L Stun|.5|2/12hrs|60|1|8-D|cc.13|
+2-Throwing weapons
+3-Non aerodynamic
+4-* Caltrop                 (Ctrp) 2|8|-|(Body)L|.5|3/36hrs|5|1|8-A|cc.14|
+4-* 10 Caltrops             (Ctrp) 2|8|-|(Body)L|5|3/36hrs|50|1|8-A|cc.14|
+4-* Net                      (Net) 2|2|-|None|4|5/48hrs|500|2|Legal|cc.14|
+4-* Throwing Knife            (TK) 2|9|-|(STR)L|.25|2/24hrs|20|1|8-D|sr3.276|
+4-* 10 Throwing Knifes        (TK) 2|9|-|(STR)L|.25|2/24hrs|200|1|8-D|sr3.276|
+3-Aerodynamic
+4-* Cue Ball                  (CB) 2|8|-|(STR)L|.5|Always|5|1|Legal|sr3.XXX|
+4-* Shuriken                  (SH) 2|8|-|(STR)L|.25|2/24hrs|30|2|6-D|sr3.276|
+4-* 10 Shurikens              (SH) 2|8|-|(STR)L|.25|2/24hrs|300|2|6-D|sr3.276|
+4-* Dr. Odd's Shock Spheres        2|10|-|Special|2|6/48hrs|75|1.25|6-D|tss.12|
