@@ -1,0 +1,119 @@
+!0-1|Edged weapon|10|Concealability|Reach|Damage|Weight|Availability|$Cost|Street Index|Book.Page|Legal|Notes|
+1-Weapons
+2-Melee weapons
+3-Edged weapons
+4-* Axe(EDG)                       1|2|1|(STR)S|2.5|2/4hrs|60|1|cb1.2|||
+4-* Ares Monosword(EDG)            1|3|1|(STR+3)M|2|4/24hrs|1000|1|cc.8|||
+4-* Bayonet(EDG)                   1|8|0|(STR)L|.25|2/8hrs|35|.8|cb1.2|||
+4-* Bear-Knife(EDG)                1|3|0|(STR+2)M|1|6/48hrs|2000|1|sr2.???|||
+4-* Black Whistle Butterfly Knife  1|3/4|0|(STR+2)L|.75|7/65ays|350|1.5|tss.2|||
+4-* Bowie Knife(EDG)               1|6|0|(STR+2)L|1|3/24hrs|50|.8|sr2.???|||
+4-* Broadsword(EDG)                1|4|1|(STR+1)M|2|6/48hrs|1000|3|sr2.???|||
+4-* Cane Knife(EDG)                1|2|1|(STR+1)M|1|10/7days|600|2|sr2.???|||
+4-* Cane Sword(EDG)                1|2|1|(STR+1)M|1|10/7days|600|2|sr2.???|||
+4-* Centurion Laser Axe(EDG)       1|2|1|(STR)S|5.2|6/48hrs|3500|.5|sr2.???|||
+4-* Combat Axe(EDG)                1|2|2|(STR)S|2|3/24hrs|750|2|sr3.275|legal|notes here|
+4-* Combat Axe Thrusting Point     1|-|-|(STR+2)L|0|0|0|1|sr3.275|||
+4-* CougarFineBladeKnife-Shrt(EDG) 1|8|-|(STR)M|.5|5/72hrs|800|3|cc.8|||
+4-* CougarFineBladeKnife-Long(EDG) 1|5|-|(STR+1)M|.75|8/72hrs|1500|3|cc.8|||
+4-* Decapitator battleaxe(EDG)     1|-|2|(STR+4)S|11|6/48hrs|2000|3|sr2.???|||
+4-* Forearm Snap Blades(EDG)       1|7|-|(STR)M|1.5|4/48hrs|850|2|sr3.275|||
+4-* Gasher battleaxe(EDG)          1|2|1|(STR)S|2|6/48hrs|1000|3|sr2.???|||
+4-* Gutter dagger(EDG)             1|8|0|(STR)M|.5|6/48hrs|1000|1|sr2.???|||
+4-* IMI Chainknife(EDG)            1|6|0|(STR+5)L|.75|6/48hrs|120|1.2|cb1.3|||
+4-* Katana(EDG)                    1|3|1|(STR+3)M|1|4/48hrs|1000|2|sr3.275|||
+4-* Katar(EDG)                     1|7|-|(STR+3)L|.75|5/72hrs|800|2|cc.8|||
+4-* Kris(EDG)                      1|7|-|(STR)M|.75|8/72hrs|1000|3|cc.8|||
+4-* Kendachi M-33 Powersword(EDG)  1|4|1|(STR+1)S|3|8/14days|1860|3|cb1.36|||
+4-* Kendachi Monokatana(EDG)       1|3|1|(STR+4)M|1|8/5days|1200|2.5|cb1.3|||
+4-* Kendachi Monoknife(EDG)        1|7|-|(STR+1)L|.5|6/60hrs|200|1|cb1.3|||
+4-* Kendachi Mononaginata(EDG)     1|2|1|(STR+2)L|.5|6/60hrs|300|1|sr2.???|||
+4-* Kendachi Monosword Cane(EDG)   1|2/10|-|(STR+1)M|.75|8/72hrs|1020|1|cb1.3|||
+4-* Kendachi Mono-Two Long(EDG)    1|3|1|(STR+3)M|1|5/48hrs|1650|2.1|cb1.36|||
+4-* Kendachi Mono-Two Short(EDG)   1|5|0|(STR+1)M|.75|5/48hrs|1650|2.1|cb1.36|||
+4-* Knife(EDG)                     1|8|-|(STR)L|.5|2/4hrs|30|.75|sr3.275|||
+4-* Laser Cresent Axe(EDG)         1|2|1|(STR)S|5.2|6/48hrs|3500|.5|cc.8|||
+4-* Longsword(EDG)                 1|4|1|(STR+2)M|2|6/48hrs|1000|1|sr2.???|||
+4-* Macauitl(EDG)                  1|3|1|(STR+2)M|1|18/7days|3000|2|cc.8|||
+4-* Mystic Tech. Spring Knife(EDG) 1|8|0|(STR+2)L|.75|4/12hrs|125|1.2|cb1.3|||
+4-* Mystic Tech. Sword(EDG)        1|4|1|(STR+3)M|-|-|-|-|cb1.3|||
+4-* Rapier(EDG)                    1|5|1|(STR+2)M|2|6/48hrs|1000|3|sr2.???|||
+4-* Switchblade(EDG)               1|9|-|(STR-1)L|.1|2/6hrs|25|.75|cb1.2|||
+4-* Scimitar(EDG)                  1|4|1|(STR+2)M|1.5|6/48hrs|1000|3|sr2.???|||
+4-* Shortsword(EDG)                1|5|1|(STR)M|2|6/48hrs|1000|3|sr2.???|||
+4-* Slamdance Inc. Spawnblade(EDG) 1|8|0|(STR)L|.5|4/72hrs|100|1.1|sr2.???|||
+4-* Stiletto(EDG)                  1|10|0|(STR)L|.3|6/48hrs|1000|1|sr2.???|||
+4-* Stiletto(EDG)                  1|14|0|(STR-1)L|.1|2/24hrs|10|.5|sr2.???|||
+4-* Survival Knife(EDG)            1|6|-|(STR+2)L|.75|3/6hrs|450|1|sr3.275|||
+4-* Sword(EDG)                     1|4|1|(STR+2)M|1|3/24hrs|500|1|sr3.275|||
+4-* Tomahawk(EDG)                  1|6|1|(STR)M|.5|4/48hrs|200|1|cc.8|||
+4-* Two-Handed Sword(EDG)          1|2|1|(STR+3)S|5|6/48hrs|3000|3|sr2.???|||
+4-* Utility Sword/Machete(EDG)     1|4|1|(STR+2)M|.75|4/72hrs|60|1|cb1.4|||
+4-* Vibro Knife(EDG)               1|7|-|(STR)M|1|5/72hrs|1000|2|cc.8|||
+4-* Vibro Sword(EDG)               1|3|1|(STR)S|2|5/72hrs|2000|2|cc.8|||
+3-Clubs/Pole Arms/Staffs
+4-* ACB Harmony Telescoping Staff  1|8/-|0/2|(STR+3)M Stun|2|20/60days|14000|3.6|tss.3|||
+4-* AZ-150 Stun Baton(CLB)         1|5|1|8S Stun|1|3/36hrs|1500|2|cc.10|||
+4-* Bo Staff(POL)                  1|2|2|(STR+3)M Stun|2|4/48hrs|50|1|cc.10|||
+4-* Claymore(POL)                  1|-|2|(STR+1)S|6|4/48hrs|1000|2|cc.10|||
+4-* Club(CLB)                      1|5|1|(STR+1)M Stun|1|2/6hrs|10|1|sr3.275|||
+4-* Devil's Star mace(CLB)         1|-|2|(STR)S|10|6/48hrs|1500|3|sr2.???|||
+4-* Excalibur Nightstick Mace(CLB) 1|2|1|(STR)M stun|5|6/48hrs|700|3|cb1.2|||
+4-* Extendable Baton(CLB)          1|9/5|1|(STR+1)M Stun|1|3/24hrs|25|1|cc.10|||
+4-* Harpoon(POL)                   1|2|2|(STR+2)M|4|4/48hrs|500|2|cc.10|||
+4-* Halberd(POL)                   1|2|2|(STR)S|6|6/48hrs|1000|3|sr2.???|||
+4-* Lance(POL)                     1|-|2|(kph/5)M|2|4/12hrs|60|1|sr2.???|||
+4-* Long Spear(POL)                1|2|2|(STR)S|4|6/48hrs|1000|3|sr2.???|||
+4-* Javelin(POL)                   1|3|2|(STR+2)L|2|4/48hrs|100|2|cc.10|||
+4-* Mace(CLB)                      1|4|1|(STR+3)M Stun|2|5/48hrs|150|2|cc.10|||
+4-* Mersch MX-23 Stunlance(POL)    1|2|2|(STR+2)L/9S Stun|3|5/48hrs|2500|1|sr2.???|||
+4-* Mjolnir warhammer(CLB)         1|-|2|(STR+4)D|15|6/48hrs|2000|3|sr2.???|||
+4-* Morning Star(CLB)              1|2|1|(STR+1)M|7|6/48hrs|1000|3|sr2.???|||
+4-* Mystic Tech. Nunchaku(CLB)     1|4|1|(STR+2)M stun|.5|3/8hrs|800|.75|cb1.3|||
+4-* No-Dachi(POL)                  1|-|2|(STR+1)S|5|8/72hrs|3000|3|cc.10|||
+4-* Pipe, Lead (CLB)               1|5|1|(STR+1)M Stun|5|2/6hrs|10|1|sr3.328|||
+4-* Pole Arm(POL)                  1|2|2|(STR+3)S|4|4/48hrs|500|2|sr3.275|||
+4-* Rattan Stick(CLB)              1|5|1|(STR+1)M Stun|.2|2/6hrs|10|1|cc.10|||
+4-* Sai(CLB)                       1|6|-|(STR+2)L Stun|1|4/48hrs|100|2|cc.10|||
+4-* Nunchaku/Tonfa(CLB)            1|7|1|(STR+2)M stun|.5|3/8hrs|40|.75|cb1.2|||
+4-* Nagagita(POL)                  1|2|1|(STR+1)|1.5|4/12hrs|50|1|cb1.2|||
+4-* Sap(CLB)                       1|8|-|(STR+1)M Stun|0|2/6hrs|10|1|sr3.275|||
+4-* Scythe(POL)                    1|-|2|(STR+1)S|7|6/48hrs|1000|3|sr2.???|||
+4-* Skull Crusher warhammer(CLB)   1|2|1|(STR)S|5|6/48hrs|1000|3|sr2.???|||
+4-* Sledgehammer(CLB)              1|1|1|(STR+2)S stun|3|2/4hrs|50|1|cb1.2|||
+4-* Spear(POL)                     1|2|2|(STR+4)L|2|4/48hrs|200|2|cc.10|||
+4-* Spiked Mace(CLB)               1|3|1|(STR+1)M|2|5/48hrs|150|2|cc.10|||
+4-* Staff(POL)                     1|2|2|(STR+2)M Stun|2|3/24hrs|50|1|sr3.275|||
+4-* Stun Baton(CLB)                1|4|1|6S Stun|1|3/36hrs|750|1|sr3.275|||
+4-* Telescoping Staff(POL)         1|5/2|2|(STR+2)M Stun|3|4/48hrs|100|1|cc.10|||
+4-* Tetsubo(CLB)                   1|-|2|(STR+3)S|3|5/24hrs|500|1|sr2.???|||
+3-Whips/Flails
+4-* Bullwhip(WHP)                  1|8|2|(STR)L|1|6/48hrs|100|1|sr2.???|||
+4-* Cat With Nine Tails(WHP)       1|5|2|(STR+2)M|3|6/48hrs|1000|3|sr2.???|||
+4-* Chain(WHP)                     1|10|1|(STR+2)M Stun|5|2/6hrs|10|1|cc.11|||
+4-* Flail(WHP)                     1|3|2|(STR+1)M Stun|.75|4/12hrs|50|1|sr2.???|||
+4-* Flogger whip(WHP)              1|6|2|(STR)M|1|6/48hrs|500|3|sr2.???|||
+4-* Kendachi Monowhip(WHP)         1|9|3|10S|-|26/14 days|3500|3|cb1.3|||
+4-* Kusarigama(WHP)                1|8|2|(STR+1)M|1|6/48hrs|200|2|cc.11|||
+4-* Manriki-gusari(WHP)            1|10|2|(STR+2)L Stun|1|6/48hrs|150|2|cc.11|||
+4-* Monofilament Whip(WHP)         1|10|1|10S|0|24/14days|3000|3|sr3.275|||
+4-* Nomad Smartwhip(WHP)           1|6|2|(STR+3)L Datajack required|1|6/72hrs|600|1|cb1.3|||
+4-* Morning Star(WHP)              1|4|2|(STR+2)M|2|5/48hrs|250|2|cc.11|||
+4-* Nunchaku(WHP)                  1|7|1|(STR+1)M Stun|.75|4/48hrs|100|1|cc.11|||
+4-* Three-section Staff(WHP)       1|4|2|(STR+2)M Stun|2|5/72hrs|200|2|cc.11|||
+4-* Whip(WHP)                      1|5|2|(STR)L|.5|5/24hrs|300|2|sr3.275|||
+3-Other
+4-* Bio-Injector                   1|8|0|5L|-|14/7 days|15000|3|cp.29|||
+4-* Bio-Injector                   1|8|0|5L + drug|.5|10/96hrs|15000|1|sr2.???|||
+4-* Brass Knuckles(UNA)            1|16/4|0|(STR+1)M Stun|.2|2/24hrs|20|.75|sr2.???|||
+4-* Chainsaw(Chainsaw)             1|-|1|(STR+2)S|4|3/6hrs|500|1|cc.11|||
+4-* DinaTech F5C                   1|8|0|(STR/2)L/(STR)L|-|10/14 days|350|3|sr2.???|||
+4-* Drug-A-Thug                    1|6|0|drug|.5|3/8hrs|150|2|sr2.???|||
+4-* Entrenching Tool               1|3|-|(STR)M|.75|3/16hrs|50|1|cb1.2|||
+4-* Fashion Gloves(UNA)            1|-|0|(STR+1)M Stun|.2|4/36hrs|350|1|sr2.???|||
+4-* Hardliner Gloves(UNA)          1|9|-|(STR+1)M Stun|.5|2/24hrs|300|.75|cc.49|||
+4-* IMI "Chainknife"               1|6|0|(STR+5)L|.75|6/48hrs|120|1.2|sr2.???|||
+4-* Kitchen Sink                   1|-|0|((2x STR)-6)S Stun|10|always|100|1|sr2.???|||
+4-* Shock Glove(UNA)               1|9|-|7S Stun|.5|5/48hrs|950|2|sr3.275|||
+4-* SMP-1 Battleglove(UNA)         1|-|-|(STR+3)M|1.5|10/7 days|900|2|cb1.4|||
+4-* Techtronica Black-Zap Glove    1|4|0|9S Stun|1|6/48hrs|1200|2.2|cb1.34|||
